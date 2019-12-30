@@ -1,0 +1,21 @@
+Rk,Squad,MP,W,D,L,GF,GA,GDiff,Pts,xG,xGA,xGDiff,xGDiff/90,Last 5,Attendance,Top Team Scorer,Goalkeeper,Notes,xGA per game,probability no goals allowed
+1,Liverpool,19,18,1,0,47,14,33,55,35.7,17.5,18.2,0.96,W W W W W,53098,Sadio Mané - 10,Alisson,,0.9210526315789473,0.3980997680657807
+2,Leicester City,20,13,3,4,43,19,24,42,32.5,24.2,8.3,0.41,W D L L W,32046,Jamie Vardy - 17,Kasper Schmeichel,,1.21,0.2981972794298874
+3,Manchester City,20,13,2,5,54,23,31,41,48.2,20.1,28.1,1.41,L W W L W,54384,Raheem Sterling - 11,Ederson,,1.0050000000000001,0.36604463480401533
+4,Chelsea,20,11,2,7,35,28,7,35,33.6,20.3,13.3,0.66,L L W L W,40567,Tammy Abraham - 12,Kepa Arrizabalaga,,1.0150000000000001,0.36240242983249027
+5,Manchester Utd,20,8,7,5,32,23,9,31,31.6,18.9,12.7,0.63,W D L W W,72442,Marcus Rashford - 12,David de Gea,,0.945,0.38867957090175304
+6,Tottenham,20,8,6,6,36,29,7,30,25.6,24.2,1.4,0.07,W W L W D,59308,Harry Kane - 11,Paulo Gazzaniga,,1.21,0.2981972794298874
+7,Wolves,20,7,9,4,29,25,4,30,25.5,20.8,4.7,0.23,D L W W L,31287,Raúl Jiménez - 8,Rui Patrício,,1.04,0.35345468195878016
+8,Sheffield Utd,20,7,8,5,23,19,4,29,24.2,21.0,3.2,0.16,W W W D L,30799,Lys Mousset - 5,Dean Henderson,,1.05,0.3499377491111553
+9,Crystal Palace,20,7,6,7,18,22,-4,27,18.6,26.4,-7.7,-0.39,D D L W D,25058,Jordan Ayew - 5,Vicente Guaita,,1.3199999999999998,0.2671353019658504
+10,Everton,20,7,4,9,23,30,-7,25,26.2,25.7,0.5,0.03,W D D W W,39215,Dominic Calvert-Lewin - 8,Jordan Pickford,,1.285,0.2766505836319734
+11,Newcastle Utd,20,7,4,9,20,30,-10,25,16.9,33.4,-16.4,-0.82,W L W L L,46665,Jonjo Shelvey - 5,Martin Dúbravka,,1.67,0.1882470656387468
+12,Arsenal,20,5,9,6,26,30,-4,24,25.9,29.1,-3.2,-0.16,W L D D L,60273,Pierre-Emerick Aubameyang - 13,Bernd Leno,,1.455,0.23340036390115132
+13,Burnley,20,7,3,10,23,32,-9,24,20.5,22.3,-1.8,-0.09,L W W L L,20478,Chris Wood - 7,Nick Pope,,1.115,0.32791527889958855
+14,Brighton,20,6,5,9,24,28,-4,23,23.6,28.6,-5.1,-0.25,D D L L W,30333,Neal Maupay - 7,Mathew Ryan,,1.4300000000000002,0.2393089222437545
+15,Southampton,20,6,4,10,24,38,-14,22,28.0,27.6,0.4,0.02,L L W W D,29513,Danny Ings - 12,Alex McCarthy Angus Gunn,,1.3800000000000001,0.25157855305975646
+16,Bournemouth,20,5,5,10,20,28,-8,20,20.9,29.0,-8.1,-0.41,L W L D L,10531,Harry Wilson - 6,Aaron Ramsdale,,1.45,0.23457028809379765
+17,West Ham,19,5,4,10,21,32,-11,19,21.1,35.1,-14.0,-0.74,L L W L L,59915,Sébastien Haller - 5,Roberto,,1.8473684210526315,0.1576514932581664
+18,Aston Villa,20,5,3,12,25,36,-11,18,23.2,39.7,-16.5,-0.83,L L L W L,41703,Jack Grealish - 5,Tom Heaton,,1.985,0.13738061411695424
+19,Watford,20,3,7,10,15,33,-18,16,24.1,33.3,-9.3,-0.46,D L W D W,20690,Gerard Deulofeu Ismaila Sarr... - 3,Ben Foster,,1.6649999999999998,0.18919065798198206
+20,Norwich City,20,3,4,13,21,40,-19,13,23.3,31.9,-8.6,-0.43,L D L L D,27043,Teemu Pukki - 9,Tim Krul,,1.595,0.20290852850254407
