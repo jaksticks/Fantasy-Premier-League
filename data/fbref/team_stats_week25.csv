@@ -1,0 +1,21 @@
+Rk,Squad,MP,W,D,L,GF,GA,GDiff,Pts,xG,xGA,xGDiff,xGDiff/90,Last 5,Attendance,Top Team Scorer,Goalkeeper,Notes,xGA per game,probability no goals allowed
+1,Liverpool,25,24,1,0,60,15,45,73,49.7,24.6,25.1,1.0,W W W W W,53116,Mohamed Salah - 14,Alisson,,0.9840000000000001,0.37381285294546646
+2,Manchester City,25,16,3,6,65,29,36,51,60.1,23.6,36.5,1.46,W W D W L,54391,Sergio Agüero - 16,Ederson,,0.9440000000000001,0.3890684448772363
+3,Leicester City,25,15,4,6,54,26,28,49,41.7,30.7,11.0,0.44,W L L W D,32056,Jamie Vardy - 17,Kasper Schmeichel,,1.228,0.2928777478112949
+4,Chelsea,25,12,5,8,43,34,9,41,43.4,24.3,19.0,0.76,D W L D D,40553,Tammy Abraham - 13,Kepa Arrizabalaga,,0.972,0.3783256296880768
+5,Tottenham,25,10,7,8,40,32,8,37,32.0,34.3,-2.3,-0.09,L L D W W,59485,Harry Kane - 11,Paulo Gazzaniga,,1.3719999999999999,0.2535992535089739
+6,Sheffield Utd,25,9,9,7,26,23,3,36,29.1,30.1,-1.1,-0.04,L W D L W,30783,John Fleck Lys Mousset - 5,Dean Henderson,,1.204,0.2999918414087205
+7,Manchester Utd,25,9,8,8,36,29,7,35,38.6,24.8,13.8,0.55,L W L L D,72635,Marcus Rashford - 14,David de Gea,,0.992,0.37083428029819565
+8,Wolves,25,8,11,6,35,32,3,35,32.1,25.1,7.0,0.28,L D W L D,31349,Raúl Jiménez - 11,Rui Patrício,,1.004,0.3664108625221595
+9,Everton,25,9,6,10,31,37,-6,33,34.4,31.5,2.9,0.12,L W D D W,39145,Dominic Calvert-Lewin - 10,Jordan Pickford,,1.26,0.2836540264997704
+10,Arsenal,25,6,13,6,32,34,-2,31,31.8,36.1,-4.3,-0.17,W D D D D,60281,Pierre-Emerick Aubameyang - 14,Bernd Leno,,1.444,0.23598194054475852
+11,Burnley,25,9,4,12,28,38,-10,31,27.0,31.5,-4.4,-0.18,L L W W D,20398,Chris Wood - 10,Nick Pope,,1.26,0.2836540264997704
+12,Newcastle Utd,25,8,7,10,24,36,-12,31,20.3,41.3,-21.0,-0.84,L D W D D,47942,Jonjo Shelvey - 5,Martin Dúbravka,,1.652,0.1916661926473913
+13,Southampton,25,9,4,12,31,46,-15,31,34.7,34.4,0.3,0.01,W W L W L,29771,Danny Ings - 14,Alex McCarthy,,1.376,0.2525868825866103
+14,Crystal Palace,25,7,9,9,22,29,-7,30,22.9,33.1,-10.2,-0.41,D D D L L,24997,Jordan Ayew - 6,Vicente Guaita,,1.324,0.26606889499380665
+15,Brighton,25,6,8,11,30,37,-7,26,30.3,35.6,-5.3,-0.21,D L D L D,30370,Neal Maupay - 7,Mathew Ryan,,1.4240000000000002,0.24074909196587682
+16,Bournemouth,25,7,5,13,25,38,-13,26,26.4,37.7,-11.3,-0.45,L L L W W,10498,Harry Wilson - 7,Aaron Ramsdale,,1.508,0.22135224002994683
+17,Aston Villa,25,7,4,14,32,47,-15,25,28.3,48.6,-20.3,-0.81,W L D W L,41643,Jack Grealish - 7,Tom Heaton,,1.944,0.14313028207887982
+18,West Ham,25,6,6,13,30,43,-13,24,28.2,46.2,-18.0,-0.72,L D L L D,59922,Sébastien Haller - 6,Łukasz Fabiański,,1.848,0.15755195533034191
+19,Watford,25,5,8,12,23,39,-16,23,30.9,39.8,-8.9,-0.36,W W D L L,20775,Troy Deeney - 5,Ben Foster,,1.5919999999999999,0.2035181680902036
+20,Norwich City,25,4,6,15,24,47,-23,18,30.6,39.2,-8.6,-0.34,D L W L D,27019,Teemu Pukki - 11,Tim Krul,,1.568,0.20846168908963153
