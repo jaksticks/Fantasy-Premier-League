@@ -1,0 +1,21 @@
+Squad,Rk,MP,W,D,L,GF,GA,GDiff,Pts,xG,xGA,xGDiff,xGDiff/90,Last 5,Attendance,Top Team Scorer,Goalkeeper,Notes,xG per game,xGA per game,probability no goals allowed
+Arsenal,1,1,1,0,0,3,0,3,3,1.8,0.2,1.5,1.54,W,,Gabriel Dos Santos Pierre-Emerick Aubameyang... - 1,Bernd Leno,,1.8,0.2,0.8187307530779818
+Leicester City,2,1,1,0,0,3,0,3,3,2.2,0.5,1.8,1.75,W,,Jamie Vardy - 2,Kasper Schmeichel,,2.2,0.5,0.6065306597126334
+Chelsea,3,1,1,0,0,3,1,2,3,1.2,1.3,-0.2,-0.17,W,,Reece James Jorginho... - 1,Kepa Arrizabalaga,,1.2,1.3,0.2725317930340126
+Wolves,4,1,1,0,0,2,0,2,3,1.1,0.6,0.5,0.47,W,,Romain Saïss Raúl Jiménez - 1,Rui Patrício,,1.1,0.6,0.5488116360940265
+Newcastle Utd,5,1,1,0,0,2,0,2,3,1.2,1.1,0.2,0.18,W,,Jeff Hendrick Callum Wilson - 1,Karl Darlow,,1.2,1.1,0.33287108369807955
+Liverpool,6,1,1,0,0,4,3,1,3,3.3,0.6,2.7,2.74,W,,Mohamed Salah - 3,Alisson,,3.3,0.6,0.5488116360940265
+Everton,7,1,1,0,0,1,0,1,3,1.4,1.0,0.5,0.48,W,,Dominic Calvert-Lewin - 1,Jordan Pickford,,1.4,1.0,0.36787944117144233
+Crystal Palace,8,1,1,0,0,1,0,1,3,0.8,1.1,-0.3,-0.32,W,,Wilfried Zaha - 1,Vicente Guaita,,0.8,1.1,0.33287108369807955
+Aston Villa,9,0,0,0,0,0,0,0,0,,,,,,,,,,,,
+Manchester City,10,0,0,0,0,0,0,0,0,,,,,,,,,,,,
+Manchester Utd,11,0,0,0,0,0,0,0,0,,,,,,,,,,,,
+Burnley,12,0,0,0,0,0,0,0,0,,,,,,,,,,,,
+Leeds United,13,1,0,0,1,3,4,-1,0,0.6,3.3,-2.7,-2.74,L,,Patrick Bamford Mateusz Klich... - 1,Illan Meslier,,0.6,3.3,0.036883167401240015
+Tottenham,14,1,0,0,1,0,1,-1,0,1.0,1.4,-0.5,-0.48,L,,,Hugo Lloris,,1.0,1.4,0.2465969639416065
+Southampton,15,1,0,0,1,0,1,-1,0,1.1,0.8,0.3,0.32,L,,,Alex McCarthy,,1.1,0.8,0.44932896411722156
+Brighton,16,1,0,0,1,1,3,-2,0,1.3,1.2,0.2,0.17,L,,Leandro Trossard - 1,Mathew Ryan,,1.3,1.2,0.30119421191220214
+Sheffield Utd,17,1,0,0,1,0,2,-2,0,0.6,1.1,-0.5,-0.47,L,,,Aaron Ramsdale,,0.6,1.1,0.33287108369807955
+West Ham,18,1,0,0,1,0,2,-2,0,1.1,1.2,-0.2,-0.18,L,,,Łukasz Fabiański,,1.1,1.2,0.30119421191220214
+Fulham,19,1,0,0,1,0,3,-3,0,0.2,1.8,-1.5,-1.54,L,,,Marek Rodák,,0.2,1.8,0.16529888822158653
+West Brom,20,1,0,0,1,0,3,-3,0,0.5,2.2,-1.8,-1.75,L,,,Sam Johnstone,,0.5,2.2,0.11080315836233387
