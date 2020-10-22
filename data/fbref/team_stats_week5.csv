@@ -1,0 +1,21 @@
+Squad,Rk,MP,W,D,L,GF,GA,GDiff,Pts,xG,xGA,xGDiff,xGDiff/90,Last 5,Attendance,Top Team Scorer,Goalkeeper,Notes,xG per game,xGA per game,probability no goals allowed
+Everton,1,5,4,1,0,14,7,7,13,9.9,5.1,4.8,0.95,W W W W D,,Dominic Calvert-Lewin - 7,Jordan Pickford,,1.98,1.02,0.3605949401730783
+Aston Villa,2,4,4,0,0,12,2,10,12,7.2,3.9,3.3,0.83,W W W W,,Jack Grealish Ollie Watkins - 3,Emiliano Martínez,,1.8,0.975,0.37719235356315695
+Liverpool,3,5,3,1,1,13,13,0,10,12.9,8.0,4.9,0.97,W W W L D,,Mohamed Salah - 6,Alisson,,2.58,1.6,0.20189651799465538
+Leicester City,4,5,3,0,2,12,8,4,9,7.1,5.5,1.6,0.31,W W W L L,,Jamie Vardy - 5,Kasper Schmeichel,,1.42,1.1,0.33287108369807955
+Arsenal,5,5,3,0,2,8,6,2,9,5.6,6.7,-1.1,-0.22,W W L W L,,Alexandre Lacazette - 3,Bernd Leno,,1.1199999999999999,1.34,0.261845668580326
+Wolves,6,5,3,0,2,5,7,-2,9,4.4,6.4,-2.0,-0.41,W L L W W,,Raúl Jiménez - 3,Rui Patrício,,0.8800000000000001,1.28,0.27803730045319414
+Tottenham,7,5,2,2,1,15,8,7,8,10.8,7.0,3.8,0.76,L W D W D,,Son Heung-min - 7,Hugo Lloris,,2.16,1.4,0.2465969639416065
+Chelsea,8,5,2,2,1,13,9,4,8,9.0,7.3,1.7,0.33,W L D W D,,Jorginho - 3,Kepa Arrizabalaga,,1.8,1.46,0.23223627472975883
+West Ham,9,5,2,1,2,11,7,4,7,8.3,5.0,3.3,0.66,L L W W D,,Jarrod Bowen - 3,Łukasz Fabiański,,1.6600000000000001,1.0,0.36787944117144233
+Leeds United,10,5,2,1,2,9,9,0,7,7.1,8.7,-1.7,-0.33,L W W D L,,Patrick Bamford - 3,Illan Meslier,,1.42,1.7399999999999998,0.17552040061699692
+Manchester City,11,4,2,1,1,7,7,0,7,5.8,6.1,-0.3,-0.07,W L D W,,Raheem Sterling - 2,Ederson,,1.45,1.525,0.2176210568652329
+Southampton,12,5,2,1,2,8,9,-1,7,6.4,5.8,0.6,0.11,L L W W D,,Danny Ings - 4,Alex McCarthy,,1.28,1.16,0.3134861808826053
+Newcastle Utd,13,5,2,1,2,7,9,-2,7,5.5,8.3,-2.8,-0.55,W L D W L,,Callum Wilson - 4,Karl Darlow,,1.1,1.6600000000000001,0.1901389801015205
+Crystal Palace,14,5,2,1,2,6,8,-2,7,3.5,7.9,-4.4,-0.87,W W L L D,,Wilfried Zaha - 4,Vicente Guaita,,0.7,1.58,0.20597509820488344
+Manchester Utd,15,4,2,0,2,9,12,-3,6,5.8,8.4,-2.6,-0.64,L W L W,,Bruno Fernandes - 3,David de Gea,,1.45,2.1,0.1224564282529819
+Brighton,16,5,1,1,3,9,11,-2,4,8.1,5.3,2.8,0.56,L W L L D,,Neal Maupay - 4,Mathew Ryan,,1.6199999999999999,1.06,0.3464558103300574
+West Brom,17,5,0,2,3,5,13,-8,2,2.8,10.1,-7.3,-1.45,L L D L D,,Callum Robinson - 2,Sam Johnstone,,0.5599999999999999,2.02,0.13265546508012172
+Burnley,18,4,0,1,3,3,8,-5,1,4.1,5.0,-0.9,-0.22,L L L D,,Jimmy Dunne Chris Wood... - 1,Nick Pope,,1.025,1.25,0.2865047968601901
+Sheffield Utd,19,5,0,1,4,2,7,-5,1,4.7,5.9,-1.2,-0.25,L L L L D,,Billy Sharp David McGoldrick - 1,Aaron Ramsdale,,0.9400000000000001,1.1800000000000002,0.3072787386011312
+Fulham,20,5,0,1,4,4,12,-8,1,5.3,7.7,-2.5,-0.49,L L L L D,,Aleksandar Mitrović - 2,Alphonse Areola,,1.06,1.54,0.21438110142697794
