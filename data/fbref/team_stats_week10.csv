@@ -1,0 +1,21 @@
+Squad,Rk,MP,W,D,L,GF,GA,GDiff,Pts,xG,xGA,xGDiff,xGDiff/90,Last 5,Attendance,Top Team Scorer,Goalkeeper,Notes,xG per game,xGA per game,probability no goals allowed
+Tottenham,1,10,6,3,1,21,9,12,21,15.8,11.1,4.8,0.48,W W W W D,,Son Heung-min - 9,Hugo Lloris,,1.58,1.1099999999999999,0.3295589610751891
+Liverpool,2,10,6,3,1,22,17,5,21,22.7,14.9,7.8,0.78,W W D W D,,Mohamed Salah - 8,Alisson,,2.27,1.49,0.22537265553943872
+Chelsea,3,10,5,4,1,22,10,12,19,15.8,9.8,6.0,0.6,D W W W D,,Timo Werner - 4,Edouard Mendy,,1.58,0.9800000000000001,0.3753110988513995
+Leicester City,4,10,6,0,4,19,14,5,18,15.8,13.6,2.3,0.23,W W W L L,,Jamie Vardy - 8,Kasper Schmeichel,,1.58,1.3599999999999999,0.25666077695355594
+West Ham,5,10,5,2,3,17,11,6,17,13.2,12.8,0.5,0.05,D L W W W,,Jarrod Bowen - 4,Łukasz Fabiański,,1.3199999999999998,1.28,0.27803730045319414
+Southampton,6,10,5,2,3,19,16,3,17,10.6,12.7,-2.1,-0.21,W W W D L,,Danny Ings - 5,Alex McCarthy,,1.06,1.27,0.2808316217783798
+Wolves,7,10,5,2,3,11,11,0,17,10.3,11.9,-1.6,-0.16,D W L D W,,Raúl Jiménez - 4,Rui Patrício,,1.03,1.19,0.3042212640667041
+Everton,8,10,5,1,4,19,17,2,16,15.3,14.1,1.2,0.12,L L L W L,,Dominic Calvert-Lewin - 10,Jordan Pickford,,1.53,1.41,0.2441432831534371
+Manchester Utd,9,9,5,1,3,16,16,0,16,13.3,11.2,2.1,0.23,D L W W W,,Bruno Fernandes - 7,David de Gea,,1.4777777777777779,1.2444444444444445,0.2881009197455093
+Aston Villa,10,9,5,0,4,20,13,7,15,15.9,11.5,4.4,0.49,L L W L L,,Ollie Watkins - 6,Emiliano Martínez,,1.7666666666666666,1.2777777777777777,0.2786558481415308
+Manchester City,11,9,4,3,2,15,11,4,15,14.1,9.6,4.5,0.5,D W D L W,,Riyad Mahrez - 4,Ederson,,1.5666666666666667,1.0666666666666667,0.34415378686541237
+Leeds United,12,10,4,2,4,15,17,-2,14,17.8,16.8,1.1,0.11,W L L D W,,Patrick Bamford - 7,Illan Meslier,,1.78,1.6800000000000002,0.18637397603940994
+Newcastle Utd,13,10,4,2,4,12,15,-3,14,11.1,13.9,-2.7,-0.27,D W L L W,,Callum Wilson - 7,Karl Darlow,,1.1099999999999999,1.3900000000000001,0.24907530463166816
+Arsenal,14,10,4,1,5,10,12,-2,13,11.3,13.9,-2.6,-0.26,L W L D L,,Alexandre Lacazette - 3,Bernd Leno,,1.1300000000000001,1.3900000000000001,0.24907530463166816
+Crystal Palace,15,10,4,1,5,12,15,-3,13,10.2,14.2,-4.0,-0.4,W L W L L,,Wilfried Zaha - 5,Vicente Guaita,,1.02,1.42,0.24171401689703645
+Brighton,16,10,2,4,4,14,16,-2,10,13.5,9.9,3.7,0.37,D L D W D,,Neal Maupay - 4,Mathew Ryan,,1.35,0.99,0.3715766910220457
+Fulham,17,10,2,1,7,11,19,-8,7,12.4,14.7,-2.3,-0.23,L W L L W,,Bobby Reid - 3,Alphonse Areola,,1.24,1.47,0.22992548518672384
+West Brom,18,10,1,3,6,7,18,-11,6,6.7,19.1,-12.5,-1.25,D L L L W,,Callum Robinson - 2,Sam Johnstone,,0.67,1.9100000000000001,0.14808038659546244
+Burnley,19,9,1,2,6,4,17,-13,5,7.4,12.6,-5.2,-0.58,L L D W L,,Chris Wood - 2,Nick Pope,,0.8222222222222223,1.4,0.2465969639416065
+Sheffield Utd,20,10,0,1,9,4,16,-12,1,10.7,16.0,-5.3,-0.53,L L L L L,,David McGoldrick - 2,Aaron Ramsdale,,1.0699999999999998,1.6,0.20189651799465538
