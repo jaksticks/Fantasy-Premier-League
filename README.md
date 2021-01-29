@@ -25,7 +25,9 @@ The preseason folder contains notebooks used to evaluate players based on last s
 
 ## Tableau visualization
 
-For a simple, interactive visualization for player evaluation, see https://public.tableau.com/profile/jaakko4317#!/vizhome/FantasyPremierLeague_16075410150400/Sheet1
+For some simple, interactive visualizations for player evaluation, see 
+https://public.tableau.com/profile/jaakko4317#!/vizhome/FantasyPremierLeague_16075410150400/PointsvsValue
+https://public.tableau.com/profile/jaakko4317#!/vizhome/FPL-PlayerPerformanceoverTime/Sheet1?publish=yes
 
 ## License
 
