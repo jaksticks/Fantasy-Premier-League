@@ -9,7 +9,7 @@ The expected goals data is provided by Statsbomb, and it is freely available at 
 The Jupyter notebooks can be found in the notebooks folder. They should be run in the following order: 
 
 1. stats_processing
-2. player_form
+2. form_and_Tableau_viz
 3. expected_future_points
 4. playerEvaluation
 
