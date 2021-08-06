@@ -1,3 +1,2 @@
 notebooks/.ipynb_checkpoints/
-data/.DS_Store
-data/fbref/.DS_Store
+*.DS_Store
