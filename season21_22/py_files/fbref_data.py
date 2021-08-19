@@ -29,3 +29,15 @@ def fetch_player_data():
     players = players.apply(lambda col:pandas.to_numeric(col,errors='ignore'))
     
     return players
+
+def fetch_team_data():
+    
+    url = 'https://fbref.com/en/comps/9/Premier-League-Stats'
+    teamStats_web = pandas.read_html(url)
+    teamStats = teamStats_web[0]
+    # edit column names that have unnamed main headers
+    #new_columns = [('General',col[1]) if 'Unnamed' in col[0] \
+    #               else col for col in teamStats.columns]
+    #teamStats.columns = pandas.MultiIndex.from_tuples(new_columns)
+    
+    return teamStats
