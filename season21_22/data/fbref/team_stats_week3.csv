@@ -1,0 +1,21 @@
+Squad,Rk,MP,W,D,L,GF,GA,GD,Pts,xG,xGA,xGD,xGD/90,Last 5,Attendance,Top Team Scorer,Goalkeeper,Notes,xG per game,xGA per game,probability no goals allowed
+Tottenham,1,3,3,0,0,3,0,3,9,3.7,3.9,-0.2,-0.05,W W W,57967,Son Heung-min - 2,Hugo Lloris,,1.2333333333333334,1.3,0.2725317930340126
+West Ham,2,3,2,1,0,10,5,5,7,6.0,2.9,3.1,1.03,W W D,59901,Michail Antonio - 4,Łukasz Fabiański,,2.0,0.9666666666666667,0.38034875658925854
+Manchester Utd,3,3,2,1,0,7,2,5,7,3.6,3.2,0.3,0.11,W D W,72732,"Mason Greenwood, Bruno Fernandes - 3",David de Gea,,1.2,1.0666666666666667,0.34415378686541237
+Chelsea,4,3,2,1,0,6,1,5,7,4.6,3.3,1.3,0.45,W W D,38965,"Trevoh Chalobah, Reece James... - 1",Edouard Mendy,,1.5333333333333332,1.0999999999999999,0.3328710836980796
+Liverpool,5,3,2,1,0,6,1,5,7,7.6,2.9,4.7,1.56,W W D,52591,"Mohamed Salah, Diogo Jota - 2",Alisson,,2.533333333333333,0.9666666666666667,0.38034875658925854
+Everton,6,3,2,1,0,7,3,4,7,6.1,3.2,2.9,0.97,W D W,38487,Dominic Calvert-Lewin - 3,Jordan Pickford,,2.033333333333333,1.0666666666666667,0.34415378686541237
+Manchester City,7,3,2,0,1,10,1,9,6,8.4,1.5,6.9,2.3,L W W,51857,Ferrán Torres - 2,Ederson,,2.8000000000000003,0.5,0.6065306597126334
+Brighton,8,3,2,0,1,4,3,1,6,3.7,3.5,0.2,0.06,W W L,29485,Neal Maupay - 2,Robert Sánchez,,1.2333333333333334,1.1666666666666667,0.3114032239145977
+Leicester City,9,3,2,0,1,4,5,-1,6,2.8,5.3,-2.4,-0.81,W L W,31983,Jamie Vardy - 2,Kasper Schmeichel,,0.9333333333333332,1.7666666666666666,0.17090171280152483
+Brentford,10,3,1,2,0,3,1,2,5,3.4,2.7,0.7,0.22,W D D,16479,"Christian Nørgaard, Ivan Toney... - 1",David Raya,,1.1333333333333333,0.9,0.4065696597405991
+Aston Villa,11,3,1,1,1,5,4,1,4,2.8,3.1,-0.3,-0.11,L W D,42005,Danny Ings - 2,Emiliano Martínez,,0.9333333333333332,1.0333333333333334,0.3558189185373419
+Watford,12,3,1,0,2,3,5,-2,3,2.6,3.5,-0.9,-0.3,W L L,20051,"Cucho, Emmanuel Dennis... - 1",Daniel Bachmann,,0.8666666666666667,1.1666666666666667,0.3114032239145977
+Southampton,13,3,0,2,1,4,6,-2,2,5.1,5.3,-0.2,-0.07,L D D,32000,"Mohamed Elyounoussi, Adam Armstrong... - 1",Alex McCarthy,,1.7,1.7666666666666666,0.17090171280152483
+Crystal Palace,14,3,0,2,1,2,5,-3,2,1.5,3.0,-1.4,-0.47,L D D,23091,Conor Gallagher - 2,Vicente Guaita,,0.5,1.0,0.36787944117144233
+Leeds United,15,3,0,2,1,4,8,-4,2,3.6,5.0,-1.4,-0.45,L D D,36293,"Raphael Dias Belloli, Luke Ayling... - 1",Illan Meslier,,1.2,1.6666666666666667,0.18887560283756183
+Burnley,16,3,0,1,2,2,5,-3,1,3.3,5.7,-2.4,-0.8,L L D,16910,"Chris Wood, James Tarkowski - 1",Nick Pope,,1.0999999999999999,1.9000000000000001,0.14956861922263504
+Newcastle Utd,17,3,0,1,2,4,8,-4,1,3.6,6.9,-3.3,-1.1,L L D,50673,Callum Wilson - 2,Freddie Woodman,,1.2,2.3000000000000003,0.1002588437228037
+Wolves,18,3,0,0,3,0,3,-3,0,4.3,2.9,1.4,0.46,L L L,30368,,José Sá,,1.4333333333333333,0.9666666666666667,0.38034875658925854
+Norwich City,19,3,0,0,3,1,10,-9,0,3.1,6.0,-2.9,-0.96,L L L,26894,Teemu Pukki - 1,Tim Krul,,1.0333333333333334,2.0,0.1353352832366127
+Arsenal,20,3,0,0,3,0,9,-9,0,1.9,8.0,-6.1,-2.03,L L L,58729,,Bernd Leno,,0.6333333333333333,2.6666666666666665,0.06948345122280154
