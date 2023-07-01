@@ -1,0 +1,1882 @@
+,name,team,opp_team,was_home,gameweek,xP,std
+0,Granit Xhaka,Arsenal,Brighton,1,36,2.8637214,0.10772874
+1,Granit Xhaka,Arsenal,Nottingham Forest,0,37,3.4502392,0.23672567
+2,Granit Xhaka,Arsenal,Wolves,1,38,3.6827435,0.1927708
+3,Mohamed Elneny,Arsenal,Brighton,1,36,2.2715828,0.15538321
+4,Mohamed Elneny,Arsenal,Nottingham Forest,0,37,2.5291643,0.17138222
+5,Mohamed Elneny,Arsenal,Wolves,1,38,2.685431,0.18041453
+6,Rob Holding,Arsenal,Brighton,1,36,2.4321399,0.085213795
+7,Rob Holding,Arsenal,Nottingham Forest,0,37,2.8802707,0.096726365
+8,Rob Holding,Arsenal,Wolves,1,38,3.1052403,0.102127865
+9,Thomas Partey,Arsenal,Brighton,1,36,2.3694139,0.10737745
+10,Thomas Partey,Arsenal,Nottingham Forest,0,37,2.6624916,0.10640008
+11,Thomas Partey,Arsenal,Wolves,1,38,2.8252444,0.13255619
+12,Martin degaard,Arsenal,Brighton,1,36,4.870467,0.7368761
+13,Martin degaard,Arsenal,Nottingham Forest,0,37,5.4395676,0.5443964
+14,Martin degaard,Arsenal,Wolves,1,38,5.795305,0.47892135
+15,Kieran Tierney,Arsenal,Brighton,1,36,2.3963423,0.16345523
+16,Kieran Tierney,Arsenal,Nottingham Forest,0,37,2.8346877,0.17361705
+17,Kieran Tierney,Arsenal,Wolves,1,38,3.0310311,0.18692216
+18,Ben White,Arsenal,Brighton,1,36,3.0010166,0.16369385
+19,Ben White,Arsenal,Nottingham Forest,0,37,3.7507343,0.12596904
+20,Ben White,Arsenal,Wolves,1,38,4.0233974,0.12600787
+21,Eddie Nketiah,Arsenal,Brighton,1,36,2.569322,0.16752484
+22,Eddie Nketiah,Arsenal,Nottingham Forest,0,37,3.1349669,0.11429749
+23,Eddie Nketiah,Arsenal,Wolves,1,38,3.3246322,0.13126284
+24,Emile Smith Rowe,Arsenal,Brighton,1,36,2.3453076,0.2211104
+25,Emile Smith Rowe,Arsenal,Nottingham Forest,0,37,2.7587676,0.20551382
+26,Emile Smith Rowe,Arsenal,Wolves,1,38,2.9361644,0.22877021
+27,Bukayo Saka,Arsenal,Brighton,1,36,5.036212,0.32238752
+28,Bukayo Saka,Arsenal,Nottingham Forest,0,37,5.802863,0.58028793
+29,Bukayo Saka,Arsenal,Wolves,1,38,5.89042,0.43654624
+30,Takehiro Tomiyasu,Arsenal,Brighton,1,36,2.3650355,0.15967052
+31,Takehiro Tomiyasu,Arsenal,Nottingham Forest,0,37,2.794046,0.1612689
+32,Takehiro Tomiyasu,Arsenal,Wolves,1,38,3.0025046,0.1853171
+33,Aaron Ramsdale,Arsenal,Brighton,1,36,3.1445537,0.16502112
+34,Aaron Ramsdale,Arsenal,Nottingham Forest,0,37,3.8452106,0.107222855
+35,Aaron Ramsdale,Arsenal,Wolves,1,38,4.129475,0.14664626
+36,Gabriel Dos Santos,Arsenal,Brighton,1,36,3.3941798,0.07114109
+37,Gabriel Dos Santos,Arsenal,Nottingham Forest,0,37,3.9846816,0.115158714
+38,Gabriel Dos Santos,Arsenal,Wolves,1,38,4.274139,0.11983342
+39,Nuno Tavares,Arsenal,Brighton,1,36,2.513025,0.15165783
+40,Nuno Tavares,Arsenal,Nottingham Forest,0,37,3.0896895,0.11238914
+41,Nuno Tavares,Arsenal,Wolves,1,38,3.313544,0.11418503
+42,Martinelli,Arsenal,Brighton,1,36,4.3242245,0.2685879
+43,Martinelli,Arsenal,Nottingham Forest,0,37,4.982932,0.2620516
+44,Martinelli,Arsenal,Wolves,1,38,5.302392,0.28261915
+45,Reiss Nelson,Arsenal,Brighton,1,36,2.6133075,0.5907442
+46,Reiss Nelson,Arsenal,Nottingham Forest,0,37,3.0288312,0.6451573
+47,Reiss Nelson,Arsenal,Wolves,1,38,3.2292793,0.6534505
+48,William Saliba,Arsenal,Brighton,1,36,3.2959294,0.107152335
+49,William Saliba,Arsenal,Nottingham Forest,0,37,3.9988666,0.11540498
+50,William Saliba,Arsenal,Wolves,1,38,4.298665,0.09205805
+51,Gabriel Jesus,Arsenal,Brighton,1,36,4.235655,0.3667958
+52,Gabriel Jesus,Arsenal,Nottingham Forest,0,37,5.091191,0.20639174
+53,Gabriel Jesus,Arsenal,Wolves,1,38,5.347776,0.32519197
+54,Leandro Trossard,Arsenal,Brighton,1,36,3.1393142,0.23232721
+55,Leandro Trossard,Arsenal,Nottingham Forest,0,37,3.629652,0.14937721
+56,Leandro Trossard,Arsenal,Wolves,1,38,3.8357081,0.15152282
+57,Oleksandr Zinchenko,Arsenal,Brighton,1,36,2.9339905,0.24116243
+58,Oleksandr Zinchenko,Arsenal,Nottingham Forest,0,37,3.6282468,0.15450238
+59,Oleksandr Zinchenko,Arsenal,Wolves,1,38,3.8882146,0.16882595
+60,Ethan Nwaneri,Arsenal,Brighton,1,36,2.595623,0.58073604
+61,Ethan Nwaneri,Arsenal,Nottingham Forest,0,37,2.8761094,0.24305543
+62,Ethan Nwaneri,Arsenal,Wolves,1,38,3.198811,0.5259857
+63,Jakub Kiwior,Arsenal,Brighton,1,36,2.4096465,0.19164163
+64,Jakub Kiwior,Arsenal,Nottingham Forest,0,37,2.8905058,0.19171147
+65,Jakub Kiwior,Arsenal,Wolves,1,38,3.0996063,0.17222111
+66,Philippe Coutinho,Aston Villa,Tottenham,1,36,2.452636,0.14047873
+67,Philippe Coutinho,Aston Villa,Liverpool,0,37,2.117947,0.13730323
+68,Philippe Coutinho,Aston Villa,Brighton,1,38,2.3087556,0.14571989
+69,Emiliano Martinez,Aston Villa,Tottenham,1,36,3.0375993,0.16610947
+70,Emiliano Martinez,Aston Villa,Liverpool,0,37,2.4363492,0.15115051
+71,Emiliano Martinez,Aston Villa,Brighton,1,38,2.7728956,0.15788653
+72,Calum Chambers,Aston Villa,Tottenham,1,36,2.3156476,0.21020336
+73,Calum Chambers,Aston Villa,Liverpool,0,37,1.9296061,0.19439247
+74,Calum Chambers,Aston Villa,Brighton,1,38,2.1759734,0.21901892
+75,Lucas Digne,Aston Villa,Tottenham,1,36,2.441492,0.22396797
+76,Lucas Digne,Aston Villa,Liverpool,0,37,2.0070133,0.21265237
+77,Lucas Digne,Aston Villa,Brighton,1,38,2.281614,0.22505431
+78,Bertrand Traore,Aston Villa,Tottenham,1,36,2.4192126,0.15895103
+79,Bertrand Traore,Aston Villa,Liverpool,0,37,2.0634258,0.15695643
+80,Bertrand Traore,Aston Villa,Brighton,1,38,2.265825,0.16338252
+81,Robin Olsen,Aston Villa,Tottenham,1,36,2.5024514,0.19616815
+82,Robin Olsen,Aston Villa,Liverpool,0,37,2.0854268,0.1763383
+83,Robin Olsen,Aston Villa,Brighton,1,38,2.3694477,0.18237989
+84,Morgan Sanson,Aston Villa,Tottenham,1,36,2.274252,0.18443675
+85,Morgan Sanson,Aston Villa,Liverpool,0,37,1.9440224,0.1857155
+86,Morgan Sanson,Aston Villa,Brighton,1,38,2.1307988,0.18939717
+87,John McGinn,Aston Villa,Tottenham,1,36,2.5461257,0.07587993
+88,John McGinn,Aston Villa,Liverpool,0,37,2.1527443,0.10584642
+89,John McGinn,Aston Villa,Brighton,1,38,2.3831925,0.10287594
+90,Kortney Hause,Aston Villa,Tottenham,1,36,2.5014355,0.13255769
+91,Kortney Hause,Aston Villa,Liverpool,0,37,2.002998,0.15721758
+92,Kortney Hause,Aston Villa,Brighton,1,38,2.325939,0.1517887
+93,Tyrone Mings,Aston Villa,Tottenham,1,36,3.0562415,0.14018613
+94,Tyrone Mings,Aston Villa,Liverpool,0,37,2.4485466,0.19644769
+95,Tyrone Mings,Aston Villa,Brighton,1,38,2.8092647,0.26496205
+96,Ollie Watkins,Aston Villa,Tottenham,1,36,4.0807495,0.29489067
+97,Ollie Watkins,Aston Villa,Liverpool,0,37,3.4959755,0.12865543
+98,Ollie Watkins,Aston Villa,Brighton,1,38,3.7753105,0.18531184
+99,Marvelous Nakamba,Aston Villa,Tottenham,1,36,2.2932982,0.17344867
+100,Marvelous Nakamba,Aston Villa,Liverpool,0,37,1.9360253,0.1770364
+101,Marvelous Nakamba,Aston Villa,Brighton,1,38,2.1438777,0.17889048
+102,Emi Buendia,Aston Villa,Tottenham,1,36,3.116487,0.07230266
+103,Emi Buendia,Aston Villa,Liverpool,0,37,2.6656609,0.10610936
+104,Emi Buendia,Aston Villa,Brighton,1,38,2.8980677,0.123530276
+105,Matty Cash,Aston Villa,Tottenham,1,36,2.5944269,0.121297754
+106,Matty Cash,Aston Villa,Liverpool,0,37,2.1006427,0.13381667
+107,Matty Cash,Aston Villa,Brighton,1,38,2.3759627,0.15983666
+108,Ezri Konsa,Aston Villa,Tottenham,1,36,2.846773,0.13444519
+109,Ezri Konsa,Aston Villa,Liverpool,0,37,2.280244,0.18169342
+110,Ezri Konsa,Aston Villa,Brighton,1,38,2.6066413,0.21929328
+111,Leon Bailey,Aston Villa,Tottenham,1,36,2.640255,0.14824161
+112,Leon Bailey,Aston Villa,Liverpool,0,37,2.2727444,0.11984204
+113,Leon Bailey,Aston Villa,Brighton,1,38,2.4986272,0.16881727
+114,Douglas Luiz,Aston Villa,Tottenham,1,36,2.6330535,0.08785866
+115,Douglas Luiz,Aston Villa,Liverpool,0,37,2.2044673,0.07235081
+116,Douglas Luiz,Aston Villa,Brighton,1,38,2.4611964,0.07374677
+117,Jacob Ramsey,Aston Villa,Tottenham,1,36,2.8805404,0.10193865
+118,Jacob Ramsey,Aston Villa,Liverpool,0,37,2.415916,0.11384908
+119,Jacob Ramsey,Aston Villa,Brighton,1,38,2.666779,0.092886
+120,Tim Iroegbunam,Aston Villa,Tottenham,1,36,2.2838016,0.21848448
+121,Tim Iroegbunam,Aston Villa,Liverpool,0,37,1.9405286,0.21683912
+122,Tim Iroegbunam,Aston Villa,Brighton,1,38,2.1647496,0.21571967
+123,Anwar El Ghazi,Aston Villa,Tottenham,1,36,2.4781978,0.23944034
+124,Anwar El Ghazi,Aston Villa,Liverpool,0,37,2.1679156,0.22054565
+125,Anwar El Ghazi,Aston Villa,Brighton,1,38,2.3352299,0.22097814
+126,Keinan Davis,Aston Villa,Tottenham,1,36,2.3077552,0.21979097
+127,Keinan Davis,Aston Villa,Liverpool,0,37,1.974488,0.20773853
+128,Keinan Davis,Aston Villa,Brighton,1,38,2.1635225,0.21326613
+129,Boubacar Kamara,Aston Villa,Tottenham,1,36,2.3117456,0.14726928
+130,Boubacar Kamara,Aston Villa,Liverpool,0,37,1.9643589,0.16538441
+131,Boubacar Kamara,Aston Villa,Brighton,1,38,2.163177,0.1560143
+132,Cameron Archer,Aston Villa,Tottenham,1,36,2.2788644,0.19497176
+133,Cameron Archer,Aston Villa,Liverpool,0,37,1.9364477,0.18452176
+134,Cameron Archer,Aston Villa,Brighton,1,38,2.1596735,0.17869674
+135,Leander Dendoncker,Aston Villa,Tottenham,1,36,2.345205,0.109840006
+136,Leander Dendoncker,Aston Villa,Liverpool,0,37,1.9975876,0.12752438
+137,Leander Dendoncker,Aston Villa,Brighton,1,38,2.2302902,0.13299687
+138,Ludwig Augustinsson,Aston Villa,Tottenham,1,36,2.7888167,1.3042105
+139,Ludwig Augustinsson,Aston Villa,Liverpool,0,37,2.3049273,0.9654963
+140,Ludwig Augustinsson,Aston Villa,Brighton,1,38,2.6401267,1.2873343
+141,Ashley Young,Aston Villa,Tottenham,1,36,2.5354428,0.12155521
+142,Ashley Young,Aston Villa,Liverpool,0,37,2.0736883,0.1362242
+143,Ashley Young,Aston Villa,Brighton,1,38,2.3343906,0.16966376
+144,Jhon Duran,Aston Villa,Tottenham,1,36,2.9122643,1.2867417
+145,Jhon Duran,Aston Villa,Liverpool,0,37,2.4873793,0.96264154
+146,Jhon Duran,Aston Villa,Brighton,1,38,2.7656035,1.271525
+147,Adam Smith,Bournemouth,Crystal Palace,0,36,2.6068895,0.12382645
+148,Adam Smith,Bournemouth,Manchester Utd,1,37,2.3842998,0.122211896
+149,Adam Smith,Bournemouth,Everton,0,38,2.6332374,0.1334833
+150,Junior Stanislas,Bournemouth,Crystal Palace,0,36,2.926802,1.0391634
+151,Junior Stanislas,Bournemouth,Manchester Utd,1,37,2.7897549,1.3032465
+152,Junior Stanislas,Bournemouth,Everton,0,38,2.9333527,1.185551
+153,Ryan Fredericks,Bournemouth,Crystal Palace,0,36,2.5566285,0.19169386
+154,Ryan Fredericks,Bournemouth,Manchester Utd,1,37,2.5696526,0.6467756
+155,Ryan Fredericks,Bournemouth,Everton,0,38,2.5469065,0.04557956
+156,David Brooks,Bournemouth,Crystal Palace,0,36,3.0309885,1.1373341
+157,David Brooks,Bournemouth,Manchester Utd,1,37,2.9130769,1.3925604
+158,David Brooks,Bournemouth,Everton,0,38,3.0430098,1.2736579
+159,Jamal Lowe,Bournemouth,Crystal Palace,0,36,2.710582,0.7904304
+160,Jamal Lowe,Bournemouth,Manchester Utd,1,37,2.6574864,1.0573702
+161,Jamal Lowe,Bournemouth,Everton,0,38,2.7501998,0.9458452
+162,Kieffer Moore,Bournemouth,Crystal Palace,0,36,2.6180048,0.12814452
+163,Kieffer Moore,Bournemouth,Manchester Utd,1,37,2.3825984,0.15282795
+164,Kieffer Moore,Bournemouth,Everton,0,38,2.6039636,0.08792249
+165,Emiliano Marcondes,Bournemouth,Crystal Palace,0,36,2.7066038,0.79016376
+166,Emiliano Marcondes,Bournemouth,Manchester Utd,1,37,2.6535087,1.0579693
+167,Emiliano Marcondes,Bournemouth,Everton,0,38,2.7462215,0.94620305
+168,Jefferson Lerma,Bournemouth,Crystal Palace,0,36,2.6786046,0.15106228
+169,Jefferson Lerma,Bournemouth,Manchester Utd,1,37,2.5331705,0.110410064
+170,Jefferson Lerma,Bournemouth,Everton,0,38,2.7388923,0.22541325
+171,Jack Stacey,Bournemouth,Crystal Palace,0,36,2.5542493,0.19304384
+172,Jack Stacey,Bournemouth,Manchester Utd,1,37,2.5832143,0.61888707
+173,Jack Stacey,Bournemouth,Everton,0,38,2.532294,0.11210839
+174,Dominic Solanke,Bournemouth,Crystal Palace,0,36,3.7655613,0.1524096
+175,Dominic Solanke,Bournemouth,Manchester Utd,1,37,3.5736039,0.18546008
+176,Dominic Solanke,Bournemouth,Everton,0,38,3.9118423,0.27973473
+177,Lewis Cook,Bournemouth,Crystal Palace,0,36,2.3987603,0.16028136
+178,Lewis Cook,Bournemouth,Manchester Utd,1,37,2.2880723,0.18270205
+179,Lewis Cook,Bournemouth,Everton,0,38,2.4387639,0.07535253
+180,Ben Pearson,Bournemouth,Crystal Palace,0,36,2.3838205,0.16771705
+181,Ben Pearson,Bournemouth,Manchester Utd,1,37,2.273267,0.1747685
+182,Ben Pearson,Bournemouth,Everton,0,38,2.4164073,0.08569363
+183,Ryan Christie,Bournemouth,Crystal Palace,0,36,2.8099904,0.1283805
+184,Ryan Christie,Bournemouth,Manchester Utd,1,37,2.5737045,0.12928408
+185,Ryan Christie,Bournemouth,Everton,0,38,2.8209658,0.22173612
+186,Philip Billing,Bournemouth,Crystal Palace,0,36,3.1281052,0.18092717
+187,Philip Billing,Bournemouth,Manchester Utd,1,37,2.8947783,0.10892463
+188,Philip Billing,Bournemouth,Everton,0,38,3.1768088,0.24165028
+189,Chris Mepham,Bournemouth,Crystal Palace,0,36,2.6510372,0.070971884
+190,Chris Mepham,Bournemouth,Manchester Utd,1,37,2.451411,0.11415352
+191,Chris Mepham,Bournemouth,Everton,0,38,2.6545937,0.106485195
+192,Mark Travers,Bournemouth,Crystal Palace,0,36,2.9067783,0.14773276
+193,Mark Travers,Bournemouth,Manchester Utd,1,37,2.577251,0.15833525
+194,Mark Travers,Bournemouth,Everton,0,38,2.8443866,0.08319509
+195,Lloyd Kelly,Bournemouth,Crystal Palace,0,36,2.7283475,0.102844246
+196,Lloyd Kelly,Bournemouth,Manchester Utd,1,37,2.4958985,0.11193741
+197,Lloyd Kelly,Bournemouth,Everton,0,38,2.7549298,0.16938713
+198,Siriki Dembele,Bournemouth,Crystal Palace,0,36,2.555872,0.17571905
+199,Siriki Dembele,Bournemouth,Manchester Utd,1,37,2.357222,0.19230524
+200,Siriki Dembele,Bournemouth,Everton,0,38,2.5923362,0.12319825
+201,Jaidon Anthony,Bournemouth,Crystal Palace,0,36,2.5795767,0.18459259
+202,Jaidon Anthony,Bournemouth,Manchester Utd,1,37,2.3508391,0.20435889
+203,Jaidon Anthony,Bournemouth,Everton,0,38,2.5670066,0.05704593
+204,Jordan Zemura,Bournemouth,Crystal Palace,0,36,2.7274978,0.10471108
+205,Jordan Zemura,Bournemouth,Manchester Utd,1,37,2.503944,0.111592166
+206,Jordan Zemura,Bournemouth,Everton,0,38,2.7488217,0.1667701
+207,Jack Stephens,Bournemouth,Crystal Palace,0,36,2.6539068,0.08998456
+208,Jack Stephens,Bournemouth,Manchester Utd,1,37,2.4309068,0.10852062
+209,Jack Stephens,Bournemouth,Everton,0,38,2.6567867,0.081322
+210,Joe Rothwell,Bournemouth,Crystal Palace,0,36,2.6700518,0.6259804
+211,Joe Rothwell,Bournemouth,Manchester Utd,1,37,2.668438,0.8752056
+212,Joe Rothwell,Bournemouth,Everton,0,38,2.77974,0.8849928
+213,Marcus Tavernier,Bournemouth,Crystal Palace,0,36,3.6227288,0.18322814
+214,Marcus Tavernier,Bournemouth,Manchester Utd,1,37,3.3587787,0.15609434
+215,Marcus Tavernier,Bournemouth,Everton,0,38,3.6171966,0.21953185
+216,Darren Randolph,Bournemouth,Crystal Palace,0,36,3.3860836,0.2391986
+217,Darren Randolph,Bournemouth,Manchester Utd,1,37,2.9177096,0.09879839
+218,Darren Randolph,Bournemouth,Everton,0,38,3.2056084,0.15071364
+219,Marcos Senesi,Bournemouth,Crystal Palace,0,36,2.6634724,0.08756183
+220,Marcos Senesi,Bournemouth,Manchester Utd,1,37,2.4325862,0.11011444
+221,Marcos Senesi,Bournemouth,Everton,0,38,2.6620183,0.08251913
+222,Owen Bevan,Bournemouth,Crystal Palace,0,36,2.521472,0.20184264
+223,Owen Bevan,Bournemouth,Manchester Utd,1,37,2.5432935,0.59903264
+224,Owen Bevan,Bournemouth,Everton,0,38,2.4971952,0.089307524
+225,Dango Ouattara,Bournemouth,Crystal Palace,0,36,3.610868,0.756798
+226,Dango Ouattara,Bournemouth,Manchester Utd,1,37,3.353335,1.0022438
+227,Dango Ouattara,Bournemouth,Everton,0,38,3.6150901,0.93847454
+228,Antoine Semenyo,Bournemouth,Crystal Palace,0,36,2.5919852,0.20485403
+229,Antoine Semenyo,Bournemouth,Manchester Utd,1,37,2.61741,0.62522715
+230,Antoine Semenyo,Bournemouth,Everton,0,38,2.578023,0.12794259
+231,Matias Vina,Bournemouth,Crystal Palace,0,36,2.826614,0.15766245
+232,Matias Vina,Bournemouth,Manchester Utd,1,37,2.6278205,0.17872046
+233,Matias Vina,Bournemouth,Everton,0,38,2.9507241,0.46536878
+234,Illia Zabarnyi,Bournemouth,Crystal Palace,0,36,2.6397285,0.2632185
+235,Illia Zabarnyi,Bournemouth,Manchester Utd,1,37,2.6687999,0.6331162
+236,Illia Zabarnyi,Bournemouth,Everton,0,38,2.626205,0.1702284
+237,Pontus Jansson,Brentford,West Ham,1,36,2.7481475,0.0993464
+238,Pontus Jansson,Brentford,Tottenham,0,37,2.368969,0.11444095
+239,Pontus Jansson,Brentford,Manchester City,1,38,1.9609601,0.11300845
+240,Christian Nrgaard,Brentford,West Ham,1,36,2.6614337,0.10625501
+241,Christian Nrgaard,Brentford,Tottenham,0,37,2.303836,0.10163899
+242,Christian Nrgaard,Brentford,Manchester City,1,38,2.08337,0.08411848
+243,Ivan Toney,Brentford,West Ham,1,36,5.237684,0.2631435
+244,Ivan Toney,Brentford,Tottenham,0,37,4.6634455,0.29085538
+245,Ivan Toney,Brentford,Manchester City,1,38,3.7797787,0.24778767
+246,David Raya,Brentford,West Ham,1,36,3.6299846,0.12611909
+247,David Raya,Brentford,Tottenham,0,37,3.1504657,0.15574339
+248,David Raya,Brentford,Manchester City,1,38,2.5805788,0.15766811
+249,Josh Dasilva,Brentford,West Ham,1,36,2.5311944,0.0903966
+250,Josh Dasilva,Brentford,Tottenham,0,37,2.233085,0.11463753
+251,Josh Dasilva,Brentford,Manchester City,1,38,2.0187597,0.08612
+252,Kristoffer Ajer,Brentford,West Ham,1,36,3.0255902,0.11071247
+253,Kristoffer Ajer,Brentford,Tottenham,0,37,2.6178093,0.11119125
+254,Kristoffer Ajer,Brentford,Manchester City,1,38,2.069779,0.12740177
+255,Rico Henry,Brentford,West Ham,1,36,2.7832057,0.08154517
+256,Rico Henry,Brentford,Tottenham,0,37,2.404628,0.089974776
+257,Rico Henry,Brentford,Manchester City,1,38,2.0079968,0.10685604
+258,Vitaly Janelt,Brentford,West Ham,1,36,2.4893255,0.08479003
+259,Vitaly Janelt,Brentford,Tottenham,0,37,2.1863792,0.104723364
+260,Vitaly Janelt,Brentford,Manchester City,1,38,2.0041118,0.10589396
+261,Saman Ghoddos,Brentford,West Ham,1,36,2.6782157,0.5973756
+262,Saman Ghoddos,Brentford,Tottenham,0,37,2.2309756,0.28188178
+263,Saman Ghoddos,Brentford,Manchester City,1,38,2.268395,0.5849513
+264,Mathias Jensen,Brentford,West Ham,1,36,2.9021952,0.12211305
+265,Mathias Jensen,Brentford,Tottenham,0,37,2.5189404,0.08453633
+266,Mathias Jensen,Brentford,Manchester City,1,38,2.3000402,0.11281642
+267,Yoane Wissa,Brentford,West Ham,1,36,2.5382745,0.15740158
+268,Yoane Wissa,Brentford,Tottenham,0,37,2.236609,0.18516462
+269,Yoane Wissa,Brentford,Manchester City,1,38,1.9896572,0.15346049
+270,Mads Bech Srensen,Brentford,West Ham,1,36,2.9187856,1.3801979
+271,Mads Bech Srensen,Brentford,Tottenham,0,37,2.5235012,1.0124425
+272,Mads Bech Srensen,Brentford,Manchester City,1,38,2.3141265,1.3633672
+273,Ethan Pinnock,Brentford,West Ham,1,36,3.0623264,0.14824428
+274,Ethan Pinnock,Brentford,Tottenham,0,37,2.6104293,0.13810404
+275,Ethan Pinnock,Brentford,Manchester City,1,38,2.077742,0.11203626
+276,Frank Onyeka,Brentford,West Ham,1,36,2.6755018,0.5657967
+277,Frank Onyeka,Brentford,Tottenham,0,37,2.2188072,0.19744995
+278,Frank Onyeka,Brentford,Manchester City,1,38,2.2075593,0.57073385
+279,Shandon Baptiste,Brentford,West Ham,1,36,2.4361386,0.13268642
+280,Shandon Baptiste,Brentford,Tottenham,0,37,2.1523612,0.14563435
+281,Shandon Baptiste,Brentford,Manchester City,1,38,1.9558678,0.1565152
+282,Bryan Mbeumo,Brentford,West Ham,1,36,3.5165162,0.14382608
+283,Bryan Mbeumo,Brentford,Tottenham,0,37,3.105824,0.042411413
+284,Bryan Mbeumo,Brentford,Manchester City,1,38,2.7613251,0.099387534
+285,Charlie Goode,Brentford,West Ham,1,36,2.6634934,0.0785301
+286,Charlie Goode,Brentford,Tottenham,0,37,2.3205209,0.07953675
+287,Charlie Goode,Brentford,Manchester City,1,38,2.0120955,0.13283814
+288,Marcus Forss,Brentford,West Ham,1,36,2.4890103,0.17170757
+289,Marcus Forss,Brentford,Tottenham,0,37,2.1936502,0.20281722
+290,Marcus Forss,Brentford,Manchester City,1,38,1.9422905,0.1694918
+291,Dominic Thompson,Brentford,West Ham,1,36,2.991543,0.1133664
+292,Dominic Thompson,Brentford,Tottenham,0,37,2.5896995,0.13345562
+293,Dominic Thompson,Brentford,Manchester City,1,38,2.0570207,0.10749614
+294,Mads Bidstrup,Brentford,West Ham,1,36,2.4333148,0.15061721
+295,Mads Bidstrup,Brentford,Tottenham,0,37,2.1412144,0.19253382
+296,Mads Bidstrup,Brentford,Manchester City,1,38,1.9107891,0.17580338
+297,Aaron Hickey,Brentford,West Ham,1,36,2.6543064,0.08820007
+298,Aaron Hickey,Brentford,Tottenham,0,37,2.2985482,0.087927066
+299,Aaron Hickey,Brentford,Manchester City,1,38,1.9608427,0.12505028
+300,Keane Lewis-Potter,Brentford,West Ham,1,36,2.971494,1.3759328
+301,Keane Lewis-Potter,Brentford,Tottenham,0,37,2.5888047,1.0134654
+302,Keane Lewis-Potter,Brentford,Manchester City,1,38,2.4336169,1.3256719
+303,Ben Mee,Brentford,West Ham,1,36,3.099268,0.13055462
+304,Ben Mee,Brentford,Tottenham,0,37,2.6519985,0.12682185
+305,Ben Mee,Brentford,Manchester City,1,38,2.12248,0.12730648
+306,Halil Dervisoglu,Brentford,West Ham,1,36,2.6279664,0.3091665
+307,Halil Dervisoglu,Brentford,Tottenham,0,37,2.38547,0.26262128
+308,Halil Dervisoglu,Brentford,Manchester City,1,38,2.0557377,0.26657334
+309,Mikkel Damsgaard,Brentford,West Ham,1,36,2.5506067,0.12164998
+310,Mikkel Damsgaard,Brentford,Tottenham,0,37,2.2488244,0.1516971
+311,Mikkel Damsgaard,Brentford,Manchester City,1,38,2.0020797,0.109001935
+312,Kevin Schade,Brentford,West Ham,1,36,2.9145017,0.9491485
+313,Kevin Schade,Brentford,Tottenham,0,37,2.5125356,0.5986712
+314,Kevin Schade,Brentford,Manchester City,1,38,2.3591905,0.9018613
+315,Adam Lallana,Brighton,Arsenal,0,36,2.2389393,0.07804686
+316,Adam Lallana,Brighton,Newcastle Utd,0,36,2.240655,0.09819455
+317,Adam Lallana,Brighton,Southampton,1,37,2.899138,0.14357184
+318,Adam Lallana,Brighton,Manchester City,1,37,2.125341,0.102369785
+319,Adam Lallana,Brighton,Aston Villa,0,38,2.4141362,0.1093766
+320,Jason Steele,Brighton,Arsenal,0,36,2.6202595,0.29221398
+321,Jason Steele,Brighton,Newcastle Utd,0,36,2.6062584,0.33022594
+322,Jason Steele,Brighton,Southampton,1,37,3.759887,0.30795035
+323,Jason Steele,Brighton,Manchester City,1,37,2.3312247,0.18523316
+324,Jason Steele,Brighton,Aston Villa,0,38,3.0184324,0.26941183
+325,Danny Welbeck,Brighton,Arsenal,0,36,2.7652662,0.22543634
+326,Danny Welbeck,Brighton,Newcastle Utd,0,36,2.7193131,0.18729076
+327,Danny Welbeck,Brighton,Southampton,1,37,3.5989845,0.24307634
+328,Danny Welbeck,Brighton,Manchester City,1,37,2.5234509,0.14753236
+329,Danny Welbeck,Brighton,Aston Villa,0,38,3.1101682,0.16527508
+330,Pascal Gro,Brighton,Arsenal,0,36,3.4371161,0.540022
+331,Pascal Gro,Brighton,Newcastle Utd,0,36,3.452003,0.6884095
+332,Pascal Gro,Brighton,Southampton,1,37,4.5801153,0.24851203
+333,Pascal Gro,Brighton,Manchester City,1,37,3.16564,0.2529547
+334,Pascal Gro,Brighton,Aston Villa,0,38,3.6728218,0.120626554
+335,Lewis Dunk,Brighton,Arsenal,0,36,2.610799,0.20150657
+336,Lewis Dunk,Brighton,Newcastle Utd,0,36,2.6014466,0.20728037
+337,Lewis Dunk,Brighton,Southampton,1,37,3.7905812,0.20089187
+338,Lewis Dunk,Brighton,Manchester City,1,37,2.299728,0.24650443
+339,Lewis Dunk,Brighton,Aston Villa,0,38,3.0305839,0.16324168
+340,Solly March,Brighton,Arsenal,0,36,4.513667,0.5484078
+341,Solly March,Brighton,Newcastle Utd,0,36,4.3675947,0.5646606
+342,Solly March,Brighton,Southampton,1,37,5.8970966,0.44559506
+343,Solly March,Brighton,Manchester City,1,37,4.2341866,0.41796324
+344,Solly March,Brighton,Aston Villa,0,38,4.8430824,0.302472
+345,Adam Webster,Brighton,Arsenal,0,36,2.363296,0.0973841
+346,Adam Webster,Brighton,Newcastle Utd,0,36,2.3502629,0.11703537
+347,Adam Webster,Brighton,Southampton,1,37,3.4252446,0.1624505
+348,Adam Webster,Brighton,Manchester City,1,37,2.129732,0.16025083
+349,Adam Webster,Brighton,Aston Villa,0,38,2.77097,0.082770325
+350,Joel Veltman,Brighton,Arsenal,0,36,2.5143204,0.20013523
+351,Joel Veltman,Brighton,Newcastle Utd,0,36,2.5195098,0.18487392
+352,Joel Veltman,Brighton,Southampton,1,37,3.6598396,0.1827027
+353,Joel Veltman,Brighton,Manchester City,1,37,2.1874,0.09723332
+354,Joel Veltman,Brighton,Aston Villa,0,38,2.9208717,0.17067696
+355,Robert Sanchez,Brighton,Arsenal,0,36,2.6108313,0.20342273
+356,Robert Sanchez,Brighton,Newcastle Utd,0,36,2.6044822,0.1979052
+357,Robert Sanchez,Brighton,Southampton,1,37,3.735354,0.19936612
+358,Robert Sanchez,Brighton,Manchester City,1,37,2.2942472,0.14123507
+359,Robert Sanchez,Brighton,Aston Villa,0,38,3.0151353,0.16742775
+360,Tariq Lamptey,Brighton,Arsenal,0,36,2.200606,0.10830223
+361,Tariq Lamptey,Brighton,Newcastle Utd,0,36,2.1866655,0.10622531
+362,Tariq Lamptey,Brighton,Southampton,1,37,2.9367466,0.10493333
+363,Tariq Lamptey,Brighton,Manchester City,1,37,2.0043826,0.1445631
+364,Tariq Lamptey,Brighton,Aston Villa,0,38,2.405152,0.13260567
+365,Steven Alzate,Brighton,Arsenal,0,36,2.1275432,0.116568945
+366,Steven Alzate,Brighton,Newcastle Utd,0,36,2.1292167,0.10532426
+367,Steven Alzate,Brighton,Southampton,1,37,2.7473881,0.106014445
+368,Steven Alzate,Brighton,Manchester City,1,37,2.0598068,0.09977728
+369,Steven Alzate,Brighton,Aston Villa,0,38,2.312124,0.105883725
+370,Alexis Mac Allister,Brighton,Arsenal,0,36,3.4120598,0.4205074
+371,Alexis Mac Allister,Brighton,Newcastle Utd,0,36,3.3349042,0.38707766
+372,Alexis Mac Allister,Brighton,Southampton,1,37,4.5044184,0.41387624
+373,Alexis Mac Allister,Brighton,Manchester City,1,37,3.1835873,0.4015041
+374,Alexis Mac Allister,Brighton,Aston Villa,0,38,3.8352485,0.41926327
+375,Jakub Moder,Brighton,Arsenal,0,36,2.1912987,0.1095542
+376,Jakub Moder,Brighton,Newcastle Utd,0,36,2.18619,0.121004246
+377,Jakub Moder,Brighton,Southampton,1,37,2.8042762,0.101356
+378,Jakub Moder,Brighton,Manchester City,1,37,2.119435,0.12677522
+379,Jakub Moder,Brighton,Aston Villa,0,38,2.3706033,0.099656835
+380,Enock Mwepu,Brighton,Arsenal,0,36,2.2578974,0.07794117
+381,Enock Mwepu,Brighton,Newcastle Utd,0,36,2.259489,0.09309883
+382,Enock Mwepu,Brighton,Southampton,1,37,2.9047499,0.13416073
+383,Enock Mwepu,Brighton,Manchester City,1,37,2.1258159,0.109454714
+384,Enock Mwepu,Brighton,Aston Villa,0,38,2.4195209,0.13388893
+385,Moises Caicedo,Brighton,Arsenal,0,36,2.3173184,0.08116031
+386,Moises Caicedo,Brighton,Newcastle Utd,0,36,2.3125892,0.12448473
+387,Moises Caicedo,Brighton,Southampton,1,37,2.9851613,0.14695974
+388,Moises Caicedo,Brighton,Manchester City,1,37,2.282621,0.11944192
+389,Moises Caicedo,Brighton,Aston Villa,0,38,2.5037344,0.08330232
+390,Taylor Richards,Brighton,Arsenal,0,36,2.1509957,0.14413986
+391,Taylor Richards,Brighton,Newcastle Utd,0,36,2.135112,0.13308066
+392,Taylor Richards,Brighton,Southampton,1,37,2.7925737,0.09230936
+393,Taylor Richards,Brighton,Manchester City,1,37,2.0084004,0.13536036
+394,Taylor Richards,Brighton,Aston Villa,0,38,2.3150268,0.15195051
+395,Deniz Undav,Brighton,Arsenal,0,36,2.2301908,0.12436827
+396,Deniz Undav,Brighton,Newcastle Utd,0,36,2.2154927,0.11575991
+397,Deniz Undav,Brighton,Southampton,1,37,2.8792357,0.112244554
+398,Deniz Undav,Brighton,Manchester City,1,37,2.047332,0.1424635
+399,Deniz Undav,Brighton,Aston Villa,0,38,2.4040751,0.15054378
+400,Kaoru Mitoma,Brighton,Arsenal,0,36,3.6227264,0.32498598
+401,Kaoru Mitoma,Brighton,Newcastle Utd,0,36,3.565897,0.29864708
+402,Kaoru Mitoma,Brighton,Southampton,1,37,4.8650465,0.27427492
+403,Kaoru Mitoma,Brighton,Manchester City,1,37,3.266787,0.20414338
+404,Kaoru Mitoma,Brighton,Aston Villa,0,38,4.039645,0.20499828
+405,Billy Gilmour,Brighton,Arsenal,0,36,2.153445,0.14375564
+406,Billy Gilmour,Brighton,Newcastle Utd,0,36,2.1467514,0.16145541
+407,Billy Gilmour,Brighton,Southampton,1,37,2.7096457,0.07740576
+408,Billy Gilmour,Brighton,Manchester City,1,37,2.0391345,0.075791724
+409,Billy Gilmour,Brighton,Aston Villa,0,38,2.2948632,0.10194942
+410,Jan Paul van Hecke,Brighton,Arsenal,0,36,2.2726312,0.100072235
+411,Jan Paul van Hecke,Brighton,Newcastle Utd,0,36,2.2520335,0.11473419
+412,Jan Paul van Hecke,Brighton,Southampton,1,37,3.1962657,0.12774368
+413,Jan Paul van Hecke,Brighton,Manchester City,1,37,2.0317724,0.19768794
+414,Jan Paul van Hecke,Brighton,Aston Villa,0,38,2.569423,0.10014064
+415,Levi Colwill,Brighton,Arsenal,0,36,2.3881888,0.12191108
+416,Levi Colwill,Brighton,Newcastle Utd,0,36,2.3845556,0.11198333
+417,Levi Colwill,Brighton,Southampton,1,37,3.3778145,0.13834344
+418,Levi Colwill,Brighton,Manchester City,1,37,2.1783948,0.13635895
+419,Levi Colwill,Brighton,Aston Villa,0,38,2.7302978,0.06803332
+420,Pervis Estupinan,Brighton,Arsenal,0,36,2.6577709,0.18566506
+421,Pervis Estupinan,Brighton,Newcastle Utd,0,36,2.6676288,0.1746896
+422,Pervis Estupinan,Brighton,Southampton,1,37,3.8448715,0.20196697
+423,Pervis Estupinan,Brighton,Manchester City,1,37,2.3547595,0.12559721
+424,Pervis Estupinan,Brighton,Aston Villa,0,38,3.0710168,0.14032501
+425,Evan Ferguson,Brighton,Arsenal,0,36,2.5736623,0.1030653
+426,Evan Ferguson,Brighton,Newcastle Utd,0,36,2.571617,0.10541049
+427,Evan Ferguson,Brighton,Southampton,1,37,3.2477608,0.2304583
+428,Evan Ferguson,Brighton,Manchester City,1,37,2.4140003,0.13132997
+429,Evan Ferguson,Brighton,Aston Villa,0,38,2.820739,0.14112948
+430,Andrew Moran,Brighton,Arsenal,0,36,2.3972003,0.30830446
+431,Andrew Moran,Brighton,Newcastle Utd,0,36,2.380301,0.3338878
+432,Andrew Moran,Brighton,Southampton,1,37,3.3872216,0.5544783
+433,Andrew Moran,Brighton,Manchester City,1,37,2.371203,0.5797774
+434,Andrew Moran,Brighton,Aston Villa,0,38,2.5234911,0.32794967
+435,Facundo Buonanotte,Brighton,Arsenal,0,36,2.3816485,0.15794301
+436,Facundo Buonanotte,Brighton,Newcastle Utd,0,36,2.3694274,0.17322966
+437,Facundo Buonanotte,Brighton,Southampton,1,37,3.194075,0.2025027
+438,Facundo Buonanotte,Brighton,Manchester City,1,37,2.267805,0.23651728
+439,Facundo Buonanotte,Brighton,Aston Villa,0,38,2.6343777,0.1814571
+440,Odeluga Offiah,Brighton,Arsenal,0,36,2.2170348,0.23914899
+441,Odeluga Offiah,Brighton,Newcastle Utd,0,36,2.204731,0.258095
+442,Odeluga Offiah,Brighton,Southampton,1,37,3.102442,0.5657142
+443,Odeluga Offiah,Brighton,Manchester City,1,37,2.2648246,0.51213527
+444,Odeluga Offiah,Brighton,Aston Villa,0,38,2.405016,0.20968425
+445,Carney Chukwuemeka,Chelsea,Nottingham Forest,1,36,2.6817164,0.16460055
+446,Carney Chukwuemeka,Chelsea,Manchester City,0,37,1.7569485,0.13623466
+447,Carney Chukwuemeka,Chelsea,Manchester Utd,0,37,2.1372669,0.19112611
+448,Carney Chukwuemeka,Chelsea,Newcastle Utd,1,38,2.1567636,0.16988526
+449,Marc Cucurella,Chelsea,Nottingham Forest,1,36,3.2244468,0.1265906
+450,Marc Cucurella,Chelsea,Manchester City,0,37,1.8803701,0.148069
+451,Marc Cucurella,Chelsea,Manchester Utd,0,37,2.4445236,0.106294535
+452,Marc Cucurella,Chelsea,Newcastle Utd,1,38,2.4755595,0.20001061
+453,Cesar Azpilicueta,Chelsea,Nottingham Forest,1,36,2.8337827,0.14242978
+454,Cesar Azpilicueta,Chelsea,Manchester City,0,37,1.7251066,0.15914308
+455,Cesar Azpilicueta,Chelsea,Manchester Utd,0,37,2.221629,0.18148331
+456,Cesar Azpilicueta,Chelsea,Newcastle Utd,1,38,2.2590299,0.14001778
+457,Thiago Silva,Chelsea,Nottingham Forest,1,36,3.6541505,0.09731111
+458,Thiago Silva,Chelsea,Manchester City,0,37,1.9682064,0.08925991
+459,Thiago Silva,Chelsea,Manchester Utd,0,37,2.681235,0.1535133
+460,Thiago Silva,Chelsea,Newcastle Utd,1,38,2.734591,0.16633868
+461,Marcos Alonso,Chelsea,Nottingham Forest,1,36,4.5921106,0.25867218
+462,Marcos Alonso,Chelsea,Manchester City,0,37,2.845332,0.18534504
+463,Marcos Alonso,Chelsea,Manchester Utd,0,37,3.7634246,0.15986791
+464,Marcos Alonso,Chelsea,Newcastle Utd,1,38,3.8739026,0.52551675
+465,Ross Barkley,Chelsea,Nottingham Forest,1,36,2.9160116,0.09816826
+466,Ross Barkley,Chelsea,Manchester City,0,37,2.0280535,0.106078014
+467,Ross Barkley,Chelsea,Manchester Utd,0,37,2.3573737,0.112589456
+468,Ross Barkley,Chelsea,Newcastle Utd,1,38,2.4061885,0.053789347
+469,Mateo Kovacic,Chelsea,Nottingham Forest,1,36,2.7818465,0.113055326
+470,Mateo Kovacic,Chelsea,Manchester City,0,37,1.8987834,0.09466299
+471,Mateo Kovacic,Chelsea,Manchester Utd,0,37,2.2421808,0.06367401
+472,Mateo Kovacic,Chelsea,Newcastle Utd,1,38,2.3356524,0.13840558
+473,Kepa Arrizabalaga,Chelsea,Nottingham Forest,1,36,3.964135,0.13508564
+474,Kepa Arrizabalaga,Chelsea,Manchester City,0,37,2.3293767,0.20715943
+475,Kepa Arrizabalaga,Chelsea,Manchester Utd,0,37,3.0918853,0.13408768
+476,Kepa Arrizabalaga,Chelsea,Newcastle Utd,1,38,3.147782,0.21893178
+477,N'Golo Kante,Chelsea,Nottingham Forest,1,36,3.343787,0.18235238
+478,N'Golo Kante,Chelsea,Manchester City,0,37,2.2092457,0.10299396
+479,N'Golo Kante,Chelsea,Manchester Utd,0,37,2.61362,0.062955
+480,N'Golo Kante,Chelsea,Newcastle Utd,1,38,2.7675114,0.3025389
+481,Hakim Ziyech,Chelsea,Nottingham Forest,1,36,2.9137871,0.09851645
+482,Hakim Ziyech,Chelsea,Manchester City,0,37,2.0015464,0.12404079
+483,Hakim Ziyech,Chelsea,Manchester Utd,0,37,2.3307602,0.13249576
+484,Hakim Ziyech,Chelsea,Newcastle Utd,1,38,2.3784595,0.10854032
+485,Ruben Loftus-Cheek,Chelsea,Nottingham Forest,1,36,2.688932,0.133907
+486,Ruben Loftus-Cheek,Chelsea,Manchester City,0,37,1.8384998,0.12573388
+487,Ruben Loftus-Cheek,Chelsea,Manchester Utd,0,37,2.1817,0.14622262
+488,Ruben Loftus-Cheek,Chelsea,Newcastle Utd,1,38,2.2257314,0.12752567
+489,Timo Werner,Chelsea,Nottingham Forest,1,36,4.1772256,0.1440348
+490,Timo Werner,Chelsea,Manchester City,0,37,2.7772534,0.14666641
+491,Timo Werner,Chelsea,Manchester Utd,0,37,3.4691365,0.14046496
+492,Timo Werner,Chelsea,Newcastle Utd,1,38,3.2816901,0.17376745
+493,Ben Chilwell,Chelsea,Nottingham Forest,1,36,3.9789739,0.20852217
+494,Ben Chilwell,Chelsea,Manchester City,0,37,2.3508956,0.15723999
+495,Ben Chilwell,Chelsea,Manchester Utd,0,37,3.0968451,0.23234831
+496,Ben Chilwell,Chelsea,Newcastle Utd,1,38,3.1345806,0.24586844
+497,Christian Pulisic,Chelsea,Nottingham Forest,1,36,2.9312165,0.096781276
+498,Christian Pulisic,Chelsea,Manchester City,0,37,1.9892128,0.120062634
+499,Christian Pulisic,Chelsea,Manchester Utd,0,37,2.3431318,0.14457265
+500,Christian Pulisic,Chelsea,Newcastle Utd,1,38,2.3709724,0.09560897
+501,Trevoh Chalobah,Chelsea,Nottingham Forest,1,36,2.8340142,0.06470151
+502,Trevoh Chalobah,Chelsea,Manchester City,0,37,1.7243223,0.11542937
+503,Trevoh Chalobah,Chelsea,Manchester Utd,0,37,2.2156513,0.12093514
+504,Trevoh Chalobah,Chelsea,Newcastle Utd,1,38,2.269132,0.12659645
+505,Mason Mount,Chelsea,Nottingham Forest,1,36,3.6882865,0.21527857
+506,Mason Mount,Chelsea,Manchester City,0,37,2.600861,0.20785885
+507,Mason Mount,Chelsea,Manchester Utd,0,37,3.0260403,0.23586032
+508,Mason Mount,Chelsea,Newcastle Utd,1,38,3.0130677,0.21275803
+509,Malang Sarr,Chelsea,Nottingham Forest,1,36,3.2297096,0.08583068
+510,Malang Sarr,Chelsea,Manchester City,0,37,1.8496835,0.15716961
+511,Malang Sarr,Chelsea,Manchester Utd,0,37,2.4086456,0.11062826
+512,Malang Sarr,Chelsea,Newcastle Utd,1,38,2.4279366,0.16341308
+513,Callum Hudson-Odoi,Chelsea,Nottingham Forest,1,36,3.4143806,0.20086515
+514,Callum Hudson-Odoi,Chelsea,Manchester City,0,37,2.2668421,0.12672785
+515,Callum Hudson-Odoi,Chelsea,Manchester Utd,0,37,2.692696,0.1231985
+516,Callum Hudson-Odoi,Chelsea,Newcastle Utd,1,38,2.7409487,0.19016275
+517,Kai Havertz,Chelsea,Nottingham Forest,1,36,4.245103,0.12871265
+518,Kai Havertz,Chelsea,Manchester City,0,37,2.7557971,0.133334
+519,Kai Havertz,Chelsea,Manchester Utd,0,37,3.4639237,0.08929456
+520,Kai Havertz,Chelsea,Newcastle Utd,1,38,3.4017093,0.22281635
+521,Reece James,Chelsea,Nottingham Forest,1,36,4.0714192,0.211661
+522,Reece James,Chelsea,Manchester City,0,37,2.4495542,0.1745263
+523,Reece James,Chelsea,Manchester Utd,0,37,3.1764154,0.13468798
+524,Reece James,Chelsea,Newcastle Utd,1,38,3.2742462,0.30077937
+525,Edouard Mendy,Chelsea,Nottingham Forest,1,36,3.677702,0.11233019
+526,Edouard Mendy,Chelsea,Manchester City,0,37,2.1271577,0.1129794
+527,Edouard Mendy,Chelsea,Manchester Utd,0,37,2.7590847,0.13006094
+528,Edouard Mendy,Chelsea,Newcastle Utd,1,38,2.8236377,0.18253326
+529,Conor Gallagher,Chelsea,Nottingham Forest,1,36,2.767142,0.12072776
+530,Conor Gallagher,Chelsea,Manchester City,0,37,1.890056,0.081034355
+531,Conor Gallagher,Chelsea,Manchester Utd,0,37,2.226626,0.056976736
+532,Conor Gallagher,Chelsea,Newcastle Utd,1,38,2.3040738,0.083652854
+533,Armando Broja,Chelsea,Nottingham Forest,1,36,2.8884504,0.23907384
+534,Armando Broja,Chelsea,Manchester City,0,37,1.9530437,0.23166724
+535,Armando Broja,Chelsea,Manchester Utd,0,37,2.3253021,0.24082935
+536,Armando Broja,Chelsea,Newcastle Utd,1,38,2.3507888,0.2046995
+537,Ethan Ampadu,Chelsea,Nottingham Forest,1,36,2.778829,0.15116046
+538,Ethan Ampadu,Chelsea,Manchester City,0,37,1.7048143,0.14498687
+539,Ethan Ampadu,Chelsea,Manchester Utd,0,37,2.189632,0.15176424
+540,Ethan Ampadu,Chelsea,Newcastle Utd,1,38,2.2449965,0.14123072
+541,Wesley Fofana,Chelsea,Nottingham Forest,1,36,3.2140694,0.12960362
+542,Wesley Fofana,Chelsea,Manchester City,0,37,1.8257393,0.060064804
+543,Wesley Fofana,Chelsea,Manchester Utd,0,37,2.4109397,0.08993005
+544,Wesley Fofana,Chelsea,Newcastle Utd,1,38,2.4196677,0.13071553
+545,Raheem Sterling,Chelsea,Nottingham Forest,1,36,4.7668614,0.3577075
+546,Raheem Sterling,Chelsea,Manchester City,0,37,3.2047997,0.22972195
+547,Raheem Sterling,Chelsea,Manchester Utd,0,37,4.052646,0.5063268
+548,Raheem Sterling,Chelsea,Newcastle Utd,1,38,3.9149652,0.27696332
+549,Kalidou Koulibaly,Chelsea,Nottingham Forest,1,36,3.0088644,0.055706084
+550,Kalidou Koulibaly,Chelsea,Manchester City,0,37,1.8109486,0.07972309
+551,Kalidou Koulibaly,Chelsea,Manchester Utd,0,37,2.3314679,0.060638107
+552,Kalidou Koulibaly,Chelsea,Newcastle Utd,1,38,2.3847098,0.15249377
+553,Denis Zakaria,Chelsea,Nottingham Forest,1,36,3.0460625,1.133753
+554,Denis Zakaria,Chelsea,Manchester City,0,37,2.0831432,0.7910057
+555,Denis Zakaria,Chelsea,Manchester Utd,0,37,2.4485002,0.7719331
+556,Denis Zakaria,Chelsea,Newcastle Utd,1,38,2.5849862,1.1021875
+557,Pierre-Emerick Aubameyang,Chelsea,Nottingham Forest,1,36,3.3712227,0.25963646
+558,Pierre-Emerick Aubameyang,Chelsea,Manchester City,0,37,2.3188362,0.24060091
+559,Pierre-Emerick Aubameyang,Chelsea,Manchester Utd,0,37,2.8130193,0.32177576
+560,Pierre-Emerick Aubameyang,Chelsea,Newcastle Utd,1,38,2.6967146,0.24923125
+561,Marcus Bettinelli,Chelsea,Nottingham Forest,1,36,3.2187836,0.12432711
+562,Marcus Bettinelli,Chelsea,Manchester City,0,37,1.9073435,0.1211994
+563,Marcus Bettinelli,Chelsea,Manchester Utd,0,37,2.405759,0.13803367
+564,Marcus Bettinelli,Chelsea,Newcastle Utd,1,38,2.4638467,0.13089445
+565,Lewis Hall,Chelsea,Nottingham Forest,1,36,3.1547737,0.5614674
+566,Lewis Hall,Chelsea,Manchester City,0,37,1.9383879,0.17872746
+567,Lewis Hall,Chelsea,Manchester Utd,0,37,2.3819826,0.24092989
+568,Lewis Hall,Chelsea,Newcastle Utd,1,38,2.5935485,0.5222471
+569,Benoit Badiashile,Chelsea,Nottingham Forest,1,36,3.835905,0.098449245
+570,Benoit Badiashile,Chelsea,Manchester City,0,37,2.21285,0.15284927
+571,Benoit Badiashile,Chelsea,Manchester Utd,0,37,2.9172046,0.1228078
+572,Benoit Badiashile,Chelsea,Newcastle Utd,1,38,2.9480948,0.19405513
+573,Joao Felix,Chelsea,Nottingham Forest,1,36,3.412239,0.16433802
+574,Joao Felix,Chelsea,Manchester City,0,37,2.3272715,0.1874263
+575,Joao Felix,Chelsea,Manchester Utd,0,37,2.7804103,0.19634162
+576,Joao Felix,Chelsea,Newcastle Utd,1,38,2.7270586,0.16811557
+577,Mykhailo Mudryk,Chelsea,Nottingham Forest,1,36,2.867599,0.07286908
+578,Mykhailo Mudryk,Chelsea,Manchester City,0,37,1.9140106,0.08996693
+579,Mykhailo Mudryk,Chelsea,Manchester Utd,0,37,2.3089867,0.10103934
+580,Mykhailo Mudryk,Chelsea,Newcastle Utd,1,38,2.3084426,0.08542785
+581,Noni Madueke,Chelsea,Nottingham Forest,1,36,3.396096,0.3042017
+582,Noni Madueke,Chelsea,Manchester City,0,37,2.3404636,0.27325693
+583,Noni Madueke,Chelsea,Manchester Utd,0,37,2.7582848,0.27662167
+584,Noni Madueke,Chelsea,Newcastle Utd,1,38,2.8163822,0.2257868
+585,Enzo Fernandez,Chelsea,Nottingham Forest,1,36,3.0575578,0.17969722
+586,Enzo Fernandez,Chelsea,Manchester City,0,37,1.9966166,0.08955516
+587,Enzo Fernandez,Chelsea,Manchester Utd,0,37,2.4091334,0.073513
+588,Enzo Fernandez,Chelsea,Newcastle Utd,1,38,2.4406514,0.11949166
+589,Albert Sambi Lokonga,Crystal Palace,Bournemouth,1,36,2.530574,0.12782595
+590,Albert Sambi Lokonga,Crystal Palace,Fulham,0,37,2.482655,0.1679908
+591,Albert Sambi Lokonga,Crystal Palace,Nottingham Forest,1,38,2.6045501,0.1568955
+592,Vicente Guaita,Crystal Palace,Bournemouth,1,36,3.5965228,0.12970297
+593,Vicente Guaita,Crystal Palace,Fulham,0,37,3.6219604,0.12791304
+594,Vicente Guaita,Crystal Palace,Nottingham Forest,1,38,3.8244202,0.091389306
+595,James Tomkins,Crystal Palace,Bournemouth,1,36,2.6996243,0.1677455
+596,James Tomkins,Crystal Palace,Fulham,0,37,2.679406,0.19242679
+597,James Tomkins,Crystal Palace,Nottingham Forest,1,38,2.8364806,0.1624936
+598,James McArthur,Crystal Palace,Bournemouth,1,36,2.761506,0.50430214
+599,James McArthur,Crystal Palace,Fulham,0,37,2.4988165,0.20786917
+600,James McArthur,Crystal Palace,Nottingham Forest,1,38,2.8284001,0.55483377
+601,Christian Benteke,Crystal Palace,Bournemouth,1,36,2.9827552,0.2918482
+602,Christian Benteke,Crystal Palace,Fulham,0,37,2.9925334,0.30213118
+603,Christian Benteke,Crystal Palace,Nottingham Forest,1,38,3.0836391,0.27796477
+604,Joel Ward,Crystal Palace,Bournemouth,1,36,2.955132,0.09386974
+605,Joel Ward,Crystal Palace,Fulham,0,37,2.9411418,0.11696806
+606,Joel Ward,Crystal Palace,Nottingham Forest,1,38,3.1399467,0.09596243
+607,Nathaniel Clyne,Crystal Palace,Bournemouth,1,36,2.75224,0.13950486
+608,Nathaniel Clyne,Crystal Palace,Fulham,0,37,2.7475739,0.13414244
+609,Nathaniel Clyne,Crystal Palace,Nottingham Forest,1,38,2.883573,0.123052046
+610,Luka Milivojevic,Crystal Palace,Bournemouth,1,36,2.4995103,0.13074662
+611,Luka Milivojevic,Crystal Palace,Fulham,0,37,2.4390392,0.15219307
+612,Luka Milivojevic,Crystal Palace,Nottingham Forest,1,38,2.565263,0.12884057
+613,Jordan Ayew,Crystal Palace,Bournemouth,1,36,3.0378337,0.16516928
+614,Jordan Ayew,Crystal Palace,Fulham,0,37,3.0529974,0.13417642
+615,Jordan Ayew,Crystal Palace,Nottingham Forest,1,38,3.2182484,0.14836918
+616,Wilfried Zaha,Crystal Palace,Bournemouth,1,36,4.67435,0.31788078
+617,Wilfried Zaha,Crystal Palace,Fulham,0,37,4.7153573,0.3389295
+618,Wilfried Zaha,Crystal Palace,Nottingham Forest,1,38,4.7634788,0.26305574
+619,Jeffrey Schlupp,Crystal Palace,Bournemouth,1,36,2.8585837,0.11282798
+620,Jeffrey Schlupp,Crystal Palace,Fulham,0,37,2.8153398,0.14591293
+621,Jeffrey Schlupp,Crystal Palace,Nottingham Forest,1,38,2.988951,0.12349959
+622,Will Hughes,Crystal Palace,Bournemouth,1,36,2.8748343,0.96342665
+623,Will Hughes,Crystal Palace,Fulham,0,37,2.760889,0.7448565
+624,Will Hughes,Crystal Palace,Nottingham Forest,1,38,2.9476688,0.91749
+625,Jairo Riedewald,Crystal Palace,Bournemouth,1,36,2.7778463,0.4761577
+626,Jairo Riedewald,Crystal Palace,Fulham,0,37,2.556748,0.22725177
+627,Jairo Riedewald,Crystal Palace,Nottingham Forest,1,38,2.879871,0.5246522
+628,Joachim Andersen,Crystal Palace,Bournemouth,1,36,3.1955714,0.07247047
+629,Joachim Andersen,Crystal Palace,Fulham,0,37,3.210588,0.10171431
+630,Joachim Andersen,Crystal Palace,Nottingham Forest,1,38,3.3920696,0.08670175
+631,Odsonne Edouard,Crystal Palace,Bournemouth,1,36,2.6932342,0.15075625
+632,Odsonne Edouard,Crystal Palace,Fulham,0,37,2.6679444,0.18831824
+633,Odsonne Edouard,Crystal Palace,Nottingham Forest,1,38,2.796724,0.18308948
+634,Marc Guehi,Crystal Palace,Bournemouth,1,36,3.2691047,0.09755407
+635,Marc Guehi,Crystal Palace,Fulham,0,37,3.2790668,0.114288166
+636,Marc Guehi,Crystal Palace,Nottingham Forest,1,38,3.4867835,0.09720577
+637,Jean-Philippe Mateta,Crystal Palace,Bournemouth,1,36,2.6580076,0.146363
+638,Jean-Philippe Mateta,Crystal Palace,Fulham,0,37,2.6414688,0.17976613
+639,Jean-Philippe Mateta,Crystal Palace,Nottingham Forest,1,38,2.7568545,0.1773627
+640,Eberechi Eze,Crystal Palace,Bournemouth,1,36,3.5904822,0.18348084
+641,Eberechi Eze,Crystal Palace,Fulham,0,37,3.5713916,0.20576175
+642,Eberechi Eze,Crystal Palace,Nottingham Forest,1,38,3.7386615,0.19255398
+643,Tyrick Mitchell,Crystal Palace,Bournemouth,1,36,3.025144,0.15999772
+644,Tyrick Mitchell,Crystal Palace,Fulham,0,37,3.0391464,0.13233723
+645,Tyrick Mitchell,Crystal Palace,Nottingham Forest,1,38,3.2050357,0.13332029
+646,Michael Olise,Crystal Palace,Bournemouth,1,36,3.5168958,0.12500754
+647,Michael Olise,Crystal Palace,Fulham,0,37,3.4080303,0.12846966
+648,Michael Olise,Crystal Palace,Nottingham Forest,1,38,3.6584485,0.12701115
+649,Malcolm Ebiowei,Crystal Palace,Bournemouth,1,36,2.6145039,0.14013235
+650,Malcolm Ebiowei,Crystal Palace,Fulham,0,37,2.586822,0.18206844
+651,Malcolm Ebiowei,Crystal Palace,Nottingham Forest,1,38,2.7205422,0.16043487
+652,Nathan Ferguson,Crystal Palace,Bournemouth,1,36,2.597926,0.1650365
+653,Nathan Ferguson,Crystal Palace,Fulham,0,37,2.5795128,0.20510751
+654,Nathan Ferguson,Crystal Palace,Nottingham Forest,1,38,2.703964,0.19471341
+655,Sam Johnstone,Crystal Palace,Bournemouth,1,36,3.7143314,0.1201298
+656,Sam Johnstone,Crystal Palace,Fulham,0,37,3.682698,0.1281776
+657,Sam Johnstone,Crystal Palace,Nottingham Forest,1,38,3.891215,0.12924403
+658,Cheick Doucoure,Crystal Palace,Bournemouth,1,36,2.6773522,0.12985472
+659,Cheick Doucoure,Crystal Palace,Fulham,0,37,2.6131299,0.09546237
+660,Cheick Doucoure,Crystal Palace,Nottingham Forest,1,38,2.7594552,0.07876926
+661,Chris Richards,Crystal Palace,Bournemouth,1,36,2.6085687,0.14237279
+662,Chris Richards,Crystal Palace,Fulham,0,37,2.5673254,0.11419364
+663,Chris Richards,Crystal Palace,Nottingham Forest,1,38,2.7030187,0.10430563
+664,Joseph Whitworth,Crystal Palace,Bournemouth,1,36,2.8465216,0.2616906
+665,Joseph Whitworth,Crystal Palace,Fulham,0,37,2.833496,0.25366053
+666,Joseph Whitworth,Crystal Palace,Nottingham Forest,1,38,2.9649563,0.24651961
+667,David Ozoh,Crystal Palace,Bournemouth,1,36,3.0436559,0.50235295
+668,David Ozoh,Crystal Palace,Fulham,0,37,2.746999,0.2790671
+669,David Ozoh,Crystal Palace,Nottingham Forest,1,38,3.1235394,0.5267039
+670,Naouirou Ahamada,Crystal Palace,Bournemouth,1,36,2.886888,0.5538408
+671,Naouirou Ahamada,Crystal Palace,Fulham,0,37,2.6387124,0.30672276
+672,Naouirou Ahamada,Crystal Palace,Nottingham Forest,1,38,2.9601092,0.6099568
+673,Neal Maupay,Everton,Manchester City,1,36,2.0620322,0.16171075
+674,Neal Maupay,Everton,Wolves,0,37,2.7631412,0.1651266
+675,Neal Maupay,Everton,Bournemouth,1,38,2.753776,0.11915484
+676,Asmir Begovic,Everton,Manchester City,1,36,2.8710225,0.8503068
+677,Asmir Begovic,Everton,Wolves,0,37,3.9264393,0.8936175
+678,Asmir Begovic,Everton,Bournemouth,1,38,3.934546,0.9210091
+679,Salomon Rondon,Everton,Manchester City,1,36,1.9137027,0.17607309
+680,Salomon Rondon,Everton,Wolves,0,37,2.6471496,0.19170786
+681,Salomon Rondon,Everton,Bournemouth,1,38,2.6715803,0.11024069
+682,Seamus Coleman,Everton,Manchester City,1,36,1.9023575,0.14406158
+683,Seamus Coleman,Everton,Wolves,0,37,2.768445,0.086841665
+684,Seamus Coleman,Everton,Bournemouth,1,38,2.7711957,0.08775581
+685,Andros Townsend,Everton,Manchester City,1,36,2.070188,0.10336959
+686,Andros Townsend,Everton,Wolves,0,37,2.6844487,0.12961575
+687,Andros Townsend,Everton,Bournemouth,1,38,2.7354922,0.094515175
+688,Michael Keane,Everton,Manchester City,1,36,1.9845585,0.10024297
+689,Michael Keane,Everton,Wolves,0,37,3.0726752,0.06835313
+690,Michael Keane,Everton,Bournemouth,1,38,3.0693607,0.09392747
+691,Dele Alli,Everton,Manchester City,1,36,1.9296039,0.17964081
+692,Dele Alli,Everton,Wolves,0,37,2.614186,0.1851605
+693,Dele Alli,Everton,Bournemouth,1,38,2.6380563,0.116868235
+694,Jordan Pickford,Everton,Manchester City,1,36,2.2440317,0.14584877
+695,Jordan Pickford,Everton,Wolves,0,37,3.409027,0.14283882
+696,Jordan Pickford,Everton,Bournemouth,1,38,3.4071915,0.15051076
+697,Abdoulaye Doucoure,Everton,Manchester City,1,36,2.144525,0.056145687
+698,Abdoulaye Doucoure,Everton,Wolves,0,37,2.8264713,0.13880472
+699,Abdoulaye Doucoure,Everton,Bournemouth,1,38,2.894645,0.13412936
+700,Alex Iwobi,Everton,Manchester City,1,36,2.3809862,0.15668222
+701,Alex Iwobi,Everton,Wolves,0,37,3.2306457,0.1477717
+702,Alex Iwobi,Everton,Bournemouth,1,38,3.3045897,0.21051975
+703,Jean-Philippe Gbamin,Everton,Manchester City,1,36,1.8597851,0.17712605
+704,Jean-Philippe Gbamin,Everton,Wolves,0,37,2.4168768,0.21534994
+705,Jean-Philippe Gbamin,Everton,Bournemouth,1,38,2.5069115,0.114055485
+706,Yerry Mina,Everton,Manchester City,1,36,1.8526077,0.15054126
+707,Yerry Mina,Everton,Wolves,0,37,2.7649374,0.14470035
+708,Yerry Mina,Everton,Bournemouth,1,38,2.7756035,0.11241403
+709,Demarai Gray,Everton,Manchester City,1,36,2.4931867,0.09402026
+710,Demarai Gray,Everton,Wolves,0,37,3.3485866,0.10603496
+711,Demarai Gray,Everton,Bournemouth,1,38,3.3732948,0.10987772
+712,Tom Davies,Everton,Manchester City,1,36,2.1596324,0.60255826
+713,Tom Davies,Everton,Wolves,0,37,2.4858823,0.21802668
+714,Tom Davies,Everton,Bournemouth,1,38,2.7818377,0.57736003
+715,Dominic Calvert-Lewin,Everton,Manchester City,1,36,2.7849748,0.15881176
+716,Dominic Calvert-Lewin,Everton,Wolves,0,37,3.8986638,0.20292607
+717,Dominic Calvert-Lewin,Everton,Bournemouth,1,38,3.8922958,0.23487206
+718,Mason Holgate,Everton,Manchester City,1,36,1.886967,0.14348757
+719,Mason Holgate,Everton,Wolves,0,37,2.6902254,0.07873652
+720,Mason Holgate,Everton,Bournemouth,1,38,2.7697434,0.08924225
+721,Ben Godfrey,Everton,Manchester City,1,36,1.8759782,0.12728155
+722,Ben Godfrey,Everton,Wolves,0,37,2.730225,0.122002065
+723,Ben Godfrey,Everton,Bournemouth,1,38,2.7487261,0.082937
+724,Vitaliy Mykolenko,Everton,Manchester City,1,36,1.8988762,0.118056625
+725,Vitaliy Mykolenko,Everton,Wolves,0,37,2.7295666,0.097475864
+726,Vitaliy Mykolenko,Everton,Bournemouth,1,38,2.7659354,0.097942196
+727,Jarrad Branthwaite,Everton,Manchester City,1,36,1.8566697,0.114694245
+728,Jarrad Branthwaite,Everton,Wolves,0,37,2.7241645,0.079972684
+729,Jarrad Branthwaite,Everton,Bournemouth,1,38,2.7418852,0.08556733
+730,Nathan Patterson,Everton,Manchester City,1,36,1.8611683,0.12958415
+731,Nathan Patterson,Everton,Wolves,0,37,2.6613593,0.13908862
+732,Nathan Patterson,Everton,Bournemouth,1,38,2.6841474,0.10234274
+733,Niels Nkounkou,Everton,Manchester City,1,36,1.8345191,0.13111223
+734,Niels Nkounkou,Everton,Wolves,0,37,2.6276355,0.16723369
+735,Niels Nkounkou,Everton,Bournemouth,1,38,2.65535,0.11559067
+736,James Tarkowski,Everton,Manchester City,1,36,2.0026088,0.13676712
+737,James Tarkowski,Everton,Wolves,0,37,3.0618455,0.08429834
+738,James Tarkowski,Everton,Bournemouth,1,38,3.044764,0.11353504
+739,Conor Coady,Everton,Manchester City,1,36,1.9719429,0.12548372
+740,Conor Coady,Everton,Wolves,0,37,3.0096269,0.06792838
+741,Conor Coady,Everton,Bournemouth,1,38,3.0081534,0.10773128
+742,Ruben Vinagre,Everton,Manchester City,1,36,1.8359807,0.22178565
+743,Ruben Vinagre,Everton,Wolves,0,37,2.600407,0.19142827
+744,Ruben Vinagre,Everton,Bournemouth,1,38,2.6216648,0.10403469
+745,Dwight McNeil,Everton,Manchester City,1,36,2.6462247,0.2059865
+746,Dwight McNeil,Everton,Wolves,0,37,3.5280285,0.20196822
+747,Dwight McNeil,Everton,Bournemouth,1,38,3.596064,0.20978665
+748,James Garner,Everton,Manchester City,1,36,2.2403984,0.5618572
+749,James Garner,Everton,Wolves,0,37,2.584587,0.15530895
+750,James Garner,Everton,Bournemouth,1,38,2.8865674,0.54518396
+751,Amadou Onana,Everton,Manchester City,1,36,1.9845766,0.11897012
+752,Amadou Onana,Everton,Wolves,0,37,2.5094204,0.07911662
+753,Amadou Onana,Everton,Bournemouth,1,38,2.607697,0.05738387
+754,Idrissa Gana Gueye,Everton,Manchester City,1,36,1.9636858,0.0847302
+755,Idrissa Gana Gueye,Everton,Wolves,0,37,2.4908392,0.09863463
+756,Idrissa Gana Gueye,Everton,Bournemouth,1,38,2.6092389,0.07525096
+757,Thomas Cannon,Everton,Manchester City,1,36,2.325479,0.7550265
+758,Thomas Cannon,Everton,Wolves,0,37,2.8304324,0.39640978
+759,Thomas Cannon,Everton,Bournemouth,1,38,2.9991736,0.7255572
+760,Isaac Price,Everton,Manchester City,1,36,2.1307428,0.60208046
+761,Isaac Price,Everton,Wolves,0,37,2.4608874,0.22534224
+762,Isaac Price,Everton,Bournemouth,1,38,2.7504842,0.5753479
+763,Ellis Simms,Everton,Manchester City,1,36,1.9259741,0.17635646
+764,Ellis Simms,Everton,Wolves,0,37,2.6511407,0.18864632
+765,Ellis Simms,Everton,Bournemouth,1,38,2.6789675,0.11393337
+766,Bernd Leno,Fulham,Southampton,0,36,3.6108334,0.13489014
+767,Bernd Leno,Fulham,Crystal Palace,1,37,3.6539254,0.11787558
+768,Bernd Leno,Fulham,Manchester Utd,0,38,2.9079013,0.10259095
+769,Shane Duffy,Fulham,Southampton,0,36,2.6266916,0.18274052
+770,Shane Duffy,Fulham,Crystal Palace,1,37,2.6687088,0.17869096
+771,Shane Duffy,Fulham,Manchester Utd,0,38,2.1304212,0.1904756
+772,Tom Cairney,Fulham,Southampton,0,36,2.6204827,0.14573315
+773,Tom Cairney,Fulham,Crystal Palace,1,37,2.8633447,0.5052111
+774,Tom Cairney,Fulham,Manchester Utd,0,38,2.2447448,0.13709778
+775,Tim Ream,Fulham,Southampton,0,36,2.949206,0.11153741
+776,Tim Ream,Fulham,Crystal Palace,1,37,3.041061,0.13641214
+777,Tim Ream,Fulham,Manchester Utd,0,38,2.3223023,0.101169586
+778,Anthony Knockaert,Fulham,Southampton,0,36,2.7222936,0.0684211
+779,Anthony Knockaert,Fulham,Crystal Palace,1,37,2.793623,0.09027428
+780,Anthony Knockaert,Fulham,Manchester Utd,0,38,2.27843,0.07299868
+781,Nathaniel Chalobah,Fulham,Southampton,0,36,2.4548311,0.18330117
+782,Nathaniel Chalobah,Fulham,Crystal Palace,1,37,2.4861574,0.20286874
+783,Nathaniel Chalobah,Fulham,Manchester Utd,0,38,2.0918376,0.19737013
+784,Neeskens Kebano,Fulham,Southampton,0,36,2.8574722,0.61949813
+785,Neeskens Kebano,Fulham,Crystal Palace,1,37,2.9717295,0.8419903
+786,Neeskens Kebano,Fulham,Manchester Utd,0,38,2.4004257,0.58449626
+787,Bobby De Cordova-Reid,Fulham,Southampton,0,36,2.6155846,0.12915926
+788,Bobby De Cordova-Reid,Fulham,Crystal Palace,1,37,2.6648872,0.13633001
+789,Bobby De Cordova-Reid,Fulham,Manchester Utd,0,38,2.1793723,0.13331139
+790,Joe Bryan,Fulham,Southampton,0,36,2.6672127,0.11026689
+791,Joe Bryan,Fulham,Crystal Palace,1,37,2.7153428,0.10502414
+792,Joe Bryan,Fulham,Manchester Utd,0,38,2.21399,0.08638568
+793,Terence Kongolo,Fulham,Southampton,0,36,2.8577757,0.12711813
+794,Terence Kongolo,Fulham,Crystal Palace,1,37,2.9201398,0.13945146
+795,Terence Kongolo,Fulham,Manchester Utd,0,38,2.269557,0.11595787
+796,Tosin Adarabioyo,Fulham,Southampton,0,36,2.960744,0.12501462
+797,Tosin Adarabioyo,Fulham,Crystal Palace,1,37,3.0387654,0.14426948
+798,Tosin Adarabioyo,Fulham,Manchester Utd,0,38,2.3463836,0.09975973
+799,Aleksandar Mitrovic,Fulham,Southampton,0,36,5.003302,0.3685198
+800,Aleksandar Mitrovic,Fulham,Crystal Palace,1,37,4.471035,0.59160197
+801,Aleksandar Mitrovic,Fulham,Manchester Utd,0,38,4.422596,0.29656202
+802,Harrison Reed,Fulham,Southampton,0,36,2.7361321,0.1292316
+803,Harrison Reed,Fulham,Crystal Palace,1,37,2.8141477,0.1513567
+804,Harrison Reed,Fulham,Manchester Utd,0,38,2.2695632,0.08168559
+805,Harry Wilson,Fulham,Southampton,0,36,2.6801364,0.11488476
+806,Harry Wilson,Fulham,Crystal Palace,1,37,2.7336798,0.11034649
+807,Harry Wilson,Fulham,Manchester Utd,0,38,2.2291691,0.0750367
+808,Marek Rodak,Fulham,Southampton,0,36,3.114662,0.14189637
+809,Marek Rodak,Fulham,Crystal Palace,1,37,3.185231,0.15484998
+810,Marek Rodak,Fulham,Manchester Utd,0,38,2.4075341,0.124710925
+811,Kenny Tete,Fulham,Southampton,0,36,2.8906054,0.11168573
+812,Kenny Tete,Fulham,Crystal Palace,1,37,2.9703102,0.11976315
+813,Kenny Tete,Fulham,Manchester Utd,0,38,2.3317528,0.09438128
+814,Josh Onomah,Fulham,Southampton,0,36,2.4889684,0.17897291
+815,Josh Onomah,Fulham,Crystal Palace,1,37,2.5324407,0.1757887
+816,Josh Onomah,Fulham,Manchester Utd,0,38,2.0860689,0.19293535
+817,Antonee Robinson,Fulham,Southampton,0,36,2.907196,0.09922872
+818,Antonee Robinson,Fulham,Crystal Palace,1,37,2.9898632,0.111680225
+819,Antonee Robinson,Fulham,Manchester Utd,0,38,2.3291142,0.10358918
+820,Jay Stansfield,Fulham,Southampton,0,36,2.6326265,0.12660007
+821,Jay Stansfield,Fulham,Crystal Palace,1,37,2.686439,0.1213776
+822,Jay Stansfield,Fulham,Manchester Utd,0,38,2.1458447,0.14551058
+823,Joao Palhinha,Fulham,Southampton,0,36,2.638947,0.07518588
+824,Joao Palhinha,Fulham,Crystal Palace,1,37,2.702478,0.085517146
+825,Joao Palhinha,Fulham,Manchester Utd,0,38,2.2083056,0.067132704
+826,Daniel James,Fulham,Southampton,0,36,2.7352884,0.072144754
+827,Daniel James,Fulham,Crystal Palace,1,37,2.7890978,0.09392366
+828,Daniel James,Fulham,Manchester Utd,0,38,2.2518706,0.10620563
+829,Andreas Pereira,Fulham,Southampton,0,36,3.6541355,0.24837883
+830,Andreas Pereira,Fulham,Crystal Palace,1,37,3.6611505,0.16366291
+831,Andreas Pereira,Fulham,Manchester Utd,0,38,3.096251,0.092865475
+832,Issa Diop,Fulham,Southampton,0,36,2.7798445,0.12527613
+833,Issa Diop,Fulham,Crystal Palace,1,37,2.8385172,0.10121794
+834,Issa Diop,Fulham,Manchester Utd,0,38,2.2044778,0.11976996
+835,Tyrese Francois,Fulham,Southampton,0,36,2.6061504,0.2033777
+836,Tyrese Francois,Fulham,Crystal Palace,1,37,2.8413014,0.5507267
+837,Tyrese Francois,Fulham,Manchester Utd,0,38,2.145082,0.22384429
+838,Kevin Mbabu,Fulham,Southampton,0,36,2.6246283,0.1508213
+839,Kevin Mbabu,Fulham,Crystal Palace,1,37,2.6649437,0.16732645
+840,Kevin Mbabu,Fulham,Manchester Utd,0,38,2.142198,0.18377058
+841,Luke Harris,Fulham,Southampton,0,36,2.8225896,0.60419446
+842,Luke Harris,Fulham,Crystal Palace,1,37,2.9415286,0.8375401
+843,Luke Harris,Fulham,Manchester Utd,0,38,2.3490546,0.5676462
+844,Manor Solomon,Fulham,Southampton,0,36,2.6632495,0.12781608
+845,Manor Solomon,Fulham,Crystal Palace,1,37,2.6963305,0.1308618
+846,Manor Solomon,Fulham,Manchester Utd,0,38,2.1846719,0.14916936
+847,Layvin Kurzawa,Fulham,Southampton,0,36,2.5794091,0.15657537
+848,Layvin Kurzawa,Fulham,Crystal Palace,1,37,2.8292718,0.56900066
+849,Layvin Kurzawa,Fulham,Manchester Utd,0,38,2.1559222,0.2562567
+850,Willian,Fulham,Southampton,0,36,3.7184112,0.18169034
+851,Willian,Fulham,Crystal Palace,1,37,3.763602,0.20439479
+852,Willian,Fulham,Manchester Utd,0,38,3.0966132,0.1829028
+853,Sasa Lukic,Fulham,Southampton,0,36,2.743606,0.5078563
+854,Sasa Lukic,Fulham,Crystal Palace,1,37,2.8523517,0.6963418
+855,Sasa Lukic,Fulham,Manchester Utd,0,38,2.35953,0.47981113
+856,Kasper Schmeichel,Leicester City,Liverpool,1,36,2.6907327,0.11694296
+857,Kasper Schmeichel,Leicester City,Newcastle Utd,0,37,2.5653796,0.14373796
+858,Kasper Schmeichel,Leicester City,West Ham,1,38,3.2346954,0.10961353
+859,Jonny Evans,Leicester City,Liverpool,1,36,2.308354,0.12335955
+860,Jonny Evans,Leicester City,Newcastle Utd,0,37,2.1934817,0.13013844
+861,Jonny Evans,Leicester City,West Ham,1,38,2.7352834,0.10527657
+862,Ryan Bertrand,Leicester City,Liverpool,1,36,2.3817265,0.13382404
+863,Ryan Bertrand,Leicester City,Newcastle Utd,0,37,2.2844634,0.1315578
+864,Ryan Bertrand,Leicester City,West Ham,1,38,2.8379295,0.1083721
+865,Marc Albrighton,Leicester City,Liverpool,1,36,2.3190465,0.07564223
+866,Marc Albrighton,Leicester City,Newcastle Utd,0,37,2.192735,0.094615765
+867,Marc Albrighton,Leicester City,West Ham,1,38,2.647438,0.07035687
+868,Nampalys Mendy,Leicester City,Liverpool,1,36,2.1433377,0.13841604
+869,Nampalys Mendy,Leicester City,Newcastle Utd,0,37,2.0570047,0.15866879
+870,Nampalys Mendy,Leicester City,West Ham,1,38,2.4416432,0.13527234
+871,Jannik Vestergaard,Leicester City,Liverpool,1,36,2.1679063,0.1742601
+872,Jannik Vestergaard,Leicester City,Newcastle Utd,0,37,2.0511851,0.1434844
+873,Jannik Vestergaard,Leicester City,West Ham,1,38,2.560061,0.16148369
+874,Danny Ward,Leicester City,Liverpool,1,36,2.5156703,0.1256449
+875,Danny Ward,Leicester City,Newcastle Utd,0,37,2.409782,0.12737726
+876,Danny Ward,Leicester City,West Ham,1,38,3.069508,0.1583862
+877,Jamie Vardy,Leicester City,Liverpool,1,36,2.7717614,0.081123255
+878,Jamie Vardy,Leicester City,Newcastle Utd,0,37,2.774847,0.15358573
+879,Jamie Vardy,Leicester City,West Ham,1,38,3.1804821,0.148017
+880,Daniel Amartey,Leicester City,Liverpool,1,36,2.2812924,0.1389444
+881,Daniel Amartey,Leicester City,Newcastle Utd,0,37,2.1928205,0.116735734
+882,Daniel Amartey,Leicester City,West Ham,1,38,2.7631552,0.13646884
+883,Timothy Castagne,Leicester City,Liverpool,1,36,2.3925598,0.12235972
+884,Timothy Castagne,Leicester City,Newcastle Utd,0,37,2.2540889,0.11635561
+885,Timothy Castagne,Leicester City,West Ham,1,38,2.8794584,0.09996943
+886,Youri Tielemans,Leicester City,Liverpool,1,36,2.498464,0.12458448
+887,Youri Tielemans,Leicester City,Newcastle Utd,0,37,2.3484082,0.12206957
+888,Youri Tielemans,Leicester City,West Ham,1,38,2.8183494,0.16041625
+889,Ayoze Perez,Leicester City,Liverpool,1,36,2.4239798,0.086475946
+890,Ayoze Perez,Leicester City,Newcastle Utd,0,37,2.3055713,0.07383185
+891,Ayoze Perez,Leicester City,West Ham,1,38,2.7738295,0.08911964
+892,James Maddison,Leicester City,Liverpool,1,36,5.259162,1.5107657
+893,James Maddison,Leicester City,Newcastle Utd,0,37,5.0018735,1.4392043
+894,James Maddison,Leicester City,West Ham,1,38,6.1614604,1.5675335
+895,Kelechi Iheanacho,Leicester City,Liverpool,1,36,2.8118017,0.13808225
+896,Kelechi Iheanacho,Leicester City,Newcastle Utd,0,37,2.7673178,0.28249753
+897,Kelechi Iheanacho,Leicester City,West Ham,1,38,3.2999039,0.17509097
+898,Hamza Choudhury,Leicester City,Liverpool,1,36,2.1597133,0.16094197
+899,Hamza Choudhury,Leicester City,Newcastle Utd,0,37,2.0788815,0.18042175
+900,Hamza Choudhury,Leicester City,West Ham,1,38,2.450218,0.14295894
+901,Harvey Barnes,Leicester City,Liverpool,1,36,3.4574585,0.11827729
+902,Harvey Barnes,Leicester City,Newcastle Utd,0,37,3.3364434,0.11346556
+903,Harvey Barnes,Leicester City,West Ham,1,38,4.1080956,0.26334456
+904,Wilfred Ndidi,Leicester City,Liverpool,1,36,2.1735954,0.10552868
+905,Wilfred Ndidi,Leicester City,Newcastle Utd,0,37,2.0750191,0.13661878
+906,Wilfred Ndidi,Leicester City,West Ham,1,38,2.4779077,0.11104902
+907,Kiernan Dewsbury-Hall,Leicester City,Liverpool,1,36,2.2740989,0.09143889
+908,Kiernan Dewsbury-Hall,Leicester City,Newcastle Utd,0,37,2.1495643,0.091233194
+909,Kiernan Dewsbury-Hall,Leicester City,West Ham,1,38,2.6021845,0.08896813
+910,Caglar Soyuncu,Leicester City,Liverpool,1,36,2.3672314,0.23072849
+911,Caglar Soyuncu,Leicester City,Newcastle Utd,0,37,2.2644665,0.17839703
+912,Caglar Soyuncu,Leicester City,West Ham,1,38,2.8050976,0.17260738
+913,James Justin,Leicester City,Liverpool,1,36,2.5953126,0.095704205
+914,James Justin,Leicester City,Newcastle Utd,0,37,2.4335208,0.13922544
+915,James Justin,Leicester City,West Ham,1,38,3.116447,0.13003753
+916,Boubakary Soumare,Leicester City,Liverpool,1,36,2.1977906,0.11755363
+917,Boubakary Soumare,Leicester City,Newcastle Utd,0,37,2.0645852,0.108467825
+918,Boubakary Soumare,Leicester City,West Ham,1,38,2.4997282,0.12364602
+919,Luke Thomas,Leicester City,Liverpool,1,36,2.1586766,0.14260045
+920,Luke Thomas,Leicester City,Newcastle Utd,0,37,2.0496237,0.10893924
+921,Luke Thomas,Leicester City,West Ham,1,38,2.533384,0.14408237
+922,Patson Daka,Leicester City,Liverpool,1,36,2.29001,0.14849468
+923,Patson Daka,Leicester City,Newcastle Utd,0,37,2.2422576,0.1300745
+924,Patson Daka,Leicester City,West Ham,1,38,2.6183379,0.11136126
+925,Lewis Brunt,Leicester City,Liverpool,1,36,2.1750512,0.14802964
+926,Lewis Brunt,Leicester City,Newcastle Utd,0,37,2.1156023,0.21331166
+927,Lewis Brunt,Leicester City,West Ham,1,38,2.5016458,0.14934807
+928,Daniel Iversen,Leicester City,Liverpool,1,36,2.554629,0.18979855
+929,Daniel Iversen,Leicester City,Newcastle Utd,0,37,2.4033053,0.18732531
+930,Daniel Iversen,Leicester City,West Ham,1,38,2.9996018,0.19529355
+931,Dennis Praet,Leicester City,Liverpool,1,36,2.5331178,0.8630304
+932,Dennis Praet,Leicester City,Newcastle Utd,0,37,2.300891,0.60355145
+933,Dennis Praet,Leicester City,West Ham,1,38,2.8033018,0.94489324
+934,Wout Faes,Leicester City,Liverpool,1,36,2.3397067,0.088650405
+935,Wout Faes,Leicester City,Newcastle Utd,0,37,2.190258,0.080338694
+936,Wout Faes,Leicester City,West Ham,1,38,2.742086,0.097774945
+937,Kasey McAteer,Leicester City,Liverpool,1,36,2.2042441,0.2605404
+938,Kasey McAteer,Leicester City,Newcastle Utd,0,37,2.1097383,0.25073585
+939,Kasey McAteer,Leicester City,West Ham,1,38,2.542253,0.20117018
+940,Harry Souttar,Leicester City,Liverpool,1,36,2.645608,0.18016136
+941,Harry Souttar,Leicester City,Newcastle Utd,0,37,2.5235353,0.15411098
+942,Harry Souttar,Leicester City,West Ham,1,38,3.1889896,0.17983212
+943,Liam Cooper,Leeds United,Newcastle Utd,1,36,2.2527397,0.09622494
+944,Liam Cooper,Leeds United,West Ham,0,37,2.3722513,0.08799699
+945,Liam Cooper,Leeds United,Tottenham,1,38,2.392118,0.12667675
+946,Luke Ayling,Leeds United,Newcastle Utd,1,36,2.3495107,0.10765621
+947,Luke Ayling,Leeds United,West Ham,0,37,2.5271308,0.064647935
+948,Luke Ayling,Leeds United,Tottenham,1,38,2.5388007,0.121260166
+949,Mateusz Klich,Leeds United,Newcastle Utd,1,36,2.1451938,0.14616157
+950,Mateusz Klich,Leeds United,West Ham,0,37,2.2262385,0.16418543
+951,Mateusz Klich,Leeds United,Tottenham,1,38,2.2386546,0.21138628
+952,Adam Forshaw,Leeds United,Newcastle Utd,1,36,2.3818066,0.5252424
+953,Adam Forshaw,Leeds United,West Ham,0,37,2.2707155,0.15819749
+954,Adam Forshaw,Leeds United,Tottenham,1,38,2.5141473,0.5819864
+955,Rodrigo,Leeds United,Newcastle Utd,1,36,2.5067976,0.13148381
+956,Rodrigo,Leeds United,West Ham,0,37,2.665114,0.16871108
+957,Rodrigo,Leeds United,Tottenham,1,38,2.6614287,0.18562755
+958,Stuart Dallas,Leeds United,Newcastle Utd,1,36,2.277508,0.11118722
+959,Stuart Dallas,Leeds United,West Ham,0,37,2.4070632,0.097967066
+960,Stuart Dallas,Leeds United,Tottenham,1,38,2.442551,0.11829137
+961,Patrick Bamford,Leeds United,Newcastle Utd,1,36,3.018024,0.16362047
+962,Patrick Bamford,Leeds United,West Ham,0,37,3.3578923,0.33861434
+963,Patrick Bamford,Leeds United,Tottenham,1,38,3.2038288,0.20936501
+964,Diego Llorente,Leeds United,Newcastle Utd,1,36,2.2574286,0.11234984
+965,Diego Llorente,Leeds United,West Ham,0,37,2.3810434,0.08510698
+966,Diego Llorente,Leeds United,Tottenham,1,38,2.4101214,0.14124908
+967,Tyler Roberts,Leeds United,Newcastle Utd,1,36,2.167595,0.14008084
+968,Tyler Roberts,Leeds United,West Ham,0,37,2.2626486,0.14062631
+969,Tyler Roberts,Leeds United,Tottenham,1,38,2.2676766,0.19578059
+970,Robin Koch,Leeds United,Newcastle Utd,1,36,2.2624958,0.12316118
+971,Robin Koch,Leeds United,West Ham,0,37,2.3529117,0.08350463
+972,Robin Koch,Leeds United,Tottenham,1,38,2.4025064,0.11969767
+973,Raphael Dias Belloli,Leeds United,Newcastle Utd,1,36,3.6560147,0.227051
+974,Raphael Dias Belloli,Leeds United,West Ham,0,37,3.9281127,0.1370964
+975,Raphael Dias Belloli,Leeds United,Tottenham,1,38,3.8309052,0.1847602
+976,Jack Harrison,Leeds United,Newcastle Utd,1,36,2.8137372,0.17941257
+977,Jack Harrison,Leeds United,West Ham,0,37,2.958326,0.107036956
+978,Jack Harrison,Leeds United,Tottenham,1,38,2.9632196,0.14512601
+979,Jamie Shackleton,Leeds United,Newcastle Utd,1,36,2.1176598,0.114333965
+980,Jamie Shackleton,Leeds United,West Ham,0,37,2.2180836,0.13866636
+981,Jamie Shackleton,Leeds United,Tottenham,1,38,2.2456686,0.16642456
+982,Pascal Struijk,Leeds United,Newcastle Utd,1,36,2.192416,0.11795926
+983,Pascal Struijk,Leeds United,West Ham,0,37,2.3014965,0.10105014
+984,Pascal Struijk,Leeds United,Tottenham,1,38,2.3233023,0.15786535
+985,Kristoffer Klaesson,Leeds United,Newcastle Utd,1,36,2.2034929,0.19238697
+986,Kristoffer Klaesson,Leeds United,West Ham,0,37,2.3056493,0.14477241
+987,Kristoffer Klaesson,Leeds United,Tottenham,1,38,2.3123603,0.19638939
+988,Sam Greenwood,Leeds United,Newcastle Utd,1,36,2.1680686,0.1599467
+989,Sam Greenwood,Leeds United,West Ham,0,37,2.2459502,0.16377838
+990,Sam Greenwood,Leeds United,Tottenham,1,38,2.2573714,0.2175621
+991,Illan Meslier,Leeds United,Newcastle Utd,1,36,2.4778666,0.12025665
+992,Illan Meslier,Leeds United,West Ham,0,37,2.6637547,0.09402972
+993,Illan Meslier,Leeds United,Tottenham,1,38,2.639211,0.16067624
+994,Crysencio Summerville,Leeds United,Newcastle Utd,1,36,2.2433567,0.09905643
+995,Crysencio Summerville,Leeds United,West Ham,0,37,2.3652472,0.11308103
+996,Crysencio Summerville,Leeds United,Tottenham,1,38,2.370669,0.13840048
+997,Lewis Bate,Leeds United,Newcastle Utd,1,36,2.1018834,0.10998456
+998,Lewis Bate,Leeds United,West Ham,0,37,2.1983206,0.1269666
+999,Lewis Bate,Leeds United,Tottenham,1,38,2.2268682,0.1583828
+1000,Joe Gelhardt,Leeds United,Newcastle Utd,1,36,2.1897502,0.15324777
+1001,Joe Gelhardt,Leeds United,West Ham,0,37,2.2897978,0.1554804
+1002,Joe Gelhardt,Leeds United,Tottenham,1,38,2.2893863,0.2156515
+1003,Leo Fuhr Hjelde,Leeds United,Newcastle Utd,1,36,2.2063217,0.12708719
+1004,Leo Fuhr Hjelde,Leeds United,West Ham,0,37,2.312802,0.09303621
+1005,Leo Fuhr Hjelde,Leeds United,Tottenham,1,38,2.3402896,0.12681325
+1006,Rasmus Kristensen,Leeds United,Newcastle Utd,1,36,2.1926513,0.09519114
+1007,Rasmus Kristensen,Leeds United,West Ham,0,37,2.3350375,0.10110596
+1008,Rasmus Kristensen,Leeds United,Tottenham,1,38,2.360751,0.14363077
+1009,Marc Roca,Leeds United,Newcastle Utd,1,36,2.3093765,0.08047201
+1010,Marc Roca,Leeds United,West Ham,0,37,2.405229,0.07575354
+1011,Marc Roca,Leeds United,Tottenham,1,38,2.4310508,0.08108188
+1012,Brenden Aaronson,Leeds United,Newcastle Utd,1,36,2.2895367,0.10023884
+1013,Brenden Aaronson,Leeds United,West Ham,0,37,2.4618413,0.11302403
+1014,Brenden Aaronson,Leeds United,Tottenham,1,38,2.4546375,0.12603201
+1015,Darko Gyabi,Leeds United,Newcastle Utd,1,36,2.204348,0.17372596
+1016,Darko Gyabi,Leeds United,West Ham,0,37,2.321126,0.20021038
+1017,Darko Gyabi,Leeds United,Tottenham,1,38,2.3200161,0.24405304
+1018,Tyler Adams,Leeds United,Newcastle Utd,1,36,2.2736487,0.13285016
+1019,Tyler Adams,Leeds United,West Ham,0,37,2.3440125,0.09974301
+1020,Tyler Adams,Leeds United,Tottenham,1,38,2.3845384,0.09841118
+1021,Luis Sinisterra,Leeds United,Newcastle Utd,1,36,2.372718,0.08261046
+1022,Luis Sinisterra,Leeds United,West Ham,0,37,2.4889846,0.121094175
+1023,Luis Sinisterra,Leeds United,Tottenham,1,38,2.4811103,0.1443977
+1024,Cody Drameh,Leeds United,Newcastle Utd,1,36,2.1174638,0.122099705
+1025,Cody Drameh,Leeds United,West Ham,0,37,2.2718048,0.13780788
+1026,Cody Drameh,Leeds United,Tottenham,1,38,2.2769024,0.1823627
+1027,Joel Robles,Leeds United,Newcastle Utd,1,36,2.3879933,0.16940284
+1028,Joel Robles,Leeds United,West Ham,0,37,2.5178955,0.1752016
+1029,Joel Robles,Leeds United,Tottenham,1,38,2.5330634,0.20900334
+1030,Degnand Gnonto,Leeds United,Newcastle Utd,1,36,2.228345,0.083705515
+1031,Degnand Gnonto,Leeds United,West Ham,0,37,2.3702455,0.14856821
+1032,Degnand Gnonto,Leeds United,Tottenham,1,38,2.3613086,0.14665084
+1033,Sonny Perkins,Leeds United,Newcastle Utd,1,36,2.153253,0.18676133
+1034,Sonny Perkins,Leeds United,West Ham,0,37,2.2601402,0.19158567
+1035,Sonny Perkins,Leeds United,Tottenham,1,38,2.2516513,0.23425724
+1036,Maximilian Wober,Leeds United,Newcastle Utd,1,36,2.2899714,0.23194051
+1037,Maximilian Wober,Leeds United,West Ham,0,37,2.3602607,0.1338256
+1038,Maximilian Wober,Leeds United,Tottenham,1,38,2.4231362,0.27936065
+1039,Georginio Rutter,Leeds United,Newcastle Utd,1,36,2.5931475,1.0863883
+1040,Georginio Rutter,Leeds United,West Ham,0,37,2.6523998,0.8965905
+1041,Georginio Rutter,Leeds United,Tottenham,1,38,2.7261672,1.0583637
+1042,Weston McKennie,Leeds United,Newcastle Utd,1,36,2.4551747,0.48716074
+1043,Weston McKennie,Leeds United,West Ham,0,37,2.3322778,0.1078945
+1044,Weston McKennie,Leeds United,Tottenham,1,38,2.585598,0.51958156
+1045,James Milner,Liverpool,Leicester City,0,36,2.4132824,0.1755993
+1046,James Milner,Liverpool,Aston Villa,1,37,2.5444777,0.18168752
+1047,James Milner,Liverpool,Southampton,0,38,2.6792989,0.17507008
+1048,Jordan Henderson,Liverpool,Leicester City,0,36,2.5528347,0.0747588
+1049,Jordan Henderson,Liverpool,Aston Villa,1,37,2.7091126,0.11630423
+1050,Jordan Henderson,Liverpool,Southampton,0,38,2.7976096,0.11761326
+1051,Joel Matip,Liverpool,Leicester City,0,36,2.7439682,0.13047011
+1052,Joel Matip,Liverpool,Aston Villa,1,37,3.0495982,0.13444737
+1053,Joel Matip,Liverpool,Southampton,0,38,3.2826,0.1316399
+1054,Thiago Alcantara,Liverpool,Leicester City,0,36,2.4850209,0.24188343
+1055,Thiago Alcantara,Liverpool,Aston Villa,1,37,2.6612468,0.1850243
+1056,Thiago Alcantara,Liverpool,Southampton,0,38,2.7534657,0.22105
+1057,Alex Oxlade-Chamberlain,Liverpool,Leicester City,0,36,2.8106759,0.6627201
+1058,Alex Oxlade-Chamberlain,Liverpool,Aston Villa,1,37,3.0034552,0.72041607
+1059,Alex Oxlade-Chamberlain,Liverpool,Southampton,0,38,3.234553,0.7867433
+1060,Roberto Firmino,Liverpool,Leicester City,0,36,3.523518,0.16781023
+1061,Roberto Firmino,Liverpool,Aston Villa,1,37,3.8130958,0.15753347
+1062,Roberto Firmino,Liverpool,Southampton,0,38,4.013096,0.17917085
+1063,Virgil van Dijk,Liverpool,Leicester City,0,36,3.622008,0.121156424
+1064,Virgil van Dijk,Liverpool,Aston Villa,1,37,3.9032853,0.15383735
+1065,Virgil van Dijk,Liverpool,Southampton,0,38,4.189876,0.10764479
+1066,Alisson,Liverpool,Leicester City,0,36,3.5192115,0.12651922
+1067,Alisson,Liverpool,Aston Villa,1,37,3.7909641,0.12734033
+1068,Alisson,Liverpool,Southampton,0,38,4.0257163,0.10113372
+1069,Mohamed Salah,Liverpool,Leicester City,0,36,7.126317,0.5775517
+1070,Mohamed Salah,Liverpool,Aston Villa,1,37,6.8334665,0.42862806
+1071,Mohamed Salah,Liverpool,Southampton,0,38,7.688647,0.71202546
+1072,Andrew Robertson,Liverpool,Leicester City,0,36,4.1896873,0.28559476
+1073,Andrew Robertson,Liverpool,Aston Villa,1,37,4.355736,0.1564424
+1074,Andrew Robertson,Liverpool,Southampton,0,38,4.6963315,0.31118137
+1075,Trent Alexander-Arnold,Liverpool,Leicester City,0,36,4.3221197,0.35298878
+1076,Trent Alexander-Arnold,Liverpool,Aston Villa,1,37,4.6159325,0.3376276
+1077,Trent Alexander-Arnold,Liverpool,Southampton,0,38,4.8054113,0.34811652
+1078,Joe Gomez,Liverpool,Leicester City,0,36,2.619005,0.112707876
+1079,Joe Gomez,Liverpool,Aston Villa,1,37,2.8675103,0.13422106
+1080,Joe Gomez,Liverpool,Southampton,0,38,3.0365613,0.10327874
+1081,Naby Keita,Liverpool,Leicester City,0,36,2.650083,0.16431916
+1082,Naby Keita,Liverpool,Aston Villa,1,37,2.9281142,0.5922016
+1083,Naby Keita,Liverpool,Southampton,0,38,2.9878266,0.13924429
+1084,Diogo Jota,Liverpool,Leicester City,0,36,4.1331496,0.2607515
+1085,Diogo Jota,Liverpool,Aston Villa,1,37,4.36459,0.20886242
+1086,Diogo Jota,Liverpool,Southampton,0,38,4.6127825,0.26703668
+1087,Ibrahima Konate,Liverpool,Leicester City,0,36,2.9731631,0.1911859
+1088,Ibrahima Konate,Liverpool,Aston Villa,1,37,3.3122792,0.16767949
+1089,Ibrahima Konate,Liverpool,Southampton,0,38,3.5447738,0.14471017
+1090,Curtis Jones,Liverpool,Leicester City,0,36,2.5579748,0.09200805
+1091,Curtis Jones,Liverpool,Aston Villa,1,37,2.725803,0.12900893
+1092,Curtis Jones,Liverpool,Southampton,0,38,2.8950765,0.108808875
+1093,Kostas Tsimikas,Liverpool,Leicester City,0,36,2.5084918,0.1579799
+1094,Kostas Tsimikas,Liverpool,Aston Villa,1,37,2.6695573,0.13640615
+1095,Kostas Tsimikas,Liverpool,Southampton,0,38,2.8651905,0.14910987
+1096,Luis Diaz,Liverpool,Leicester City,0,36,2.9252236,0.27765387
+1097,Luis Diaz,Liverpool,Aston Villa,1,37,3.1759782,0.21854076
+1098,Luis Diaz,Liverpool,Southampton,0,38,3.3584256,0.26221877
+1099,Harvey Elliott,Liverpool,Leicester City,0,36,2.5702631,0.10799852
+1100,Harvey Elliott,Liverpool,Aston Villa,1,37,2.7229137,0.12004394
+1101,Harvey Elliott,Liverpool,Southampton,0,38,2.868702,0.14671545
+1102,Fabio Carvalho,Liverpool,Leicester City,0,36,2.456574,0.1531577
+1103,Fabio Carvalho,Liverpool,Aston Villa,1,37,2.5774336,0.17252229
+1104,Fabio Carvalho,Liverpool,Southampton,0,38,2.689102,0.18703848
+1105,Darwin Nunez,Liverpool,Leicester City,0,36,3.901532,0.25458696
+1106,Darwin Nunez,Liverpool,Aston Villa,1,37,4.0890408,0.28074747
+1107,Darwin Nunez,Liverpool,Southampton,0,38,4.3445787,0.21201886
+1108,Rhys Williams,Liverpool,Leicester City,0,36,2.945107,0.15564789
+1109,Rhys Williams,Liverpool,Aston Villa,1,37,3.2304852,0.14767584
+1110,Rhys Williams,Liverpool,Southampton,0,38,3.5297077,0.15029296
+1111,Ben Davies,Liverpool,Leicester City,0,36,2.877002,0.1638677
+1112,Ben Davies,Liverpool,Aston Villa,1,37,3.1751103,0.1251391
+1113,Ben Davies,Liverpool,Southampton,0,38,3.4683926,0.12472037
+1114,Nathaniel Phillips,Liverpool,Leicester City,0,36,3.157452,0.09077443
+1115,Nathaniel Phillips,Liverpool,Aston Villa,1,37,3.444985,0.1474583
+1116,Nathaniel Phillips,Liverpool,Southampton,0,38,3.7510548,0.1429755
+1117,Stefan Bajcetic,Liverpool,Leicester City,0,36,2.444756,0.13785847
+1118,Stefan Bajcetic,Liverpool,Aston Villa,1,37,2.5910623,0.14159109
+1119,Stefan Bajcetic,Liverpool,Southampton,0,38,2.7175252,0.13816829
+1120,Bobby Clark,Liverpool,Leicester City,0,36,2.4309623,0.26103956
+1121,Bobby Clark,Liverpool,Aston Villa,1,37,2.745522,0.56896585
+1122,Bobby Clark,Liverpool,Southampton,0,38,2.7401261,0.25730413
+1123,Ben Doak,Liverpool,Leicester City,0,36,2.5634608,0.27908304
+1124,Ben Doak,Liverpool,Aston Villa,1,37,2.8781738,0.6231654
+1125,Ben Doak,Liverpool,Southampton,0,38,2.9347296,0.25791678
+1126,Cody Gakpo,Liverpool,Leicester City,0,36,4.6306744,0.16615275
+1127,Cody Gakpo,Liverpool,Aston Villa,1,37,4.7437043,0.2701209
+1128,Cody Gakpo,Liverpool,Southampton,0,38,5.0636683,0.20309928
+1129,Kyle Walker,Manchester City,Everton,0,36,3.3326168,0.18514118
+1130,Kyle Walker,Manchester City,Chelsea,1,37,3.1282132,0.1848676
+1131,Kyle Walker,Manchester City,Brighton,0,37,2.678873,0.2319982
+1132,Kyle Walker,Manchester City,Brentford,0,38,2.9072366,0.16851154
+1133,Ilkay Gundogan,Manchester City,Everton,0,36,4.333664,0.39983076
+1134,Ilkay Gundogan,Manchester City,Chelsea,1,37,3.9470322,0.26442868
+1135,Ilkay Gundogan,Manchester City,Brighton,0,37,3.5207639,0.38497773
+1136,Ilkay Gundogan,Manchester City,Brentford,0,38,3.73747,0.18630987
+1137,Kevin De Bruyne,Manchester City,Everton,0,36,6.025682,0.68355733
+1138,Kevin De Bruyne,Manchester City,Chelsea,1,37,5.4351234,0.5025464
+1139,Kevin De Bruyne,Manchester City,Brighton,0,37,4.81988,0.55346876
+1140,Kevin De Bruyne,Manchester City,Brentford,0,38,5.0854893,0.4771728
+1141,John Stones,Manchester City,Everton,0,36,4.0384,0.20140599
+1142,John Stones,Manchester City,Chelsea,1,37,3.7921684,0.123264626
+1143,John Stones,Manchester City,Brighton,0,37,3.2706628,0.14684938
+1144,John Stones,Manchester City,Brentford,0,38,3.6120102,0.16825236
+1145,Riyad Mahrez,Manchester City,Everton,0,36,5.270516,0.81303513
+1146,Riyad Mahrez,Manchester City,Chelsea,1,37,4.724426,0.5056594
+1147,Riyad Mahrez,Manchester City,Brighton,0,37,4.344757,0.6674427
+1148,Riyad Mahrez,Manchester City,Brentford,0,38,4.4794016,0.69074756
+1149,Jack Grealish,Manchester City,Everton,0,36,5.0424223,0.51613796
+1150,Jack Grealish,Manchester City,Chelsea,1,37,4.4262557,0.13009207
+1151,Jack Grealish,Manchester City,Brighton,0,37,4.1123414,0.63945514
+1152,Jack Grealish,Manchester City,Brentford,0,38,4.335326,0.32537255
+1153,Joao Cancelo,Manchester City,Everton,0,36,3.7887585,0.28809032
+1154,Joao Cancelo,Manchester City,Chelsea,1,37,3.538712,0.1865536
+1155,Joao Cancelo,Manchester City,Brighton,0,37,3.0191228,0.25343728
+1156,Joao Cancelo,Manchester City,Brentford,0,38,3.283669,0.22494581
+1157,Ederson,Manchester City,Everton,0,36,4.0122013,0.20647234
+1158,Ederson,Manchester City,Chelsea,1,37,3.7585502,0.17119141
+1159,Ederson,Manchester City,Brighton,0,37,3.295676,0.15557455
+1160,Ederson,Manchester City,Brentford,0,38,3.591556,0.15687817
+1161,Nathan Ake,Manchester City,Everton,0,36,3.4465873,0.13972399
+1162,Nathan Ake,Manchester City,Chelsea,1,37,3.2160027,0.12273771
+1163,Nathan Ake,Manchester City,Brighton,0,37,2.6907182,0.23768125
+1164,Nathan Ake,Manchester City,Brentford,0,38,2.98526,0.14415099
+1165,Aymeric Laporte,Manchester City,Everton,0,36,4.1566772,0.19000313
+1166,Aymeric Laporte,Manchester City,Chelsea,1,37,3.8705773,0.11346376
+1167,Aymeric Laporte,Manchester City,Brighton,0,37,3.3889542,0.12262422
+1168,Aymeric Laporte,Manchester City,Brentford,0,38,3.7385907,0.15783983
+1169,Zack Steffen,Manchester City,Everton,0,36,3.7521827,0.1345207
+1170,Zack Steffen,Manchester City,Chelsea,1,37,3.5376904,0.14543067
+1171,Zack Steffen,Manchester City,Brighton,0,37,3.0292697,0.248285
+1172,Zack Steffen,Manchester City,Brentford,0,38,3.2988746,0.15867212
+1173,Bernardo Silva,Manchester City,Everton,0,36,3.2738419,0.24467832
+1174,Bernardo Silva,Manchester City,Chelsea,1,37,3.063833,0.15009876
+1175,Bernardo Silva,Manchester City,Brighton,0,37,2.7097616,0.20554416
+1176,Bernardo Silva,Manchester City,Brentford,0,38,2.839172,0.15600418
+1177,Ruben Dias,Manchester City,Everton,0,36,4.0211916,0.22612086
+1178,Ruben Dias,Manchester City,Chelsea,1,37,3.7825897,0.1871425
+1179,Ruben Dias,Manchester City,Brighton,0,37,3.2981236,0.2251168
+1180,Ruben Dias,Manchester City,Brentford,0,38,3.6164196,0.19599852
+1181,Phil Foden,Manchester City,Everton,0,36,4.7050757,0.25172606
+1182,Phil Foden,Manchester City,Chelsea,1,37,4.2811613,0.16253275
+1183,Phil Foden,Manchester City,Brighton,0,37,3.817866,0.13821745
+1184,Phil Foden,Manchester City,Brentford,0,38,4.1578636,0.20572495
+1185,Rodri,Manchester City,Everton,0,36,3.2134,0.2187398
+1186,Rodri,Manchester City,Chelsea,1,37,3.0431795,0.110174686
+1187,Rodri,Manchester City,Brighton,0,37,2.6274152,0.14627224
+1188,Rodri,Manchester City,Brentford,0,38,2.802256,0.11292669
+1189,Cole Palmer,Manchester City,Everton,0,36,2.6908927,0.17144112
+1190,Cole Palmer,Manchester City,Chelsea,1,37,2.56461,0.22586112
+1191,Cole Palmer,Manchester City,Brighton,0,37,2.264638,0.27812633
+1192,Cole Palmer,Manchester City,Brentford,0,38,2.385844,0.21662188
+1193,Erling Haaland,Manchester City,Everton,0,36,5.907456,0.92693436
+1194,Erling Haaland,Manchester City,Chelsea,1,37,4.6962976,0.7387385
+1195,Erling Haaland,Manchester City,Brighton,0,37,4.125108,0.5173272
+1196,Erling Haaland,Manchester City,Brentford,0,38,4.955675,0.64761263
+1197,Julian Alvarez,Manchester City,Everton,0,36,3.1393993,0.2321508
+1198,Julian Alvarez,Manchester City,Chelsea,1,37,2.8755429,0.16150834
+1199,Julian Alvarez,Manchester City,Brighton,0,37,2.5397358,0.23710062
+1200,Julian Alvarez,Manchester City,Brentford,0,38,2.6814408,0.17590714
+1201,Liam Delap,Manchester City,Everton,0,36,2.7574458,0.12903894
+1202,Liam Delap,Manchester City,Chelsea,1,37,2.584213,0.23301812
+1203,Liam Delap,Manchester City,Brighton,0,37,2.29462,0.2619595
+1204,Liam Delap,Manchester City,Brentford,0,38,2.4002254,0.2296356
+1205,Kalvin Phillips,Manchester City,Everton,0,36,2.7023735,0.12028329
+1206,Kalvin Phillips,Manchester City,Chelsea,1,37,2.5716243,0.1738504
+1207,Kalvin Phillips,Manchester City,Brighton,0,37,2.2445116,0.22277318
+1208,Kalvin Phillips,Manchester City,Brentford,0,38,2.3761,0.15980141
+1209,Scott Carson,Manchester City,Everton,0,36,4.279339,0.53315336
+1210,Scott Carson,Manchester City,Chelsea,1,37,4.054723,0.4314779
+1211,Scott Carson,Manchester City,Brighton,0,37,3.5575886,0.49322495
+1212,Scott Carson,Manchester City,Brentford,0,38,3.8875973,0.53988665
+1213,Rico Lewis,Manchester City,Everton,0,36,3.105667,0.12091745
+1214,Rico Lewis,Manchester City,Chelsea,1,37,2.874516,0.13390563
+1215,Rico Lewis,Manchester City,Brighton,0,37,2.5075848,0.16659744
+1216,Rico Lewis,Manchester City,Brentford,0,38,2.6551964,0.14026572
+1217,Sergio Gomez,Manchester City,Everton,0,36,2.6840806,0.1158716
+1218,Sergio Gomez,Manchester City,Chelsea,1,37,2.5513854,0.1916071
+1219,Sergio Gomez,Manchester City,Brighton,0,37,2.2145538,0.22947535
+1220,Sergio Gomez,Manchester City,Brentford,0,38,2.3599515,0.1606963
+1221,Manuel Akanji,Manchester City,Everton,0,36,3.8826175,0.15508455
+1222,Manuel Akanji,Manchester City,Chelsea,1,37,3.6231246,0.1274089
+1223,Manuel Akanji,Manchester City,Brighton,0,37,3.1033096,0.22408909
+1224,Manuel Akanji,Manchester City,Brentford,0,38,3.3977513,0.18503942
+1225,Maximo Perrone,Manchester City,Everton,0,36,2.783355,0.15502097
+1226,Maximo Perrone,Manchester City,Chelsea,1,37,2.8390112,0.5695646
+1227,Maximo Perrone,Manchester City,Brighton,0,37,2.347857,0.27319697
+1228,Maximo Perrone,Manchester City,Brentford,0,38,2.4619308,0.23735538
+1229,Jack Butland,Manchester Utd,Wolves,1,36,3.8634944,0.08283778
+1230,Jack Butland,Manchester Utd,Chelsea,1,37,3.1451476,0.11039827
+1231,Jack Butland,Manchester Utd,Bournemouth,0,37,3.3389187,0.13268219
+1232,Jack Butland,Manchester Utd,Fulham,1,38,3.8037095,0.111450724
+1233,Cristiano Ronaldo,Manchester Utd,Wolves,1,36,4.66615,0.18741511
+1234,Cristiano Ronaldo,Manchester Utd,Chelsea,1,37,3.8507607,0.20020804
+1235,Cristiano Ronaldo,Manchester Utd,Bournemouth,0,37,4.3439074,0.11927821
+1236,Cristiano Ronaldo,Manchester Utd,Fulham,1,38,4.637181,0.19680278
+1237,David de Gea,Manchester Utd,Wolves,1,36,3.9361203,0.12480381
+1238,David de Gea,Manchester Utd,Chelsea,1,37,3.197172,0.11816406
+1239,David de Gea,Manchester Utd,Bournemouth,0,37,3.4014602,0.1293157
+1240,David de Gea,Manchester Utd,Fulham,1,38,3.8767505,0.12302029
+1241,Phil Jones,Manchester Utd,Wolves,1,36,3.0296896,0.12846456
+1242,Phil Jones,Manchester Utd,Chelsea,1,37,2.4225883,0.17388694
+1243,Phil Jones,Manchester Utd,Bournemouth,0,37,2.6229856,0.10760825
+1244,Phil Jones,Manchester Utd,Fulham,1,38,2.9786823,0.1089965
+1245,Raphael Varane,Manchester Utd,Wolves,1,36,3.294726,0.12326414
+1246,Raphael Varane,Manchester Utd,Chelsea,1,37,2.5969362,0.13424759
+1247,Raphael Varane,Manchester Utd,Bournemouth,0,37,2.834301,0.08247362
+1248,Raphael Varane,Manchester Utd,Fulham,1,38,3.2466455,0.09548096
+1249,Harry Maguire,Manchester Utd,Wolves,1,36,3.251553,0.13663188
+1250,Harry Maguire,Manchester Utd,Chelsea,1,37,2.56816,0.12727162
+1251,Harry Maguire,Manchester Utd,Bournemouth,0,37,2.7793415,0.07592634
+1252,Harry Maguire,Manchester Utd,Fulham,1,38,3.2012832,0.12027437
+1253,Luke Shaw,Manchester Utd,Wolves,1,36,3.8233094,0.17992453
+1254,Luke Shaw,Manchester Utd,Chelsea,1,37,3.1301687,0.1068159
+1255,Luke Shaw,Manchester Utd,Bournemouth,0,37,3.308897,0.1078947
+1256,Luke Shaw,Manchester Utd,Fulham,1,38,3.7640176,0.14101271
+1257,Bruno Fernandes,Manchester Utd,Wolves,1,36,5.6443224,1.3988482
+1258,Bruno Fernandes,Manchester Utd,Chelsea,1,37,4.861133,1.3029654
+1259,Bruno Fernandes,Manchester Utd,Bournemouth,0,37,5.415487,1.913569
+1260,Bruno Fernandes,Manchester Utd,Fulham,1,38,5.6973214,1.3882227
+1261,Alex Telles,Manchester Utd,Wolves,1,36,3.660851,0.18957637
+1262,Alex Telles,Manchester Utd,Chelsea,1,37,3.006657,0.10364855
+1263,Alex Telles,Manchester Utd,Bournemouth,0,37,3.1870558,0.12477981
+1264,Alex Telles,Manchester Utd,Fulham,1,38,3.6211758,0.16981673
+1265,Marcus Rashford,Manchester Utd,Wolves,1,36,4.854127,0.25580442
+1266,Marcus Rashford,Manchester Utd,Chelsea,1,37,3.9525967,0.15902969
+1267,Marcus Rashford,Manchester Utd,Bournemouth,0,37,4.4987803,0.2150332
+1268,Marcus Rashford,Manchester Utd,Fulham,1,38,4.8246794,0.26120314
+1269,Donny van de Beek,Manchester Utd,Wolves,1,36,2.6822112,0.19260688
+1270,Donny van de Beek,Manchester Utd,Chelsea,1,37,2.307983,0.1982522
+1271,Donny van de Beek,Manchester Utd,Bournemouth,0,37,2.436236,0.09654731
+1272,Donny van de Beek,Manchester Utd,Fulham,1,38,2.6564388,0.15033086
+1273,Victor Lindelof,Manchester Utd,Wolves,1,36,3.3378632,0.116332136
+1274,Victor Lindelof,Manchester Utd,Chelsea,1,37,2.6668308,0.09990358
+1275,Victor Lindelof,Manchester Utd,Bournemouth,0,37,2.8617291,0.13047054
+1276,Victor Lindelof,Manchester Utd,Fulham,1,38,3.2843869,0.12218172
+1277,Scott McTominay,Manchester Utd,Wolves,1,36,2.7884374,0.124151886
+1278,Scott McTominay,Manchester Utd,Chelsea,1,37,2.4157007,0.09392322
+1279,Scott McTominay,Manchester Utd,Bournemouth,0,37,2.5067575,0.113526136
+1280,Scott McTominay,Manchester Utd,Fulham,1,38,2.7787304,0.10657531
+1281,Eric Bailly,Manchester Utd,Wolves,1,36,2.8993275,0.10723891
+1282,Eric Bailly,Manchester Utd,Chelsea,1,37,2.3635325,0.16827823
+1283,Eric Bailly,Manchester Utd,Bournemouth,0,37,2.5441048,0.093721144
+1284,Eric Bailly,Manchester Utd,Fulham,1,38,2.8483202,0.09311372
+1285,Jadon Sancho,Manchester Utd,Wolves,1,36,3.8148525,0.16827375
+1286,Jadon Sancho,Manchester Utd,Chelsea,1,37,3.1669002,0.10182895
+1287,Jadon Sancho,Manchester Utd,Bournemouth,0,37,3.408649,0.16317996
+1288,Jadon Sancho,Manchester Utd,Fulham,1,38,3.7819004,0.17398033
+1289,Aaron Wan-Bissaka,Manchester Utd,Wolves,1,36,3.586268,0.09061891
+1290,Aaron Wan-Bissaka,Manchester Utd,Chelsea,1,37,2.8720233,0.100507334
+1291,Aaron Wan-Bissaka,Manchester Utd,Bournemouth,0,37,3.1012223,0.10051221
+1292,Aaron Wan-Bissaka,Manchester Utd,Fulham,1,38,3.5374775,0.08800055
+1293,Diogo Dalot,Manchester Utd,Wolves,1,36,3.9012573,0.07829578
+1294,Diogo Dalot,Manchester Utd,Chelsea,1,37,3.1879983,0.11440095
+1295,Diogo Dalot,Manchester Utd,Bournemouth,0,37,3.375684,0.13585824
+1296,Diogo Dalot,Manchester Utd,Fulham,1,38,3.8368335,0.1212494
+1297,Brandon Williams,Manchester Utd,Wolves,1,36,2.9149804,0.1545377
+1298,Brandon Williams,Manchester Utd,Chelsea,1,37,2.38896,0.16412865
+1299,Brandon Williams,Manchester Utd,Bournemouth,0,37,2.576877,0.06643646
+1300,Brandon Williams,Manchester Utd,Fulham,1,38,2.8639731,0.110779725
+1301,Anthony Elanga,Manchester Utd,Wolves,1,36,2.8567889,0.19716898
+1302,Anthony Elanga,Manchester Utd,Chelsea,1,37,2.366342,0.21687323
+1303,Anthony Elanga,Manchester Utd,Bournemouth,0,37,2.54588,0.09625772
+1304,Anthony Elanga,Manchester Utd,Fulham,1,38,2.806519,0.15641634
+1305,Anthony Martial,Manchester Utd,Wolves,1,36,3.589716,0.1980798
+1306,Anthony Martial,Manchester Utd,Chelsea,1,37,2.9381356,0.1870002
+1307,Anthony Martial,Manchester Utd,Bournemouth,0,37,3.2183812,0.19853063
+1308,Anthony Martial,Manchester Utd,Fulham,1,38,3.5404754,0.20986164
+1309,Tom Heaton,Manchester Utd,Wolves,1,36,3.5190353,0.10245495
+1310,Tom Heaton,Manchester Utd,Chelsea,1,37,2.8363476,0.09691069
+1311,Tom Heaton,Manchester Utd,Bournemouth,0,37,3.0577033,0.14299875
+1312,Tom Heaton,Manchester Utd,Fulham,1,38,3.4737077,0.12973006
+1313,Tyrell Malacia,Manchester Utd,Wolves,1,36,3.0049624,0.067943044
+1314,Tyrell Malacia,Manchester Utd,Chelsea,1,37,2.4386096,0.1136309
+1315,Tyrell Malacia,Manchester Utd,Bournemouth,0,37,2.6350062,0.10688938
+1316,Tyrell Malacia,Manchester Utd,Fulham,1,38,2.9505255,0.07405736
+1317,Christian Eriksen,Manchester Utd,Wolves,1,36,3.6727939,0.18262973
+1318,Christian Eriksen,Manchester Utd,Chelsea,1,37,3.2011688,0.08152979
+1319,Christian Eriksen,Manchester Utd,Bournemouth,0,37,3.3298688,0.12038399
+1320,Christian Eriksen,Manchester Utd,Fulham,1,38,3.6660676,0.1732556
+1321,Lisandro Martinez,Manchester Utd,Wolves,1,36,3.2754245,0.11619339
+1322,Lisandro Martinez,Manchester Utd,Chelsea,1,37,2.5838916,0.14024799
+1323,Lisandro Martinez,Manchester Utd,Bournemouth,0,37,2.8003871,0.06856311
+1324,Lisandro Martinez,Manchester Utd,Fulham,1,38,3.225705,0.08964486
+1325,Amad Diallo,Manchester Utd,Wolves,1,36,3.1436968,0.26591164
+1326,Amad Diallo,Manchester Utd,Chelsea,1,37,2.5394344,0.23505192
+1327,Amad Diallo,Manchester Utd,Bournemouth,0,37,2.7179976,0.26247752
+1328,Amad Diallo,Manchester Utd,Fulham,1,38,3.0699246,0.2557335
+1329,Alejandro Garnacho,Manchester Utd,Wolves,1,36,2.862799,0.19449246
+1330,Alejandro Garnacho,Manchester Utd,Chelsea,1,37,2.3722203,0.19858608
+1331,Alejandro Garnacho,Manchester Utd,Bournemouth,0,37,2.548098,0.10156927
+1332,Alejandro Garnacho,Manchester Utd,Fulham,1,38,2.8139431,0.15852477
+1333,Casemiro,Manchester Utd,Wolves,1,36,3.0161865,0.17488264
+1334,Casemiro,Manchester Utd,Chelsea,1,37,2.5538971,0.07373339
+1335,Casemiro,Manchester Utd,Bournemouth,0,37,2.6705928,0.08474161
+1336,Casemiro,Manchester Utd,Fulham,1,38,2.9904141,0.13466252
+1337,Antony,Manchester Utd,Wolves,1,36,4.845105,0.22718838
+1338,Antony,Manchester Utd,Chelsea,1,37,4.067372,0.23578253
+1339,Antony,Manchester Utd,Bournemouth,0,37,4.482896,0.26708606
+1340,Antony,Manchester Utd,Fulham,1,38,4.895238,0.27335328
+1341,Kobbie Mainoo,Manchester Utd,Wolves,1,36,3.0676093,0.8969465
+1342,Kobbie Mainoo,Manchester Utd,Chelsea,1,37,2.7210968,0.8888124
+1343,Kobbie Mainoo,Manchester Utd,Bournemouth,0,37,2.7409022,0.6519672
+1344,Kobbie Mainoo,Manchester Utd,Fulham,1,38,3.096303,1.0007375
+1345,Shola Shoretire,Manchester Utd,Wolves,1,36,2.8188355,0.1390896
+1346,Shola Shoretire,Manchester Utd,Chelsea,1,37,2.3009744,0.17740536
+1347,Shola Shoretire,Manchester Utd,Bournemouth,0,37,2.4908264,0.117002055
+1348,Shola Shoretire,Manchester Utd,Fulham,1,38,2.7702203,0.106442995
+1349,Wout Weghorst,Manchester Utd,Wolves,1,36,2.9058545,0.13193092
+1350,Wout Weghorst,Manchester Utd,Chelsea,1,37,2.408506,0.17755432
+1351,Wout Weghorst,Manchester Utd,Bournemouth,0,37,2.5969741,0.059764244
+1352,Wout Weghorst,Manchester Utd,Fulham,1,38,2.8565915,0.09076429
+1353,Marcel Sabitzer,Manchester Utd,Wolves,1,36,2.7827563,0.07285109
+1354,Marcel Sabitzer,Manchester Utd,Chelsea,1,37,2.4091399,0.12018809
+1355,Marcel Sabitzer,Manchester Utd,Bournemouth,0,37,2.5239081,0.1161652
+1356,Marcel Sabitzer,Manchester Utd,Fulham,1,38,2.775276,0.052654166
+1357,Anthony Gordon,Newcastle Utd,Brighton,1,36,2.3775477,0.15773952
+1358,Anthony Gordon,Newcastle Utd,Leeds United,0,36,2.7062385,0.13533215
+1359,Anthony Gordon,Newcastle Utd,Leicester City,1,37,2.610646,0.115994334
+1360,Anthony Gordon,Newcastle Utd,Chelsea,0,38,2.3389885,0.15109135
+1361,Matt Ritchie,Newcastle Utd,Brighton,1,36,2.3635092,0.28827995
+1362,Matt Ritchie,Newcastle Utd,Leeds United,0,36,2.6262572,0.14368644
+1363,Matt Ritchie,Newcastle Utd,Leicester City,1,37,2.5888953,0.24112593
+1364,Matt Ritchie,Newcastle Utd,Chelsea,0,38,2.2694263,0.21056473
+1365,Ciaran Clark,Newcastle Utd,Brighton,1,36,2.2323024,0.18013433
+1366,Ciaran Clark,Newcastle Utd,Leeds United,0,36,2.601336,0.13486484
+1367,Ciaran Clark,Newcastle Utd,Leicester City,1,37,2.5123873,0.13936768
+1368,Ciaran Clark,Newcastle Utd,Chelsea,0,38,2.2182157,0.20375782
+1369,Karl Darlow,Newcastle Utd,Brighton,1,36,2.726671,0.15049061
+1370,Karl Darlow,Newcastle Utd,Leeds United,0,36,3.1705534,0.1641575
+1371,Karl Darlow,Newcastle Utd,Leicester City,1,37,3.007638,0.06476924
+1372,Karl Darlow,Newcastle Utd,Chelsea,0,38,2.7191253,0.15192285
+1373,Martin Dubravka,Newcastle Utd,Brighton,1,36,3.289353,0.4704316
+1374,Martin Dubravka,Newcastle Utd,Leeds United,0,36,3.8476214,0.4438416
+1375,Martin Dubravka,Newcastle Utd,Leicester City,1,37,3.812242,0.43550536
+1376,Martin Dubravka,Newcastle Utd,Chelsea,0,38,3.2657459,0.4750399
+1377,Callum Wilson,Newcastle Utd,Brighton,1,36,3.603971,0.21344179
+1378,Callum Wilson,Newcastle Utd,Leeds United,0,36,4.3638973,0.3389872
+1379,Callum Wilson,Newcastle Utd,Leicester City,1,37,4.012736,0.23571327
+1380,Callum Wilson,Newcastle Utd,Chelsea,0,38,3.5617142,0.14579396
+1381,Kieran Trippier,Newcastle Utd,Brighton,1,36,4.156375,0.33601874
+1382,Kieran Trippier,Newcastle Utd,Leeds United,0,36,4.8261213,0.4029915
+1383,Kieran Trippier,Newcastle Utd,Leicester City,1,37,4.5701575,0.3015648
+1384,Kieran Trippier,Newcastle Utd,Chelsea,0,38,4.049253,0.26450816
+1385,Dan Burn,Newcastle Utd,Brighton,1,36,2.6016061,0.19671038
+1386,Dan Burn,Newcastle Utd,Leeds United,0,36,3.1057491,0.15114477
+1387,Dan Burn,Newcastle Utd,Leicester City,1,37,2.9436681,0.11809738
+1388,Dan Burn,Newcastle Utd,Chelsea,0,38,2.655023,0.1703023
+1389,Ryan Fraser,Newcastle Utd,Brighton,1,36,2.3741922,0.1702379
+1390,Ryan Fraser,Newcastle Utd,Leeds United,0,36,2.6452937,0.14780554
+1391,Ryan Fraser,Newcastle Utd,Leicester City,1,37,2.5712593,0.12608212
+1392,Ryan Fraser,Newcastle Utd,Chelsea,0,38,2.3114712,0.18464673
+1393,Jamaal Lascelles,Newcastle Utd,Brighton,1,36,2.2724538,0.17954612
+1394,Jamaal Lascelles,Newcastle Utd,Leeds United,0,36,2.60119,0.13429065
+1395,Jamaal Lascelles,Newcastle Utd,Leicester City,1,37,2.5129216,0.14213313
+1396,Jamaal Lascelles,Newcastle Utd,Chelsea,0,38,2.2251163,0.19764853
+1397,Dwight Gayle,Newcastle Utd,Brighton,1,36,2.2818396,0.22703405
+1398,Dwight Gayle,Newcastle Utd,Leeds United,0,36,2.5880804,0.1527377
+1399,Dwight Gayle,Newcastle Utd,Leicester City,1,37,2.4933372,0.18211931
+1400,Dwight Gayle,Newcastle Utd,Chelsea,0,38,2.233982,0.2252075
+1401,Paul Dummett,Newcastle Utd,Brighton,1,36,2.338902,0.15599987
+1402,Paul Dummett,Newcastle Utd,Leeds United,0,36,2.6814451,0.10287745
+1403,Paul Dummett,Newcastle Utd,Leicester City,1,37,2.5896652,0.11169554
+1404,Paul Dummett,Newcastle Utd,Chelsea,0,38,2.278923,0.16763715
+1405,Emil Krafth,Newcastle Utd,Brighton,1,36,2.844279,1.3084333
+1406,Emil Krafth,Newcastle Utd,Leeds United,0,36,3.1636088,1.1709002
+1407,Emil Krafth,Newcastle Utd,Leicester City,1,37,3.1041582,1.3902415
+1408,Emil Krafth,Newcastle Utd,Chelsea,0,38,2.7145152,1.0503813
+1409,Jacob Murphy,Newcastle Utd,Brighton,1,36,2.5926566,0.12535146
+1410,Jacob Murphy,Newcastle Utd,Leeds United,0,36,3.1156654,0.52289844
+1411,Jacob Murphy,Newcastle Utd,Leicester City,1,37,2.8274376,0.119918264
+1412,Jacob Murphy,Newcastle Utd,Chelsea,0,38,2.5228188,0.09972296
+1413,Fabian Schar,Newcastle Utd,Brighton,1,36,3.2831998,0.13212378
+1414,Fabian Schar,Newcastle Utd,Leeds United,0,36,3.843135,0.17971675
+1415,Fabian Schar,Newcastle Utd,Leicester City,1,37,3.7356038,0.13274334
+1416,Fabian Schar,Newcastle Utd,Chelsea,0,38,3.3030849,0.082873106
+1417,Matt Targett,Newcastle Utd,Brighton,1,36,2.3189569,0.20100726
+1418,Matt Targett,Newcastle Utd,Leeds United,0,36,2.683856,0.14965631
+1419,Matt Targett,Newcastle Utd,Leicester City,1,37,2.5565476,0.17935039
+1420,Matt Targett,Newcastle Utd,Chelsea,0,38,2.2727194,0.21661028
+1421,Allan Saint-Maximin,Newcastle Utd,Brighton,1,36,2.494555,0.10698778
+1422,Allan Saint-Maximin,Newcastle Utd,Leeds United,0,36,2.8055596,0.125734
+1423,Allan Saint-Maximin,Newcastle Utd,Leicester City,1,37,2.6898167,0.12845072
+1424,Allan Saint-Maximin,Newcastle Utd,Chelsea,0,38,2.4669244,0.16808558
+1425,Miguel Almiron,Newcastle Utd,Brighton,1,36,3.0249927,0.25867137
+1426,Miguel Almiron,Newcastle Utd,Leeds United,0,36,3.5790355,0.3319514
+1427,Miguel Almiron,Newcastle Utd,Leicester City,1,37,3.3083103,0.23380157
+1428,Miguel Almiron,Newcastle Utd,Chelsea,0,38,3.0062385,0.30224407
+1429,Sean Longstaff,Newcastle Utd,Brighton,1,36,2.4055698,0.14888142
+1430,Sean Longstaff,Newcastle Utd,Leeds United,0,36,2.7907753,0.15753005
+1431,Sean Longstaff,Newcastle Utd,Leicester City,1,37,2.6791883,0.06757168
+1432,Sean Longstaff,Newcastle Utd,Chelsea,0,38,2.3806396,0.10443367
+1433,Joelinton,Newcastle Utd,Brighton,1,36,2.9844916,0.13902533
+1434,Joelinton,Newcastle Utd,Leeds United,0,36,3.397821,0.17687692
+1435,Joelinton,Newcastle Utd,Leicester City,1,37,3.3143475,0.12677716
+1436,Joelinton,Newcastle Utd,Chelsea,0,38,3.0006022,0.14545771
+1437,Jamal Lewis,Newcastle Utd,Brighton,1,36,2.5594661,0.63391614
+1438,Jamal Lewis,Newcastle Utd,Leeds United,0,36,2.653025,0.15582918
+1439,Jamal Lewis,Newcastle Utd,Leicester City,1,37,2.7985272,0.6055559
+1440,Jamal Lewis,Newcastle Utd,Chelsea,0,38,2.313164,0.2696984
+1441,Joe Willock,Newcastle Utd,Brighton,1,36,2.979142,0.2659343
+1442,Joe Willock,Newcastle Utd,Leeds United,0,36,3.3717144,0.23891404
+1443,Joe Willock,Newcastle Utd,Leicester City,1,37,3.268664,0.24676213
+1444,Joe Willock,Newcastle Utd,Chelsea,0,38,2.9321737,0.11562252
+1445,Bruno Guimaraes,Newcastle Utd,Brighton,1,36,2.6464345,0.06075733
+1446,Bruno Guimaraes,Newcastle Utd,Leeds United,0,36,2.9841316,0.15338898
+1447,Bruno Guimaraes,Newcastle Utd,Leicester City,1,37,2.914291,0.13544686
+1448,Bruno Guimaraes,Newcastle Utd,Chelsea,0,38,2.613214,0.14160344
+1449,Jeff Hendrick,Newcastle Utd,Brighton,1,36,2.2039902,0.21243215
+1450,Jeff Hendrick,Newcastle Utd,Leeds United,0,36,2.487361,0.15440252
+1451,Jeff Hendrick,Newcastle Utd,Leicester City,1,37,2.4397583,0.17369202
+1452,Jeff Hendrick,Newcastle Utd,Chelsea,0,38,2.1770175,0.21789323
+1453,Nick Pope,Newcastle Utd,Brighton,1,36,2.9881628,0.20504671
+1454,Nick Pope,Newcastle Utd,Leeds United,0,36,3.45147,0.17926322
+1455,Nick Pope,Newcastle Utd,Leicester City,1,37,3.3288293,0.12758313
+1456,Nick Pope,Newcastle Utd,Chelsea,0,38,3.018762,0.14324278
+1457,Sven Botman,Newcastle Utd,Brighton,1,36,3.0360858,0.19782335
+1458,Sven Botman,Newcastle Utd,Leeds United,0,36,3.5490336,0.08154787
+1459,Sven Botman,Newcastle Utd,Leicester City,1,37,3.394696,0.10274332
+1460,Sven Botman,Newcastle Utd,Chelsea,0,38,3.0514894,0.106312834
+1461,Elliot Anderson,Newcastle Utd,Brighton,1,36,2.2794635,0.20871542
+1462,Elliot Anderson,Newcastle Utd,Leeds United,0,36,2.6160443,0.12729089
+1463,Elliot Anderson,Newcastle Utd,Leicester City,1,37,2.5189986,0.15286738
+1464,Elliot Anderson,Newcastle Utd,Chelsea,0,38,2.2537522,0.1896001
+1465,Harrison Ashby,Newcastle Utd,Brighton,1,36,2.213668,0.19101666
+1466,Harrison Ashby,Newcastle Utd,Leeds United,0,36,2.5441196,0.16238421
+1467,Harrison Ashby,Newcastle Utd,Leicester City,1,37,2.454136,0.15667789
+1468,Harrison Ashby,Newcastle Utd,Chelsea,0,38,2.1687572,0.21211849
+1469,Alexander Isak,Newcastle Utd,Brighton,1,36,4.06631,0.2655398
+1470,Alexander Isak,Newcastle Utd,Leeds United,0,36,4.9224668,0.39480036
+1471,Alexander Isak,Newcastle Utd,Leicester City,1,37,4.6401753,0.27036962
+1472,Alexander Isak,Newcastle Utd,Chelsea,0,38,3.8634236,0.19979034
+1473,Neco Williams,Nottingham Forest,Chelsea,0,36,2.1849382,0.14251013
+1474,Neco Williams,Nottingham Forest,Arsenal,1,37,2.1767938,0.105896376
+1475,Neco Williams,Nottingham Forest,Crystal Palace,0,38,2.5788267,0.13133043
+1476,Jonjo Shelvey,Nottingham Forest,Chelsea,0,36,2.4345744,0.80991435
+1477,Jonjo Shelvey,Nottingham Forest,Arsenal,1,37,2.5609481,1.1155019
+1478,Jonjo Shelvey,Nottingham Forest,Crystal Palace,0,38,2.7168107,0.805691
+1479,Chris Wood,Nottingham Forest,Chelsea,0,36,2.2931142,0.1439528
+1480,Chris Wood,Nottingham Forest,Arsenal,1,37,2.322988,0.14263642
+1481,Chris Wood,Nottingham Forest,Crystal Palace,0,38,2.6744735,0.10506226
+1482,Steve Cook,Nottingham Forest,Chelsea,0,36,2.2581956,0.083315596
+1483,Steve Cook,Nottingham Forest,Arsenal,1,37,2.277483,0.13019812
+1484,Steve Cook,Nottingham Forest,Crystal Palace,0,38,2.6770277,0.0704341
+1485,Jack Colback,Nottingham Forest,Chelsea,0,36,2.110126,0.15990606
+1486,Jack Colback,Nottingham Forest,Arsenal,1,37,2.161103,0.17202064
+1487,Jack Colback,Nottingham Forest,Crystal Palace,0,38,2.4243484,0.14863838
+1488,Scott McKenna,Nottingham Forest,Chelsea,0,36,2.1708558,0.14978851
+1489,Scott McKenna,Nottingham Forest,Arsenal,1,37,2.1859505,0.16192812
+1490,Scott McKenna,Nottingham Forest,Crystal Palace,0,38,2.5659647,0.13221183
+1491,Ryan Yates,Nottingham Forest,Chelsea,0,36,2.17103,0.20020509
+1492,Ryan Yates,Nottingham Forest,Arsenal,1,37,2.4188492,0.6002735
+1493,Ryan Yates,Nottingham Forest,Crystal Palace,0,38,2.4314241,0.15474278
+1494,Joe Worrall,Nottingham Forest,Chelsea,0,36,2.2103715,0.11105451
+1495,Joe Worrall,Nottingham Forest,Arsenal,1,37,2.2501092,0.13192281
+1496,Joe Worrall,Nottingham Forest,Crystal Palace,0,38,2.6150804,0.08410819
+1497,Sam Surridge,Nottingham Forest,Chelsea,0,36,2.1256602,0.2085926
+1498,Sam Surridge,Nottingham Forest,Arsenal,1,37,2.173875,0.18128815
+1499,Sam Surridge,Nottingham Forest,Crystal Palace,0,38,2.5095997,0.19539146
+1500,Brennan Johnson,Nottingham Forest,Chelsea,0,36,2.932864,0.16015646
+1501,Brennan Johnson,Nottingham Forest,Arsenal,1,37,2.9023192,0.19970849
+1502,Brennan Johnson,Nottingham Forest,Crystal Palace,0,38,3.4299965,0.18755662
+1503,Taiwo Awoniyi,Nottingham Forest,Chelsea,0,36,2.5569263,0.12252163
+1504,Taiwo Awoniyi,Nottingham Forest,Arsenal,1,37,2.5388103,0.13021357
+1505,Taiwo Awoniyi,Nottingham Forest,Crystal Palace,0,38,3.0390186,0.13032141
+1506,Dean Henderson,Nottingham Forest,Chelsea,0,36,2.9136844,0.11326459
+1507,Dean Henderson,Nottingham Forest,Arsenal,1,37,2.911569,0.21401879
+1508,Dean Henderson,Nottingham Forest,Crystal Palace,0,38,3.4377449,0.16037042
+1509,Giulian Biancone,Nottingham Forest,Chelsea,0,36,2.5122237,1.038603
+1510,Giulian Biancone,Nottingham Forest,Arsenal,1,37,2.62189,1.3228459
+1511,Giulian Biancone,Nottingham Forest,Crystal Palace,0,38,2.8750093,1.0452218
+1512,Willy Boly,Nottingham Forest,Chelsea,0,36,2.2796502,0.15628988
+1513,Willy Boly,Nottingham Forest,Arsenal,1,37,2.2863526,0.17978056
+1514,Willy Boly,Nottingham Forest,Crystal Palace,0,38,2.7787855,0.11559822
+1515,Morgan Gibbs-White,Nottingham Forest,Chelsea,0,36,2.980661,0.183948
+1516,Morgan Gibbs-White,Nottingham Forest,Arsenal,1,37,3.1008096,0.5832698
+1517,Morgan Gibbs-White,Nottingham Forest,Crystal Palace,0,38,3.4256854,0.1927477
+1518,Moussa Niakhate,Nottingham Forest,Chelsea,0,36,2.223745,0.18320362
+1519,Moussa Niakhate,Nottingham Forest,Arsenal,1,37,2.434222,0.56596965
+1520,Moussa Niakhate,Nottingham Forest,Crystal Palace,0,38,2.5700002,0.1111709
+1521,Wayne Hennessey,Nottingham Forest,Chelsea,0,36,2.7230618,0.15214889
+1522,Wayne Hennessey,Nottingham Forest,Arsenal,1,37,2.6746795,0.21523063
+1523,Wayne Hennessey,Nottingham Forest,Crystal Palace,0,38,3.2577724,0.09894154
+1524,Harry Toffolo,Nottingham Forest,Chelsea,0,36,2.144153,0.19354744
+1525,Harry Toffolo,Nottingham Forest,Arsenal,1,37,2.157249,0.17985088
+1526,Harry Toffolo,Nottingham Forest,Crystal Palace,0,38,2.532157,0.19049378
+1527,Lewis O'Brien,Nottingham Forest,Chelsea,0,36,2.4036825,0.7890741
+1528,Lewis O'Brien,Nottingham Forest,Arsenal,1,37,2.5305533,1.0897033
+1529,Lewis O'Brien,Nottingham Forest,Crystal Palace,0,38,2.679323,0.79197
+1530,Jesse Lingard,Nottingham Forest,Chelsea,0,36,2.1845725,0.19222999
+1531,Jesse Lingard,Nottingham Forest,Arsenal,1,37,2.2485352,0.2724478
+1532,Jesse Lingard,Nottingham Forest,Crystal Palace,0,38,2.549314,0.19512795
+1533,Orel Mangala,Nottingham Forest,Chelsea,0,36,2.3330855,0.6205902
+1534,Orel Mangala,Nottingham Forest,Arsenal,1,37,2.4656293,0.9249591
+1535,Orel Mangala,Nottingham Forest,Crystal Palace,0,38,2.6086035,0.6348888
+1536,Remo Freuler,Nottingham Forest,Chelsea,0,36,2.4102714,0.81160253
+1537,Remo Freuler,Nottingham Forest,Arsenal,1,37,2.5396438,1.1184238
+1538,Remo Freuler,Nottingham Forest,Crystal Palace,0,38,2.690926,0.81723195
+1539,Cheikhou Kouyate,Nottingham Forest,Chelsea,0,36,2.0939002,0.17752185
+1540,Cheikhou Kouyate,Nottingham Forest,Arsenal,1,37,2.111489,0.16527183
+1541,Cheikhou Kouyate,Nottingham Forest,Crystal Palace,0,38,2.3622386,0.16862099
+1542,Emmanuel Dennis,Nottingham Forest,Chelsea,0,36,2.2242875,0.21289046
+1543,Emmanuel Dennis,Nottingham Forest,Arsenal,1,37,2.2265968,0.20216103
+1544,Emmanuel Dennis,Nottingham Forest,Crystal Palace,0,38,2.5884607,0.20450391
+1545,Serge Aurier,Nottingham Forest,Chelsea,0,36,2.2859943,0.12585455
+1546,Serge Aurier,Nottingham Forest,Arsenal,1,37,2.277287,0.09818837
+1547,Serge Aurier,Nottingham Forest,Crystal Palace,0,38,2.7454581,0.12796576
+1548,Keylor Navas,Nottingham Forest,Chelsea,0,36,2.4443905,0.21247883
+1549,Keylor Navas,Nottingham Forest,Arsenal,1,37,2.4545028,0.19151077
+1550,Keylor Navas,Nottingham Forest,Crystal Palace,0,38,2.8221927,0.21230373
+1551,Andre Ayew,Nottingham Forest,Chelsea,0,36,2.8949616,1.2258943
+1552,Andre Ayew,Nottingham Forest,Arsenal,1,37,3.0358748,1.4964055
+1553,Andre Ayew,Nottingham Forest,Crystal Palace,0,38,3.2682812,1.2121754
+1554,Ainsley Maitland-Niles,Southampton,Fulham,1,36,3.0210323,1.0542169
+1555,Ainsley Maitland-Niles,Southampton,Brighton,0,37,2.207349,0.57208604
+1556,Ainsley Maitland-Niles,Southampton,Liverpool,1,38,2.4625766,0.891492
+1557,Romeo Lavia,Southampton,Fulham,1,36,2.6499925,0.0771363
+1558,Romeo Lavia,Southampton,Brighton,0,37,1.9741036,0.14489159
+1559,Romeo Lavia,Southampton,Liverpool,1,38,2.1103525,0.099641696
+1560,Theo Walcott,Southampton,Fulham,1,36,3.2218997,1.0610493
+1561,Theo Walcott,Southampton,Brighton,0,37,2.3395545,0.5418552
+1562,Theo Walcott,Southampton,Liverpool,1,38,2.55143,0.89118797
+1563,Alex McCarthy,Southampton,Fulham,1,36,3.391912,0.06181726
+1564,Alex McCarthy,Southampton,Brighton,0,37,2.302356,0.15680403
+1565,Alex McCarthy,Southampton,Liverpool,1,38,2.418469,0.11572443
+1566,Oriol Romeu,Southampton,Fulham,1,36,2.7184908,0.07704551
+1567,Oriol Romeu,Southampton,Brighton,0,37,2.0065482,0.13424797
+1568,Oriol Romeu,Southampton,Liverpool,1,38,2.1345022,0.09195181
+1569,Nathan Redmond,Southampton,Fulham,1,36,2.8651638,0.10931982
+1570,Nathan Redmond,Southampton,Brighton,0,37,2.1383,0.15674937
+1571,Nathan Redmond,Southampton,Liverpool,1,38,2.2569082,0.1329731
+1572,Stuart Armstrong,Southampton,Fulham,1,36,2.7990568,0.10853878
+1573,Stuart Armstrong,Southampton,Brighton,0,37,2.098893,0.10920081
+1574,Stuart Armstrong,Southampton,Liverpool,1,38,2.22916,0.09956145
+1575,Mohamed Elyounoussi,Southampton,Fulham,1,36,2.765242,0.08452149
+1576,Mohamed Elyounoussi,Southampton,Brighton,0,37,2.0359004,0.12929673
+1577,Mohamed Elyounoussi,Southampton,Liverpool,1,38,2.154755,0.11196234
+1578,James Ward-Prowse,Southampton,Fulham,1,36,4.260585,0.36446995
+1579,James Ward-Prowse,Southampton,Brighton,0,37,3.3227715,0.5129274
+1580,James Ward-Prowse,Southampton,Liverpool,1,38,3.3064294,0.25956094
+1581,Adam Armstrong,Southampton,Fulham,1,36,2.751316,0.13112743
+1582,Adam Armstrong,Southampton,Brighton,0,37,2.0322115,0.19954723
+1583,Adam Armstrong,Southampton,Liverpool,1,38,2.1346898,0.17351429
+1584,Kyle Walker-Peters,Southampton,Fulham,1,36,2.9202106,0.16444947
+1585,Kyle Walker-Peters,Southampton,Brighton,0,37,2.0733712,0.13772063
+1586,Kyle Walker-Peters,Southampton,Liverpool,1,38,2.2019267,0.114973895
+1587,Jan Bednarek,Southampton,Fulham,1,36,2.857317,0.11673
+1588,Jan Bednarek,Southampton,Brighton,0,37,2.010645,0.21299464
+1589,Jan Bednarek,Southampton,Liverpool,1,38,2.126986,0.13742656
+1590,Che Adams,Southampton,Fulham,1,36,3.4279702,0.10575946
+1591,Che Adams,Southampton,Brighton,0,37,2.5193024,0.10394749
+1592,Che Adams,Southampton,Liverpool,1,38,2.640746,0.08900603
+1593,Nathan Tella,Southampton,Fulham,1,36,2.8266654,0.07984995
+1594,Nathan Tella,Southampton,Brighton,0,37,2.0536942,0.14151503
+1595,Nathan Tella,Southampton,Liverpool,1,38,2.1708677,0.09713727
+1596,Yan Valery,Southampton,Fulham,1,36,2.681582,0.13787119
+1597,Yan Valery,Southampton,Brighton,0,37,1.9601368,0.21605945
+1598,Yan Valery,Southampton,Liverpool,1,38,2.039588,0.14650445
+1599,Ibrahima Diallo,Southampton,Fulham,1,36,2.5726519,0.14755152
+1600,Ibrahima Diallo,Southampton,Brighton,0,37,1.9491535,0.22606528
+1601,Ibrahima Diallo,Southampton,Liverpool,1,38,2.0618916,0.19281933
+1602,Romain Perraud,Southampton,Fulham,1,36,2.7899263,0.11932619
+1603,Romain Perraud,Southampton,Brighton,0,37,1.9917217,0.21357468
+1604,Romain Perraud,Southampton,Liverpool,1,38,2.1067014,0.13959569
+1605,Moussa Djenepo,Southampton,Fulham,1,36,2.7169507,0.16504334
+1606,Moussa Djenepo,Southampton,Brighton,0,37,1.9937646,0.21382093
+1607,Moussa Djenepo,Southampton,Liverpool,1,38,2.1024082,0.18734889
+1608,Tino Livramento,Southampton,Fulham,1,36,3.1505766,0.13977079
+1609,Tino Livramento,Southampton,Brighton,0,37,2.1413808,0.16072747
+1610,Tino Livramento,Southampton,Liverpool,1,38,2.268479,0.09574808
+1611,Mohammed Salisu,Southampton,Fulham,1,36,3.1962552,0.06399094
+1612,Mohammed Salisu,Southampton,Brighton,0,37,2.1672678,0.19715993
+1613,Mohammed Salisu,Southampton,Liverpool,1,38,2.273274,0.10604469
+1614,Gavin Bazunu,Southampton,Fulham,1,36,3.1988146,0.073248565
+1615,Gavin Bazunu,Southampton,Brighton,0,37,2.2234223,0.11275044
+1616,Gavin Bazunu,Southampton,Liverpool,1,38,2.3377824,0.10417245
+1617,Willy Caballero,Southampton,Fulham,1,36,3.6898456,0.0743633
+1618,Willy Caballero,Southampton,Brighton,0,37,2.6315498,0.27341554
+1619,Willy Caballero,Southampton,Liverpool,1,38,2.7383618,0.18602675
+1620,Joe Aribo,Southampton,Fulham,1,36,2.6216483,0.12848684
+1621,Joe Aribo,Southampton,Brighton,0,37,1.9852695,0.188775
+1622,Joe Aribo,Southampton,Liverpool,1,38,2.1047444,0.1565566
+1623,Sekou Mara,Southampton,Fulham,1,36,2.7270055,0.16109653
+1624,Sekou Mara,Southampton,Brighton,0,37,2.0190043,0.217589
+1625,Sekou Mara,Southampton,Liverpool,1,38,2.0943348,0.19296356
+1626,Duje Caleta-Car,Southampton,Fulham,1,36,3.4199314,1.5049677
+1627,Duje Caleta-Car,Southampton,Brighton,0,37,2.4013672,0.97064626
+1628,Duje Caleta-Car,Southampton,Liverpool,1,38,2.636165,1.360673
+1629,Samuel Edozie,Southampton,Fulham,1,36,2.9356167,0.56675166
+1630,Samuel Edozie,Southampton,Brighton,0,37,2.0510507,0.2448013
+1631,Samuel Edozie,Southampton,Liverpool,1,38,2.354359,0.60920715
+1632,Mislav Orsic,Southampton,Fulham,1,36,3.4552677,1.5446075
+1633,Mislav Orsic,Southampton,Brighton,0,37,2.7131214,1.0975056
+1634,Mislav Orsic,Southampton,Liverpool,1,38,2.793077,1.3926036
+1635,Carlos Alcaraz,Southampton,Fulham,1,36,3.0811675,0.20933072
+1636,Carlos Alcaraz,Southampton,Brighton,0,37,2.3494568,0.13938865
+1637,Carlos Alcaraz,Southampton,Liverpool,1,38,2.4425697,0.21464531
+1638,James Bree,Southampton,Fulham,1,36,3.4508445,0.25572944
+1639,James Bree,Southampton,Brighton,0,37,2.4381554,0.18304941
+1640,James Bree,Southampton,Liverpool,1,38,2.619209,0.27838644
+1641,Kamaldeen Sulemana,Southampton,Fulham,1,36,3.2740293,1.1835753
+1642,Kamaldeen Sulemana,Southampton,Brighton,0,37,2.4032617,0.69917524
+1643,Kamaldeen Sulemana,Southampton,Liverpool,1,38,2.6398854,1.0212665
+1644,Paul Onuachu,Southampton,Fulham,1,36,3.3927822,1.5657308
+1645,Paul Onuachu,Southampton,Brighton,0,37,2.5520566,1.0471741
+1646,Paul Onuachu,Southampton,Liverpool,1,38,2.7783074,1.387114
+1647,Hugo Lloris,Tottenham,Aston Villa,0,36,3.2923017,0.13668142
+1648,Hugo Lloris,Tottenham,Brentford,1,37,3.3649573,0.08507429
+1649,Hugo Lloris,Tottenham,Leeds United,0,38,3.544169,0.14340284
+1650,Fraser Forster,Tottenham,Aston Villa,0,36,2.8783126,0.13670424
+1651,Fraser Forster,Tottenham,Brentford,1,37,2.9102683,0.16450906
+1652,Fraser Forster,Tottenham,Leeds United,0,38,3.15652,0.17447662
+1653,Harry Kane,Tottenham,Aston Villa,0,36,4.986501,0.3426392
+1654,Harry Kane,Tottenham,Brentford,1,37,5.327467,0.3291789
+1655,Harry Kane,Tottenham,Leeds United,0,38,5.8573985,0.59625316
+1656,Heung-Min Son,Tottenham,Aston Villa,0,36,4.423068,0.27268872
+1657,Heung-Min Son,Tottenham,Brentford,1,37,4.5460296,0.27814606
+1658,Heung-Min Son,Tottenham,Leeds United,0,38,4.9012947,0.36062765
+1659,Matt Doherty,Tottenham,Aston Villa,0,36,3.0376935,0.14118844
+1660,Matt Doherty,Tottenham,Brentford,1,37,3.0580678,0.113545865
+1661,Matt Doherty,Tottenham,Leeds United,0,38,3.3162239,0.2569527
+1662,Eric Dier,Tottenham,Aston Villa,0,36,2.7412493,0.10212522
+1663,Eric Dier,Tottenham,Brentford,1,37,2.7791963,0.083029404
+1664,Eric Dier,Tottenham,Leeds United,0,38,3.0013711,0.17871946
+1665,Lucas Moura,Tottenham,Aston Villa,0,36,2.330009,0.15999998
+1666,Lucas Moura,Tottenham,Brentford,1,37,2.358533,0.21212935
+1667,Lucas Moura,Tottenham,Leeds United,0,38,2.562407,0.15452574
+1668,Pierre-Emile Hjbjerg,Tottenham,Aston Villa,0,36,2.535736,0.08980331
+1669,Pierre-Emile Hjbjerg,Tottenham,Brentford,1,37,2.607895,0.08227372
+1670,Pierre-Emile Hjbjerg,Tottenham,Leeds United,0,38,2.7699225,0.17887673
+1671,Harry Winks,Tottenham,Aston Villa,0,36,2.2616692,0.11852661
+1672,Harry Winks,Tottenham,Brentford,1,37,2.3238587,0.16450557
+1673,Harry Winks,Tottenham,Leeds United,0,38,2.4940429,0.1349006
+1674,Davinson Sanchez,Tottenham,Aston Villa,0,36,2.2976186,0.14505781
+1675,Davinson Sanchez,Tottenham,Brentford,1,37,2.336577,0.19584122
+1676,Davinson Sanchez,Tottenham,Leeds United,0,38,2.5496674,0.12659143
+1677,Ryan Sessegnon,Tottenham,Aston Villa,0,36,2.4468513,0.10516823
+1678,Ryan Sessegnon,Tottenham,Brentford,1,37,2.4559743,0.15383725
+1679,Ryan Sessegnon,Tottenham,Leeds United,0,38,2.7068856,0.10896543
+1680,Steven Bergwijn,Tottenham,Aston Villa,0,36,2.3561547,0.15738618
+1681,Steven Bergwijn,Tottenham,Brentford,1,37,2.3951507,0.18521178
+1682,Steven Bergwijn,Tottenham,Leeds United,0,38,2.6059668,0.16367076
+1683,Japhet Tanganga,Tottenham,Aston Villa,0,36,2.3279364,0.11957913
+1684,Japhet Tanganga,Tottenham,Brentford,1,37,2.373701,0.13966084
+1685,Japhet Tanganga,Tottenham,Leeds United,0,38,2.5771594,0.14694332
+1686,Rodrigo Bentancur,Tottenham,Aston Villa,0,36,2.7416198,0.106874265
+1687,Rodrigo Bentancur,Tottenham,Brentford,1,37,2.7996485,0.12128803
+1688,Rodrigo Bentancur,Tottenham,Leeds United,0,38,2.9902427,0.18905321
+1689,Oliver Skipp,Tottenham,Aston Villa,0,36,2.3191907,0.05671272
+1690,Oliver Skipp,Tottenham,Brentford,1,37,2.3814645,0.083848186
+1691,Oliver Skipp,Tottenham,Leeds United,0,38,2.5518374,0.15566535
+1692,Joe Rodon,Tottenham,Aston Villa,0,36,2.315239,0.103660725
+1693,Joe Rodon,Tottenham,Brentford,1,37,2.3395643,0.16091864
+1694,Joe Rodon,Tottenham,Leeds United,0,38,2.5680165,0.10576154
+1695,Cristian Romero,Tottenham,Aston Villa,0,36,2.9253862,0.15325627
+1696,Cristian Romero,Tottenham,Brentford,1,37,2.980377,0.14029914
+1697,Cristian Romero,Tottenham,Leeds United,0,38,3.1972098,0.19764303
+1698,Yves Bissouma,Tottenham,Aston Villa,0,36,2.2418094,0.13134152
+1699,Yves Bissouma,Tottenham,Brentford,1,37,2.3014698,0.18726042
+1700,Yves Bissouma,Tottenham,Leeds United,0,38,2.4613037,0.13692214
+1701,Dejan Kulusevski,Tottenham,Aston Villa,0,36,2.7745981,0.12971568
+1702,Dejan Kulusevski,Tottenham,Brentford,1,37,2.769629,0.1456949
+1703,Dejan Kulusevski,Tottenham,Leeds United,0,38,3.0241058,0.1904051
+1704,Dane Scarlett,Tottenham,Aston Villa,0,36,2.282166,0.16286291
+1705,Dane Scarlett,Tottenham,Brentford,1,37,2.3189492,0.21025822
+1706,Dane Scarlett,Tottenham,Leeds United,0,38,2.5684645,0.11242983
+1707,Ivan Perisic,Tottenham,Aston Villa,0,36,3.2124412,0.18977347
+1708,Ivan Perisic,Tottenham,Brentford,1,37,3.2720494,0.16957468
+1709,Ivan Perisic,Tottenham,Leeds United,0,38,3.488575,0.32256013
+1710,Harvey White,Tottenham,Aston Villa,0,36,2.606119,0.25293806
+1711,Harvey White,Tottenham,Brentford,1,37,2.509192,0.20559189
+1712,Harvey White,Tottenham,Leeds United,0,38,2.8667853,0.34929287
+1713,Pape Matar Sarr,Tottenham,Aston Villa,0,36,2.2717905,0.20943166
+1714,Pape Matar Sarr,Tottenham,Brentford,1,37,2.328474,0.25705212
+1715,Pape Matar Sarr,Tottenham,Leeds United,0,38,2.4908767,0.13974069
+1716,Richarlison,Tottenham,Aston Villa,0,36,2.6063104,0.13076796
+1717,Richarlison,Tottenham,Brentford,1,37,2.617251,0.17232296
+1718,Richarlison,Tottenham,Leeds United,0,38,2.8487134,0.10661849
+1719,Clement Lenglet,Tottenham,Aston Villa,0,36,2.621282,0.056009166
+1720,Clement Lenglet,Tottenham,Brentford,1,37,2.6186647,0.09581485
+1721,Clement Lenglet,Tottenham,Leeds United,0,38,2.920893,0.16719355
+1722,Djed Spence,Tottenham,Aston Villa,0,36,2.2740457,0.15405928
+1723,Djed Spence,Tottenham,Brentford,1,37,2.3218668,0.22905971
+1724,Djed Spence,Tottenham,Leeds United,0,38,2.5202603,0.14161585
+1725,Arnaut Danjuma,Tottenham,Aston Villa,0,36,2.69671,0.6016104
+1726,Arnaut Danjuma,Tottenham,Brentford,1,37,2.8370752,0.85944647
+1727,Arnaut Danjuma,Tottenham,Leeds United,0,38,2.9762352,0.6869216
+1728,Pedro Porro,Tottenham,Aston Villa,0,36,3.6648755,0.18611081
+1729,Pedro Porro,Tottenham,Brentford,1,37,3.7096143,0.17880215
+1730,Pedro Porro,Tottenham,Leeds United,0,38,3.9405274,0.21916212
+1731,Danny Ings,West Ham,Brentford,0,36,2.4903803,0.12366416
+1732,Danny Ings,West Ham,Leeds United,1,37,3.0838945,0.11357433
+1733,Danny Ings,West Ham,Leicester City,0,38,2.5992885,0.064012006
+1734,Lukasz Fabianski,West Ham,Brentford,0,36,3.0023167,0.077649355
+1735,Lukasz Fabianski,West Ham,Leeds United,1,37,3.6695054,0.22957435
+1736,Lukasz Fabianski,West Ham,Leicester City,0,38,3.1197827,0.15823439
+1737,Angelo Ogbonna,West Ham,Brentford,0,36,2.525116,0.12272571
+1738,Angelo Ogbonna,West Ham,Leeds United,1,37,3.183425,0.14127643
+1739,Angelo Ogbonna,West Ham,Leicester City,0,38,2.6100757,0.11142547
+1740,Aaron Cresswell,West Ham,Brentford,0,36,2.7375422,0.08243594
+1741,Aaron Cresswell,West Ham,Leeds United,1,37,3.3837311,0.19764462
+1742,Aaron Cresswell,West Ham,Leicester City,0,38,2.804797,0.10637847
+1743,Michail Antonio,West Ham,Brentford,0,36,2.6959207,0.12605096
+1744,Michail Antonio,West Ham,Leeds United,1,37,3.3061733,0.13131356
+1745,Michail Antonio,West Ham,Leicester City,0,38,2.839426,0.17038774
+1746,Manuel Lanzini,West Ham,Brentford,0,36,2.177678,0.16208673
+1747,Manuel Lanzini,West Ham,Leeds United,1,37,2.6380234,0.101037785
+1748,Manuel Lanzini,West Ham,Leicester City,0,38,2.2718325,0.122591116
+1749,Kurt Zouma,West Ham,Brentford,0,36,2.676764,0.11076255
+1750,Kurt Zouma,West Ham,Leeds United,1,37,3.3606007,0.19517124
+1751,Kurt Zouma,West Ham,Leicester City,0,38,2.7553418,0.10079188
+1752,Arthur Masuaku,West Ham,Brentford,0,36,2.1901693,0.17298663
+1753,Arthur Masuaku,West Ham,Leeds United,1,37,2.703055,0.08028235
+1754,Arthur Masuaku,West Ham,Leicester City,0,38,2.283319,0.12545098
+1755,Vladimir Coufal,West Ham,Brentford,0,36,2.4388125,0.11061105
+1756,Vladimir Coufal,West Ham,Leeds United,1,37,3.102059,0.15859799
+1757,Vladimir Coufal,West Ham,Leicester City,0,38,2.534688,0.062158316
+1758,Said Benrahma,West Ham,Brentford,0,36,3.541823,0.21691957
+1759,Said Benrahma,West Ham,Leeds United,1,37,4.191848,0.40053684
+1760,Said Benrahma,West Ham,Leicester City,0,38,3.6381493,0.2963266
+1761,Jarrod Bowen,West Ham,Brentford,0,36,3.9775581,0.26754695
+1762,Jarrod Bowen,West Ham,Leeds United,1,37,4.767203,0.38267732
+1763,Jarrod Bowen,West Ham,Leicester City,0,38,4.259845,0.4357895
+1764,Declan Rice,West Ham,Brentford,0,36,2.405819,0.10987881
+1765,Declan Rice,West Ham,Leeds United,1,37,2.9949417,0.18702221
+1766,Declan Rice,West Ham,Leicester City,0,38,2.5574677,0.14218964
+1767,Tomas Soucek,West Ham,Brentford,0,36,2.2814598,0.09743664
+1768,Tomas Soucek,West Ham,Leeds United,1,37,2.8298824,0.13150626
+1769,Tomas Soucek,West Ham,Leicester City,0,38,2.3794482,0.06583993
+1770,Pablo Fornals,West Ham,Brentford,0,36,2.2225347,0.1834717
+1771,Pablo Fornals,West Ham,Leeds United,1,37,2.6991115,0.1257322
+1772,Pablo Fornals,West Ham,Leicester City,0,38,2.3120337,0.12920983
+1773,Ben Johnson,West Ham,Brentford,0,36,2.2059035,0.16536556
+1774,Ben Johnson,West Ham,Leeds United,1,37,2.7283213,0.08096757
+1775,Ben Johnson,West Ham,Leicester City,0,38,2.3044806,0.11482561
+1776,Nayef Aguerd,West Ham,Brentford,0,36,2.6479716,0.22290158
+1777,Nayef Aguerd,West Ham,Leeds United,1,37,3.3193848,0.13067265
+1778,Nayef Aguerd,West Ham,Leicester City,0,38,2.7345986,0.15917107
+1779,Alphonse Areola,West Ham,Brentford,0,36,2.6246848,0.13735324
+1780,Alphonse Areola,West Ham,Leeds United,1,37,3.2866569,0.14700638
+1781,Alphonse Areola,West Ham,Leicester City,0,38,2.6957583,0.07924027
+1782,Flynn Downes,West Ham,Brentford,0,36,2.1213784,0.18130584
+1783,Flynn Downes,West Ham,Leeds United,1,37,2.5989168,0.11585599
+1784,Flynn Downes,West Ham,Leicester City,0,38,2.219592,0.12930061
+1785,Gianluca Scamacca,West Ham,Brentford,0,36,2.4685855,0.12098155
+1786,Gianluca Scamacca,West Ham,Leeds United,1,37,2.8889613,0.13678317
+1787,Gianluca Scamacca,West Ham,Leicester City,0,38,2.5641942,0.08087193
+1788,Conor Coventry,West Ham,Brentford,0,36,2.096229,0.21372028
+1789,Conor Coventry,West Ham,Leeds United,1,37,2.554504,0.09095923
+1790,Conor Coventry,West Ham,Leicester City,0,38,2.187061,0.15528882
+1791,Maxwel Cornet,West Ham,Brentford,0,36,2.5558813,0.1363166
+1792,Maxwel Cornet,West Ham,Leeds United,1,37,3.101727,0.16732085
+1793,Maxwel Cornet,West Ham,Leicester City,0,38,2.757299,0.39935097
+1794,Thilo Kehrer,West Ham,Brentford,0,36,2.2935429,0.15212974
+1795,Thilo Kehrer,West Ham,Leeds United,1,37,2.8955703,0.091137074
+1796,Thilo Kehrer,West Ham,Leicester City,0,38,2.4021482,0.090564035
+1797,Divin Mubama,West Ham,Brentford,0,36,2.2912266,0.27987292
+1798,Divin Mubama,West Ham,Leeds United,1,37,2.9768586,0.6287455
+1799,Divin Mubama,West Ham,Leicester City,0,38,2.3895936,0.22221397
+1800,Craig Dawson,Wolves,Manchester Utd,0,36,2.3367789,0.1028173
+1801,Craig Dawson,Wolves,Everton,1,37,3.0446258,0.2038279
+1802,Craig Dawson,Wolves,Arsenal,0,38,2.1697218,0.099820316
+1803,Raul Jimenez,Wolves,Manchester Utd,0,36,2.529145,0.08846074
+1804,Raul Jimenez,Wolves,Everton,1,37,2.9864342,0.15379082
+1805,Raul Jimenez,Wolves,Arsenal,0,38,2.3711653,0.111756094
+1806,Jose Sa,Wolves,Manchester Utd,0,36,2.6992974,0.15375967
+1807,Jose Sa,Wolves,Everton,1,37,3.4234073,0.1812402
+1808,Jose Sa,Wolves,Arsenal,0,38,2.5056584,0.19401138
+1809,Ruben Neves,Wolves,Manchester Utd,0,36,2.8923414,0.21454573
+1810,Ruben Neves,Wolves,Everton,1,37,3.4515526,0.28770864
+1811,Ruben Neves,Wolves,Arsenal,0,38,2.7007751,0.22860323
+1812,Hwang Hee-chan,Wolves,Manchester Utd,0,36,2.163853,0.1389916
+1813,Hwang Hee-chan,Wolves,Everton,1,37,2.6833892,0.13638505
+1814,Hwang Hee-chan,Wolves,Arsenal,0,38,2.0431252,0.12940301
+1815,Nelson Semedo,Wolves,Manchester Utd,0,36,2.1983206,0.08876064
+1816,Nelson Semedo,Wolves,Everton,1,37,2.7733855,0.22240886
+1817,Nelson Semedo,Wolves,Arsenal,0,38,2.0331378,0.0799602
+1818,Daniel Podence,Wolves,Manchester Utd,0,36,2.3844237,0.057779685
+1819,Daniel Podence,Wolves,Everton,1,37,2.8140345,0.16116051
+1820,Daniel Podence,Wolves,Arsenal,0,38,2.2759504,0.06803911
+1821,Max Kilman,Wolves,Manchester Utd,0,36,2.3247528,0.09720127
+1822,Max Kilman,Wolves,Everton,1,37,3.0200741,0.19792275
+1823,Max Kilman,Wolves,Arsenal,0,38,2.16189,0.116211355
+1824,Luke Cundle,Wolves,Manchester Utd,0,36,2.090349,0.12791535
+1825,Luke Cundle,Wolves,Everton,1,37,2.4989524,0.071401544
+1826,Luke Cundle,Wolves,Arsenal,0,38,2.0184035,0.14942734
+1827,Pedro Neto,Wolves,Manchester Utd,0,36,2.2863324,0.058289107
+1828,Pedro Neto,Wolves,Everton,1,37,2.8002102,0.2093416
+1829,Pedro Neto,Wolves,Arsenal,0,38,2.186108,0.0629908
+1830,Rayan Ait-Nouri,Wolves,Manchester Utd,0,36,2.1422439,0.14898822
+1831,Rayan Ait-Nouri,Wolves,Everton,1,37,2.643928,0.09805161
+1832,Rayan Ait-Nouri,Wolves,Arsenal,0,38,1.9872043,0.12145048
+1833,Toti Gomes,Wolves,Manchester Utd,0,36,2.183763,0.10401735
+1834,Toti Gomes,Wolves,Everton,1,37,2.770276,0.18115097
+1835,Toti Gomes,Wolves,Arsenal,0,38,2.0490775,0.12196122
+1836,Adama Traore,Wolves,Manchester Utd,0,36,2.1817966,0.16929023
+1837,Adama Traore,Wolves,Everton,1,37,2.681945,0.12981269
+1838,Adama Traore,Wolves,Arsenal,0,38,2.0630856,0.1589562
+1839,Joao Moutinho,Wolves,Manchester Utd,0,36,2.1282077,0.13832316
+1840,Joao Moutinho,Wolves,Everton,1,37,2.5820642,0.16491032
+1841,Joao Moutinho,Wolves,Arsenal,0,38,2.0453715,0.15221222
+1842,Nathan Collins,Wolves,Manchester Utd,0,36,2.1348937,0.17250179
+1843,Nathan Collins,Wolves,Everton,1,37,2.651053,0.08406426
+1844,Nathan Collins,Wolves,Arsenal,0,38,2.0127256,0.16340695
+1845,Hugo Bueno,Wolves,Manchester Utd,0,36,2.2159307,0.07922049
+1846,Hugo Bueno,Wolves,Everton,1,37,2.7352083,0.1529605
+1847,Hugo Bueno,Wolves,Arsenal,0,38,2.044612,0.078281835
+1848,Joseph Hodge,Wolves,Manchester Utd,0,36,2.3805068,0.5891856
+1849,Joseph Hodge,Wolves,Everton,1,37,2.916591,0.9060669
+1850,Joseph Hodge,Wolves,Arsenal,0,38,2.294517,0.59668463
+1851,Connor Ronan,Wolves,Manchester Utd,0,36,2.1960564,0.21349478
+1852,Connor Ronan,Wolves,Everton,1,37,2.6674988,0.1753442
+1853,Connor Ronan,Wolves,Arsenal,0,38,2.1095068,0.18489684
+1854,Chem Campbell,Wolves,Manchester Utd,0,36,2.1168315,0.1832918
+1855,Chem Campbell,Wolves,Everton,1,37,2.5914109,0.076742865
+1856,Chem Campbell,Wolves,Arsenal,0,38,1.9950556,0.17521591
+1857,Goncalo Guedes,Wolves,Manchester Utd,0,36,2.3276162,0.08498825
+1858,Goncalo Guedes,Wolves,Everton,1,37,2.769959,0.12127666
+1859,Goncalo Guedes,Wolves,Arsenal,0,38,2.2184978,0.099922396
+1860,Matheus Nunes,Wolves,Manchester Utd,0,36,2.216087,0.06070702
+1861,Matheus Nunes,Wolves,Everton,1,37,2.7321377,0.21416472
+1862,Matheus Nunes,Wolves,Arsenal,0,38,2.0865536,0.07532149
+1863,Sasa Kalajdzic,Wolves,Manchester Utd,0,36,2.4206223,0.6029033
+1864,Sasa Kalajdzic,Wolves,Everton,1,37,2.9728231,0.910926
+1865,Sasa Kalajdzic,Wolves,Arsenal,0,38,2.334723,0.5891384
+1866,Diego Costa,Wolves,Manchester Utd,0,36,2.299213,0.079809316
+1867,Diego Costa,Wolves,Everton,1,37,2.8171828,0.21418476
+1868,Diego Costa,Wolves,Arsenal,0,38,2.1736004,0.096231334
+1869,Boubacar Traore,Wolves,Manchester Utd,0,36,2.1116824,0.13122965
+1870,Boubacar Traore,Wolves,Everton,1,37,2.5811749,0.16787733
+1871,Boubacar Traore,Wolves,Arsenal,0,38,1.9917759,0.12872939
+1872,Dexter Lembikisa,Wolves,Manchester Utd,0,36,2.2077124,0.18160778
+1873,Dexter Lembikisa,Wolves,Everton,1,37,2.832992,0.5060373
+1874,Dexter Lembikisa,Wolves,Arsenal,0,38,2.0904577,0.1321417
+1875,Mario Lemina,Wolves,Manchester Utd,0,36,2.1729856,0.17559108
+1876,Mario Lemina,Wolves,Everton,1,37,2.8425891,0.53468585
+1877,Mario Lemina,Wolves,Arsenal,0,38,2.0644593,0.14636035
+1878,Pablo Sarabia,Wolves,Manchester Utd,0,36,2.371591,0.12290831
+1879,Pablo Sarabia,Wolves,Everton,1,37,2.8114965,0.32430276
+1880,Pablo Sarabia,Wolves,Arsenal,0,38,2.2898822,0.1574624
