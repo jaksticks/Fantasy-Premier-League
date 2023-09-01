@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/3a4d16abd02341349415bb9133b5ea89/artifacts
+deleted_time: 1693575623886
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3a4d16abd02341349415bb9133b5ea89
 run_name: nervous-moose-360
 run_uuid: 3a4d16abd02341349415bb9133b5ea89

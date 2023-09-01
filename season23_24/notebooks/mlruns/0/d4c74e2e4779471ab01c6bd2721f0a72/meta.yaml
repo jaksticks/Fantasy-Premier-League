@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/d4c74e2e4779471ab01c6bd2721f0a72/artifacts
+deleted_time: 1693575641994
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d4c74e2e4779471ab01c6bd2721f0a72
 run_name: flawless-cub-890
 run_uuid: d4c74e2e4779471ab01c6bd2721f0a72

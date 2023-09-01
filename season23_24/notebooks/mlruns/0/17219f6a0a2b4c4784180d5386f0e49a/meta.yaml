@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/17219f6a0a2b4c4784180d5386f0e49a/artifacts
+deleted_time: 1693589466734
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 17219f6a0a2b4c4784180d5386f0e49a
+run_name: resilient-hare-813
+run_uuid: 17219f6a0a2b4c4784180d5386f0e49a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693572741894
+status: 1
+tags: []
+user_id: jaakkotoivonen

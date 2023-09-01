@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/bfc3e501069b4f3a82447d738aa5a618/artifacts
+deleted_time: 1693589466734
+end_time: 1693588372782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bfc3e501069b4f3a82447d738aa5a618
+run_name: carefree-croc-447
+run_uuid: bfc3e501069b4f3a82447d738aa5a618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693587784519
+status: 3
+tags: []
+user_id: jaakkotoivonen
