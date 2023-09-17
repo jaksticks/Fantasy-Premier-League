@@ -21,10 +21,12 @@ parser.add_argument('latest_gameweek')
 args = parser.parse_args()
 latest_gameweek = int(args.latest_gameweek)
 
+# get config variables
+config_json = pd.read_json('config.json', typ='series')
 # determine in which season folder data is stored
-SEASON_FOLDER = 'season23_24'
+SEASON_FOLDER = config_json['SEASON_FOLDER']
 # give the file name for the model you are using (located in season_folder/models/)
-MODEL_FILE_NAME = 'catboost_20230809-201635.cbm'
+MODEL_FILE_NAME = config_json['MODEL_FILE_NAME']
 
 def data_retrieval(latest_gameweek: int, season_folder: str):
     '''Fetch all new data'''
