@@ -547,8 +547,8 @@ def make_projections(latest_gameweek: int, season_folder: str, model_file_name: 
                 gameweek_data.append( gameweek )
 
             # create duplicate rows of the target player for each game and replace opponent data with correct info
-            copy_of_row = row.copy()
             for i in range(0,len(opponent_data)):
+                copy_of_row = row.copy()
                 copy_of_row[new_cols] = opponent_data[i].squeeze()
                 copy_of_row['opponent_team'] = opponent_names[i]
                 copy_of_row['home'] = home_game[i]

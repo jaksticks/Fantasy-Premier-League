@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/439239fc8ab94597ba10310225a27ff4/artifacts
+end_time: 1695927702934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 439239fc8ab94597ba10310225a27ff4
+run_name: bright-rat-195
+run_uuid: 439239fc8ab94597ba10310225a27ff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695927699539
+status: 3
+tags: []
+user_id: jaakkotoivonen
