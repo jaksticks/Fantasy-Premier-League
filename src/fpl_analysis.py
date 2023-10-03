@@ -327,6 +327,7 @@ def data_processing(season_folder: str, shift_param: int = 1):
         games = fixtures_melt[(fixtures_melt.value==team) & (fixtures_melt.event==gameweek) & (fixtures_melt.season==season)]
         # if there are multiple games for the gameweek, take the last one before new data was updated
         games = games[games.kickoff_time < row.data_retrieved_datetime].tail(1)
+        # THIS IF CLAUSE SHOULD NOT OCCUR ANYMORE?!
         if games.shape[0]!=1:
             team_data.append( np.array([np.nan]*nr_cols) )
             opponent_data.append( np.array([np.nan]*nr_cols) )
