@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/c1e98835b9a140fd8ca16c171f222b8d/artifacts
+end_time: 1697713838928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1e98835b9a140fd8ca16c171f222b8d
+run_name: suave-donkey-325
+run_uuid: c1e98835b9a140fd8ca16c171f222b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697713835170
+status: 3
+tags: []
+user_id: jaakkotoivonen
