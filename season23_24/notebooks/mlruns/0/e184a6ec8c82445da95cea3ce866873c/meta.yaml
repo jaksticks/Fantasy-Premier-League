@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/e184a6ec8c82445da95cea3ce866873c/artifacts
+end_time: 1699682654652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e184a6ec8c82445da95cea3ce866873c
+run_name: wistful-moose-780
+run_uuid: e184a6ec8c82445da95cea3ce866873c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699682651150
+status: 3
+tags: []
+user_id: jaakkotoivonen
