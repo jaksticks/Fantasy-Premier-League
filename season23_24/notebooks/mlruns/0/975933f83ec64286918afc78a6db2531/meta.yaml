@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/975933f83ec64286918afc78a6db2531/artifacts
+end_time: 1701462873309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 975933f83ec64286918afc78a6db2531
+run_name: mysterious-mole-640
+run_uuid: 975933f83ec64286918afc78a6db2531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701462869689
+status: 3
+tags: []
+user_id: jaakkotoivonen
