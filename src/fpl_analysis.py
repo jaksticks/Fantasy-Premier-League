@@ -190,10 +190,6 @@ def data_processing(season_folder: str, shift_param: int = 1):
     is available when making predictions.
     '''
 
-    ## Need to add data processing for gameweeks where one team has multiple games. 
-    # This needs to be done for the "Add team data to FPL data" section. 
-    # Should be doable utilizing fpl_df.data_retrieved to pick right games (the previous game before the given date).
-
     # load model for estimating bonus points based on gameweek bps
     model_path = Path(f"{season_folder}/models/logistic_regression_for_bonus_points.pkl")
     with open(model_path, "rb") as f:
