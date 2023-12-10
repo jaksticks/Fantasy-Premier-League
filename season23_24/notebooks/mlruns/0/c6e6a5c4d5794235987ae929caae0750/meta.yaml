@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/c6e6a5c4d5794235987ae929caae0750/artifacts
+end_time: 1702033779717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6e6a5c4d5794235987ae929caae0750
+run_name: likeable-sow-875
+run_uuid: c6e6a5c4d5794235987ae929caae0750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702033776504
+status: 3
+tags: []
+user_id: jaakkotoivonen

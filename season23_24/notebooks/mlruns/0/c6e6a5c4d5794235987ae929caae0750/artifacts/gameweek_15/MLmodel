@@ -1,0 +1,19 @@
+artifact_path: gameweek_15
+flavors:
+  catboost:
+    catboost_version: '1.2'
+    code: null
+    data: model.cb
+    model_type: CatBoostRegressor
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.10.13
+mlflow_version: 2.6.0
+model_uuid: b7527b6cdf694ccab4515e07dc3622df
+run_id: c6e6a5c4d5794235987ae929caae0750
+utc_time_created: '2023-12-08 11:09:37.524016'
