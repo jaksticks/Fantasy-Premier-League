@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/1068ecb248e54c6fa6d120c72f6e32dc/artifacts
+end_time: 1703867729765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1068ecb248e54c6fa6d120c72f6e32dc
+run_name: beautiful-zebra-162
+run_uuid: 1068ecb248e54c6fa6d120c72f6e32dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703867726525
+status: 3
+tags: []
+user_id: jaakkotoivonen
