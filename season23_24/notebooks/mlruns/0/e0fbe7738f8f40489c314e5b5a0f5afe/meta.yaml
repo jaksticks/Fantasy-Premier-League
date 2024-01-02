@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/e0fbe7738f8f40489c314e5b5a0f5afe/artifacts
+end_time: 1704221678543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0fbe7738f8f40489c314e5b5a0f5afe
+run_name: hilarious-steed-454
+run_uuid: e0fbe7738f8f40489c314e5b5a0f5afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704221675252
+status: 3
+tags: []
+user_id: jaakkotoivonen
