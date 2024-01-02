@@ -2,6 +2,7 @@ notebooks/.ipynb_checkpoints/
 *.DS_Store
 venv23-24/
 catboost_info/
+__pycache__/
 season20_21/data
 season21_22/data
 season22_23/data

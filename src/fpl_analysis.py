@@ -16,18 +16,6 @@ import catboost
 #import matplotlib.pyplot as plt
 #import plotly.express as px
 
-parser = argparse.ArgumentParser()
-parser.add_argument('latest_gameweek')
-args = parser.parse_args()
-latest_gameweek = int(args.latest_gameweek)
-
-# get config variables
-config_json = pd.read_json('config.json', typ='series')
-# determine in which season folder data is stored
-SEASON_FOLDER = config_json['SEASON_FOLDER']
-# give the file name for the model you are using (located in season_folder/models/)
-MODEL_FILE_NAME = config_json['MODEL_FILE_NAME']
-
 def data_retrieval(latest_gameweek: int, season_folder: str):
     '''Fetch all new data'''
  
@@ -419,7 +407,8 @@ def data_processing(season_folder: str, shift_param: int = 1):
     filepath = Path(f'{season_folder}/data/fpl_df.csv')
     fpl_df.to_csv(filepath)
 
-def make_projections(latest_gameweek: int, season_folder: str, model_file_name: str):
+def make_projections(latest_gameweek: int, season_folder: str, model_file_name: str,
+                     save_predictions: bool = True, return_predictions: bool = False,):
     '''Make FPL point projections for future gameweeks.'''
 
     # fetch fpl data
@@ -566,11 +555,30 @@ def make_projections(latest_gameweek: int, season_folder: str, model_file_name: 
     X = prediction_df[features]
     prediction_df['expected_points'] = model.predict(X)
     prediction_df.loc[prediction_df.name.str.contains('Haaland'), ['name', 'team_name', 'opponent_team', 'home', 'date', 'expected_points']]
-    path = Path(f'{season_folder}/data/predictions/gameweek{latest_gameweek}.csv')
-    prediction_df.to_csv(path)
+    
+    # save predictions to file
+    if save_predictions:
+        path = Path(f'{season_folder}/data/predictions/gameweek{latest_gameweek}.csv')
+        prediction_df.to_csv(path)
+    
+    # return predictions
+    if return_predictions:
+        return prediction_df
 
 def main():
     
+    parser = argparse.ArgumentParser()
+    parser.add_argument('latest_gameweek')
+    args = parser.parse_args()
+    latest_gameweek = int(args.latest_gameweek)
+
+    # get config variables
+    config_json = pd.read_json('config.json', typ='series')
+    # determine in which season folder data is stored
+    SEASON_FOLDER = config_json['SEASON_FOLDER']
+    # give the file name for the model you are using (located in season_folder/models/)
+    MODEL_FILE_NAME = config_json['MODEL_FILE_NAME']
+
     print('Retriving data.')
     data_retrieval(latest_gameweek, SEASON_FOLDER)
     
