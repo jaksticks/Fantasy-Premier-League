@@ -166,9 +166,10 @@ def calculate_xPoints(x,clf):
         penalty_for_own_goal = -2 * x['gameweek_own_goals']
 
         # add up all point components
-        total_points = float(points_played + points_played_over_60 + points_xG + points_xA + points_clean_sheet + points_saves +\
-                        points_penalty_saves + points_bonus + xGA_conceded_penalty +\
+        total_points = (points_played + points_played_over_60 + points_xG + points_xA + points_clean_sheet + points_saves +
+                        points_penalty_saves + points_bonus + xGA_conceded_penalty +
                         penalty_for_cards + penalty_for_own_goal)
+        total_points = float(total_points.item())
         
         return total_points
 
