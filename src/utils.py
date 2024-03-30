@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import os
+import requests
+import json
 
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
@@ -49,3 +51,23 @@ def calculate_performance_metrics(y_true, y_predicted, plot=True):
         fig.show()
 
     return (mae, rmse, r2)
+
+def fetch_my_team(user_name: str, password: str, team_id: str):
+    '''Use FPL API to fetch your own team's data.'''
+
+    session = requests.session()
+    headers={"User-Agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; PRO 5 Build/LMY47D)", 'accept-language': 'en'}
+    data = {
+        "login": f"{user_name}", 
+        "password": f"{password}", 
+        "app": "plfpl-web", 
+        "redirect_uri": "https://fantasy.premierleague.com/a/login" 
+    }
+    url = "https://users.premierleague.com/accounts/login/"
+
+    response = session.post(url, data = data, headers = headers)
+    team_url = f"https://fantasy.premierleague.com/api/my-team/{team_id}/"
+    response = session.get(team_url)
+    team = json.loads(response.content)
+
+    return team
