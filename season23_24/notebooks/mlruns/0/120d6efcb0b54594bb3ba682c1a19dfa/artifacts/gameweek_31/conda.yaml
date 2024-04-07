@@ -1,0 +1,14 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.10.13
+- pip<=23.2.1
+- pip:
+  - mlflow==2.5.0
+  - catboost==1.2
+  - ipywidgets==8.0.7
+  - numpy==1.26.3
+  - pandas==2.0.3
+  - pathlib==1.0.1
+  - scipy==1.11.1
+name: mlflow-env
