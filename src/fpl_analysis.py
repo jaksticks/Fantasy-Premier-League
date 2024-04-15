@@ -580,7 +580,7 @@ def main():
     # give the file name for the model you are using (located in season_folder/models/)
     MODEL_FILE_NAME = config_json['MODEL_FILE_NAME']
 
-    print('Retriving data.')
+    print('Retrieving data.')
     data_retrieval(latest_gameweek, SEASON_FOLDER)
     
     print('Processing data.')
