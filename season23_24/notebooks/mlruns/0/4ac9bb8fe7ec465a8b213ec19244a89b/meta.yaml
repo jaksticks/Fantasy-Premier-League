@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/4ac9bb8fe7ec465a8b213ec19244a89b/artifacts
+end_time: 1713812088724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ac9bb8fe7ec465a8b213ec19244a89b
+run_name: beautiful-worm-592
+run_uuid: 4ac9bb8fe7ec465a8b213ec19244a89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713812087300
+status: 4
+tags: []
+user_id: jaakkotoivonen
