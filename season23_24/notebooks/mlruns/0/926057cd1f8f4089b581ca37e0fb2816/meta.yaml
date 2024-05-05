@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jaakkotoivonen/Documents/my_stuff/Fantasy-Premier-League/season23_24/notebooks/mlruns/0/926057cd1f8f4089b581ca37e0fb2816/artifacts
+end_time: 1714747855382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 926057cd1f8f4089b581ca37e0fb2816
+run_name: bemused-fly-165
+run_uuid: 926057cd1f8f4089b581ca37e0fb2816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714747851687
+status: 3
+tags: []
+user_id: jaakkotoivonen
