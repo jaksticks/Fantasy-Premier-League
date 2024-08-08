@@ -1,5 +1,5 @@
 {
     "SEASON_FOLDER" : "season24_25", 
     "MODEL_FILE_NAME" : "catboost_20230809-201635.cbm",
-    "TEAMS": "[Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton', 'Chelsea', 'Crystal Palace', 'Everton', 'Fulham', 'Ipswich Town', 'Leicester City', 'Liverpool', 'Manchester City', 'Manchester Utd', 'Newcastle Utd', 'Nottingham Forest', 'Southampton', 'Tottenham', 'West Ham', 'Wolves']" 
+    "TEAMS": "['Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton', 'Chelsea', 'Crystal Palace', 'Everton', 'Fulham', 'Ipswich Town', 'Leicester City', 'Liverpool', 'Manchester City', 'Manchester Utd', 'Newcastle Utd', 'Nottingham Forest', 'Southampton', 'Tottenham', 'West Ham', 'Wolves']" 
 }
