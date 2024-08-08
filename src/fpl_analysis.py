@@ -16,15 +16,15 @@ import catboost
 #import matplotlib.pyplot as plt
 #import plotly.express as px
 
-def data_retrieval(latest_gameweek: int, season_folder: str):
+def data_retrieval(latest_gameweek: int, season_folder: str, teams:list):
     '''Fetch all new data'''
  
     # teams for season 23-24
-    teams = ['Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton',
-            'Burnley', 'Chelsea', 'Crystal Palace', 'Everton', 'Fulham',
-            'Liverpool', 'Luton', 'Manchester City', 'Manchester Utd',
-            'Newcastle Utd', 'Nottingham Forest', 'Sheffield Utd', 'Tottenham',
-            'West Ham', 'Wolves']
+    #teams = ['Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton',
+    #        'Burnley', 'Chelsea', 'Crystal Palace', 'Everton', 'Fulham',
+    #        'Liverpool', 'Luton', 'Manchester City', 'Manchester Utd',
+    #        'Newcastle Utd', 'Nottingham Forest', 'Sheffield Utd', 'Tottenham',
+    #        'West Ham', 'Wolves']
     
     # FPL PLAYER DATA
     
@@ -555,7 +555,6 @@ def make_projections(latest_gameweek: int, season_folder: str, model_file_name: 
     # make projections and save to file
     X = prediction_df[features]
     prediction_df['expected_points'] = model.predict(X)
-    prediction_df.loc[prediction_df.name.str.contains('Haaland'), ['name', 'team_name', 'opponent_team', 'home', 'date', 'expected_points']]
     
     # save predictions to file
     if save_predictions:
@@ -579,9 +578,11 @@ def main():
     SEASON_FOLDER = config_json['SEASON_FOLDER']
     # give the file name for the model you are using (located in season_folder/models/)
     MODEL_FILE_NAME = config_json['MODEL_FILE_NAME']
+    # list of team names
+    TEAMS = config_json['TEAMS']
 
     print('Retrieving data.')
-    data_retrieval(latest_gameweek, SEASON_FOLDER)
+    data_retrieval(latest_gameweek, SEASON_FOLDER, TEAMS)
     
     print('Processing data.')
     data_processing(SEASON_FOLDER)
