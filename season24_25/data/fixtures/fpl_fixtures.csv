@@ -1,0 +1,381 @@
+,code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_start_time,started,team_a,team_a_score,team_h,team_h_score,stats,team_h_difficulty,team_a_difficulty,pulse_id,home_team,away_team
+0,2444470,1,False,False,1,2024-08-16T19:00:00Z,0,False,False,9,,14,,[],2,3,115827,Manchester Utd,Fulham
+1,2444473,1,False,False,4,2024-08-17T11:30:00Z,0,False,False,12,,10,,[],4,2,115830,Ipswich Town,Liverpool
+2,2444471,1,False,False,2,2024-08-17T14:00:00Z,0,False,False,20,,1,,[],2,5,115828,Arsenal,Wolves
+3,2444472,1,False,False,3,2024-08-17T14:00:00Z,0,False,False,5,,8,,[],2,3,115829,Everton,Brighton
+4,2444474,1,False,False,5,2024-08-17T14:00:00Z,0,False,False,17,,15,,[],2,4,115831,Newcastle Utd,Southampton
+5,2444475,1,False,False,6,2024-08-17T14:00:00Z,0,False,False,3,,16,,[],2,2,115832,Nottingham Forest,Bournemouth
+6,2444476,1,False,False,7,2024-08-17T16:30:00Z,0,False,False,2,,19,,[],3,2,115833,West Ham,Aston Villa
+7,2444477,1,False,False,8,2024-08-18T13:00:00Z,0,False,False,7,,4,,[],2,2,115834,Brentford,Crystal Palace
+8,2444478,1,False,False,9,2024-08-18T15:30:00Z,0,False,False,13,,6,,[],5,4,115835,Chelsea,Manchester City
+9,2444479,1,False,False,10,2024-08-19T19:00:00Z,0,False,False,18,,11,,[],3,2,115836,Leicester City,Tottenham
+10,2444482,2,False,False,13,2024-08-24T11:30:00Z,0,False,False,14,,5,,[],3,2,115839,Brighton,Manchester Utd
+11,2444483,2,False,False,14,2024-08-24T14:00:00Z,0,False,False,19,,7,,[],2,3,115840,Crystal Palace,West Ham
+12,2444484,2,False,False,15,2024-08-24T14:00:00Z,0,False,False,11,,9,,[],2,3,115841,Fulham,Leicester City
+13,2444486,2,False,False,17,2024-08-24T14:00:00Z,0,False,False,10,,13,,[],2,5,115843,Manchester City,Ipswich Town
+14,2444487,2,False,False,18,2024-08-24T14:00:00Z,0,False,False,16,,17,,[],2,2,115844,Southampton,Nottingham Forest
+15,2444488,2,False,False,19,2024-08-24T14:00:00Z,0,False,False,8,,18,,[],2,4,115845,Tottenham,Everton
+16,2444481,2,False,False,11,2024-08-24T16:30:00Z,0,False,False,1,,2,,[],5,4,115837,Aston Villa,Arsenal
+17,2444480,2,False,False,12,2024-08-25T13:00:00Z,0,False,False,15,,3,,[],3,2,115838,Bournemouth,Newcastle Utd
+18,2444489,2,False,False,20,2024-08-25T13:00:00Z,0,False,False,6,,20,,[],3,2,115846,Wolves,Chelsea
+19,2444485,2,False,False,16,2024-08-25T15:30:00Z,0,False,False,4,,12,,[],2,5,115842,Liverpool,Brentford
+20,2444490,3,False,False,21,2024-08-31T11:30:00Z,0,False,False,5,,1,,[],2,5,115847,Arsenal,Brighton
+21,2444491,3,False,False,22,2024-08-31T14:00:00Z,0,False,False,17,,4,,[],2,2,115848,Brentford,Southampton
+22,2444493,3,False,False,24,2024-08-31T14:00:00Z,0,False,False,3,,8,,[],2,3,115850,Everton,Bournemouth
+23,2444494,3,False,False,25,2024-08-31T14:00:00Z,0,False,False,9,,10,,[],2,2,115851,Ipswich Town,Fulham
+24,2444495,3,False,False,26,2024-08-31T14:00:00Z,0,False,False,2,,11,,[],3,2,115852,Leicester City,Aston Villa
+25,2444498,3,False,False,29,2024-08-31T14:00:00Z,0,False,False,20,,16,,[],2,2,115855,Nottingham Forest,Wolves
+26,2444499,3,False,False,30,2024-08-31T16:30:00Z,0,False,False,13,,19,,[],5,2,115856,West Ham,Manchester City
+27,2444492,3,False,False,23,2024-09-01T12:30:00Z,0,False,False,7,,6,,[],2,4,115849,Chelsea,Crystal Palace
+28,2444497,3,False,False,28,2024-09-01T12:30:00Z,0,False,False,18,,15,,[],3,4,115854,Newcastle Utd,Tottenham
+29,2444496,3,False,False,27,2024-09-01T15:00:00Z,0,False,False,12,,14,,[],4,3,115853,Manchester Utd,Liverpool
+30,2444507,4,False,False,38,2024-09-14T11:30:00Z,0,False,False,14,,17,,[],3,2,115864,Southampton,Manchester Utd
+31,2444502,4,False,False,33,2024-09-14T14:00:00Z,0,False,False,10,,5,,[],2,2,115859,Brighton,Ipswich Town
+32,2444503,4,False,False,34,2024-09-14T14:00:00Z,0,False,False,11,,7,,[],2,3,115860,Crystal Palace,Leicester City
+33,2444504,4,False,False,35,2024-09-14T14:00:00Z,0,False,False,19,,9,,[],2,3,115861,Fulham,West Ham
+34,2444505,4,False,False,36,2024-09-14T14:00:00Z,0,False,False,16,,12,,[],2,5,115862,Liverpool,Nottingham Forest
+35,2444506,4,False,False,37,2024-09-14T14:00:00Z,0,False,False,4,,13,,[],2,5,115863,Manchester City,Brentford
+36,2444501,4,False,False,31,2024-09-14T16:30:00Z,0,False,False,8,,2,,[],2,4,115857,Aston Villa,Everton
+37,2444500,4,False,False,32,2024-09-14T19:00:00Z,0,False,False,6,,3,,[],3,2,115858,Bournemouth,Chelsea
+38,2444508,4,False,False,39,2024-09-15T13:00:00Z,0,False,False,1,,18,,[],5,4,115865,Tottenham,Arsenal
+39,2444509,4,False,False,40,2024-09-15T15:30:00Z,0,False,False,15,,20,,[],3,2,115866,Wolves,Newcastle Utd
+40,2444519,5,False,False,50,2024-09-21T11:30:00Z,0,False,False,6,,19,,[],3,2,115876,West Ham,Chelsea
+41,2444510,5,False,False,41,2024-09-21T14:00:00Z,0,False,False,20,,2,,[],2,4,115867,Aston Villa,Wolves
+42,2444513,5,False,False,44,2024-09-21T14:00:00Z,0,False,False,15,,9,,[],3,3,115870,Fulham,Newcastle Utd
+43,2444514,5,False,False,45,2024-09-21T14:00:00Z,0,False,False,8,,11,,[],2,2,115871,Leicester City,Everton
+44,2444515,5,False,False,46,2024-09-21T14:00:00Z,0,False,False,3,,12,,[],2,5,115872,Liverpool,Bournemouth
+45,2444517,5,False,False,48,2024-09-21T14:00:00Z,0,False,False,10,,17,,[],2,2,115874,Southampton,Ipswich Town
+46,2444518,5,False,False,49,2024-09-21T14:00:00Z,0,False,False,4,,18,,[],2,4,115875,Tottenham,Brentford
+47,2444512,5,False,False,43,2024-09-21T16:30:00Z,0,False,False,14,,7,,[],3,3,115869,Crystal Palace,Manchester Utd
+48,2444511,5,False,False,42,2024-09-22T13:00:00Z,0,False,False,16,,5,,[],2,2,115868,Brighton,Nottingham Forest
+49,2444516,5,False,False,47,2024-09-22T15:30:00Z,0,False,False,1,,13,,[],5,5,115873,Manchester City,Arsenal
+50,2444527,6,False,False,58,2024-09-28T11:30:00Z,0,False,False,13,,15,,[],5,4,115884,Newcastle Utd,Manchester City
+51,2444521,6,False,False,51,2024-09-28T14:00:00Z,0,False,False,11,,1,,[],2,5,115877,Arsenal,Leicester City
+52,2444522,6,False,False,53,2024-09-28T14:00:00Z,0,False,False,19,,4,,[],2,2,115879,Brentford,West Ham
+53,2444523,6,False,False,54,2024-09-28T14:00:00Z,0,False,False,5,,6,,[],2,4,115880,Chelsea,Brighton
+54,2444524,6,False,False,55,2024-09-28T14:00:00Z,0,False,False,7,,8,,[],2,3,115881,Everton,Crystal Palace
+55,2444528,6,False,False,59,2024-09-28T14:00:00Z,0,False,False,9,,16,,[],2,2,115885,Nottingham Forest,Fulham
+56,2444529,6,False,False,60,2024-09-28T16:30:00Z,0,False,False,12,,20,,[],4,2,115886,Wolves,Liverpool
+57,2444525,6,False,False,56,2024-09-29T13:00:00Z,0,False,False,2,,10,,[],3,2,115882,Ipswich Town,Aston Villa
+58,2444526,6,False,False,57,2024-09-29T15:30:00Z,0,False,False,18,,14,,[],3,3,115883,Manchester Utd,Tottenham
+59,2444520,6,False,False,52,2024-09-30T19:00:00Z,0,False,False,17,,3,,[],2,2,115878,Bournemouth,Southampton
+60,2444535,7,False,False,66,2024-10-05T11:30:00Z,0,False,False,12,,7,,[],4,3,115892,Crystal Palace,Liverpool
+61,2444530,7,False,False,61,2024-10-05T14:00:00Z,0,False,False,17,,1,,[],2,5,115887,Arsenal,Southampton
+62,2444532,7,False,False,63,2024-10-05T14:00:00Z,0,False,False,20,,4,,[],2,2,115889,Brentford,Wolves
+63,2444534,7,False,False,65,2024-10-05T14:00:00Z,0,False,False,16,,6,,[],2,4,115891,Chelsea,Nottingham Forest
+64,2444537,7,False,False,68,2024-10-05T14:00:00Z,0,False,False,3,,11,,[],2,2,115894,Leicester City,Bournemouth
+65,2444538,7,False,False,69,2024-10-05T14:00:00Z,0,False,False,9,,13,,[],2,5,115895,Manchester City,Fulham
+66,2444539,7,False,False,70,2024-10-05T14:00:00Z,0,False,False,10,,19,,[],2,2,115896,West Ham,Ipswich Town
+67,2444536,7,False,False,67,2024-10-05T16:30:00Z,0,False,False,15,,8,,[],3,3,115893,Everton,Newcastle Utd
+68,2444531,7,False,False,62,2024-10-06T13:00:00Z,0,False,False,14,,2,,[],3,4,115888,Aston Villa,Manchester Utd
+69,2444533,7,False,False,64,2024-10-06T15:30:00Z,0,False,False,18,,5,,[],3,2,115890,Brighton,Tottenham
+70,2444548,8,False,False,79,2024-10-19T11:30:00Z,0,False,False,19,,18,,[],2,4,115905,Tottenham,West Ham
+71,2444541,8,False,False,72,2024-10-19T14:00:00Z,0,False,False,2,,9,,[],3,3,115898,Fulham,Aston Villa
+72,2444542,8,False,False,73,2024-10-19T14:00:00Z,0,False,False,8,,10,,[],2,2,115899,Ipswich Town,Everton
+73,2444544,8,False,False,75,2024-10-19T14:00:00Z,0,False,False,4,,14,,[],2,3,115901,Manchester Utd,Brentford
+74,2444545,8,False,False,76,2024-10-19T14:00:00Z,0,False,False,5,,15,,[],2,4,115902,Newcastle Utd,Brighton
+75,2444546,8,False,False,77,2024-10-19T14:00:00Z,0,False,False,7,,16,,[],2,2,115903,Nottingham Forest,Crystal Palace
+76,2444547,8,False,False,78,2024-10-19T14:00:00Z,0,False,False,11,,17,,[],2,2,115904,Southampton,Leicester City
+77,2444543,8,False,False,74,2024-10-19T16:30:00Z,0,False,False,6,,12,,[],3,5,115900,Liverpool,Chelsea
+78,2444540,8,False,False,71,2024-10-20T13:00:00Z,0,False,False,1,,3,,[],5,2,115897,Bournemouth,Arsenal
+79,2444549,8,False,False,80,2024-10-20T15:30:00Z,0,False,False,13,,20,,[],5,2,115906,Wolves,Manchester City
+80,2444557,9,False,False,88,2024-10-25T19:00:00Z,0,False,False,16,,11,,[],2,2,115914,Leicester City,Nottingham Forest
+81,2444551,9,False,False,82,2024-10-26T14:00:00Z,0,False,False,3,,2,,[],2,4,115908,Aston Villa,Bournemouth
+82,2444552,9,False,False,83,2024-10-26T14:00:00Z,0,False,False,10,,4,,[],2,2,115909,Brentford,Ipswich Town
+83,2444553,9,False,False,84,2024-10-26T14:00:00Z,0,False,False,20,,5,,[],2,2,115910,Brighton,Wolves
+84,2444558,9,False,False,89,2024-10-26T14:00:00Z,0,False,False,17,,13,,[],2,5,115915,Manchester City,Southampton
+85,2444556,9,False,False,87,2024-10-26T16:30:00Z,0,False,False,9,,8,,[],2,3,115913,Everton,Fulham
+86,2444554,9,False,False,85,2024-10-27T14:00:00Z,0,False,False,15,,6,,[],3,4,115911,Chelsea,Newcastle Utd
+87,2444555,9,False,False,86,2024-10-27T14:00:00Z,0,False,False,18,,7,,[],3,3,115912,Crystal Palace,Tottenham
+88,2444559,9,False,False,90,2024-10-27T14:00:00Z,0,False,False,14,,19,,[],3,2,115916,West Ham,Manchester Utd
+89,2444550,9,False,False,81,2024-10-27T16:30:00Z,0,False,False,12,,1,,[],4,5,115907,Arsenal,Liverpool
+90,2444560,10,False,False,91,2024-11-02T15:00:00Z,0,False,False,13,,3,,[],5,2,115917,Bournemouth,Manchester City
+91,2444561,10,False,False,92,2024-11-02T15:00:00Z,0,False,False,4,,9,,[],2,3,115918,Fulham,Brentford
+92,2444562,10,False,False,93,2024-11-02T15:00:00Z,0,False,False,11,,10,,[],2,2,115919,Ipswich Town,Leicester City
+93,2444563,10,False,False,94,2024-11-02T15:00:00Z,0,False,False,5,,12,,[],2,5,115920,Liverpool,Brighton
+94,2444564,10,False,False,95,2024-11-02T15:00:00Z,0,False,False,6,,14,,[],3,3,115921,Manchester Utd,Chelsea
+95,2444565,10,False,False,96,2024-11-02T15:00:00Z,0,False,False,1,,15,,[],5,4,115922,Newcastle Utd,Arsenal
+96,2444566,10,False,False,97,2024-11-02T15:00:00Z,0,False,False,19,,16,,[],2,2,115923,Nottingham Forest,West Ham
+97,2444567,10,False,False,98,2024-11-02T15:00:00Z,0,False,False,8,,17,,[],2,2,115924,Southampton,Everton
+98,2444568,10,False,False,99,2024-11-02T15:00:00Z,0,False,False,2,,18,,[],3,4,115925,Tottenham,Aston Villa
+99,2444569,10,False,False,100,2024-11-02T15:00:00Z,0,False,False,7,,20,,[],2,2,115926,Wolves,Crystal Palace
+100,2444570,11,False,False,101,2024-11-09T15:00:00Z,0,False,False,3,,4,,[],2,2,115927,Brentford,Bournemouth
+101,2444571,11,False,False,102,2024-11-09T15:00:00Z,0,False,False,13,,5,,[],5,2,115928,Brighton,Manchester City
+102,2444572,11,False,False,103,2024-11-09T15:00:00Z,0,False,False,1,,6,,[],5,4,115929,Chelsea,Arsenal
+103,2444573,11,False,False,104,2024-11-09T15:00:00Z,0,False,False,9,,7,,[],2,3,115930,Crystal Palace,Fulham
+104,2444574,11,False,False,105,2024-11-09T15:00:00Z,0,False,False,2,,12,,[],3,5,115931,Liverpool,Aston Villa
+105,2444575,11,False,False,106,2024-11-09T15:00:00Z,0,False,False,11,,14,,[],2,3,115932,Manchester Utd,Leicester City
+106,2444576,11,False,False,107,2024-11-09T15:00:00Z,0,False,False,15,,16,,[],3,2,115933,Nottingham Forest,Newcastle Utd
+107,2444577,11,False,False,108,2024-11-09T15:00:00Z,0,False,False,10,,18,,[],2,4,115934,Tottenham,Ipswich Town
+108,2444578,11,False,False,109,2024-11-09T15:00:00Z,0,False,False,8,,19,,[],2,2,115935,West Ham,Everton
+109,2444579,11,False,False,110,2024-11-09T15:00:00Z,0,False,False,17,,20,,[],2,2,115936,Wolves,Southampton
+110,2444581,12,False,False,111,2024-11-23T15:00:00Z,0,False,False,16,,1,,[],2,5,115937,Arsenal,Nottingham Forest
+111,2444582,12,False,False,112,2024-11-23T15:00:00Z,0,False,False,7,,2,,[],2,4,115938,Aston Villa,Crystal Palace
+112,2444580,12,False,False,113,2024-11-23T15:00:00Z,0,False,False,5,,3,,[],2,2,115939,Bournemouth,Brighton
+113,2444583,12,False,False,114,2024-11-23T15:00:00Z,0,False,False,4,,8,,[],2,3,115940,Everton,Brentford
+114,2444584,12,False,False,115,2024-11-23T15:00:00Z,0,False,False,20,,9,,[],2,3,115941,Fulham,Wolves
+115,2444585,12,False,False,116,2024-11-23T15:00:00Z,0,False,False,14,,10,,[],3,2,115942,Ipswich Town,Manchester Utd
+116,2444586,12,False,False,117,2024-11-23T15:00:00Z,0,False,False,6,,11,,[],3,2,115943,Leicester City,Chelsea
+117,2444587,12,False,False,118,2024-11-23T15:00:00Z,0,False,False,18,,13,,[],3,5,115944,Manchester City,Tottenham
+118,2444588,12,False,False,119,2024-11-23T15:00:00Z,0,False,False,19,,15,,[],2,4,115945,Newcastle Utd,West Ham
+119,2444589,12,False,False,120,2024-11-23T15:00:00Z,0,False,False,12,,17,,[],4,2,115946,Southampton,Liverpool
+120,2444590,13,False,False,121,2024-11-30T15:00:00Z,0,False,False,11,,4,,[],2,2,115947,Brentford,Leicester City
+121,2444591,13,False,False,122,2024-11-30T15:00:00Z,0,False,False,17,,5,,[],2,2,115948,Brighton,Southampton
+122,2444592,13,False,False,123,2024-11-30T15:00:00Z,0,False,False,2,,6,,[],3,4,115949,Chelsea,Aston Villa
+123,2444593,13,False,False,124,2024-11-30T15:00:00Z,0,False,False,15,,7,,[],3,3,115950,Crystal Palace,Newcastle Utd
+124,2444594,13,False,False,125,2024-11-30T15:00:00Z,0,False,False,13,,12,,[],5,5,115951,Liverpool,Manchester City
+125,2444595,13,False,False,126,2024-11-30T15:00:00Z,0,False,False,8,,14,,[],2,3,115952,Manchester Utd,Everton
+126,2444596,13,False,False,127,2024-11-30T15:00:00Z,0,False,False,10,,16,,[],2,2,115953,Nottingham Forest,Ipswich Town
+127,2444597,13,False,False,128,2024-11-30T15:00:00Z,0,False,False,9,,18,,[],2,4,115954,Tottenham,Fulham
+128,2444598,13,False,False,129,2024-11-30T15:00:00Z,0,False,False,1,,19,,[],5,2,115955,West Ham,Arsenal
+129,2444599,13,False,False,130,2024-11-30T15:00:00Z,0,False,False,3,,20,,[],2,2,115956,Wolves,Bournemouth
+130,2444601,14,False,False,131,2024-12-03T19:45:00Z,0,False,False,14,,1,,[],3,5,115957,Arsenal,Manchester Utd
+131,2444602,14,False,False,132,2024-12-03T19:45:00Z,0,False,False,4,,2,,[],2,4,115958,Aston Villa,Brentford
+132,2444600,14,False,False,133,2024-12-03T19:45:00Z,0,False,False,18,,3,,[],3,2,115959,Bournemouth,Tottenham
+133,2444603,14,False,False,134,2024-12-03T19:45:00Z,0,False,False,20,,8,,[],2,3,115960,Everton,Wolves
+134,2444604,14,False,False,135,2024-12-03T19:45:00Z,0,False,False,5,,9,,[],2,3,115961,Fulham,Brighton
+135,2444605,14,False,False,136,2024-12-03T19:45:00Z,0,False,False,7,,10,,[],2,2,115962,Ipswich Town,Crystal Palace
+136,2444606,14,False,False,137,2024-12-03T19:45:00Z,0,False,False,19,,11,,[],2,2,115963,Leicester City,West Ham
+137,2444607,14,False,False,138,2024-12-04T19:45:00Z,0,False,False,16,,13,,[],2,5,115964,Manchester City,Nottingham Forest
+138,2444608,14,False,False,139,2024-12-04T19:45:00Z,0,False,False,12,,15,,[],4,4,115965,Newcastle Utd,Liverpool
+139,2444609,14,False,False,140,2024-12-04T19:45:00Z,0,False,False,6,,17,,[],3,2,115966,Southampton,Chelsea
+140,2444610,15,False,False,141,2024-12-07T15:00:00Z,0,False,False,17,,2,,[],2,4,115967,Aston Villa,Southampton
+141,2444611,15,False,False,142,2024-12-07T15:00:00Z,0,False,False,15,,4,,[],3,2,115968,Brentford,Newcastle Utd
+142,2444612,15,False,False,143,2024-12-07T15:00:00Z,0,False,False,13,,7,,[],5,3,115969,Crystal Palace,Manchester City
+143,2444613,15,False,False,144,2024-12-07T15:00:00Z,0,False,False,12,,8,,[],4,3,115970,Everton,Liverpool
+144,2444614,15,False,False,145,2024-12-07T15:00:00Z,0,False,False,1,,9,,[],5,3,115971,Fulham,Arsenal
+145,2444615,15,False,False,146,2024-12-07T15:00:00Z,0,False,False,3,,10,,[],2,2,115972,Ipswich Town,Bournemouth
+146,2444616,15,False,False,147,2024-12-07T15:00:00Z,0,False,False,5,,11,,[],2,2,115973,Leicester City,Brighton
+147,2444617,15,False,False,148,2024-12-07T15:00:00Z,0,False,False,16,,14,,[],2,3,115974,Manchester Utd,Nottingham Forest
+148,2444618,15,False,False,149,2024-12-07T15:00:00Z,0,False,False,6,,18,,[],3,4,115975,Tottenham,Chelsea
+149,2444619,15,False,False,150,2024-12-07T15:00:00Z,0,False,False,20,,19,,[],2,2,115976,West Ham,Wolves
+150,2444621,16,False,False,151,2024-12-14T15:00:00Z,0,False,False,8,,1,,[],2,5,115977,Arsenal,Everton
+151,2444620,16,False,False,152,2024-12-14T15:00:00Z,0,False,False,19,,3,,[],2,2,115978,Bournemouth,West Ham
+152,2444622,16,False,False,153,2024-12-14T15:00:00Z,0,False,False,7,,5,,[],2,2,115979,Brighton,Crystal Palace
+153,2444623,16,False,False,154,2024-12-14T15:00:00Z,0,False,False,4,,6,,[],2,4,115980,Chelsea,Brentford
+154,2444624,16,False,False,155,2024-12-14T15:00:00Z,0,False,False,9,,12,,[],2,5,115981,Liverpool,Fulham
+155,2444625,16,False,False,156,2024-12-14T15:00:00Z,0,False,False,14,,13,,[],3,5,115982,Manchester City,Manchester Utd
+156,2444626,16,False,False,157,2024-12-14T15:00:00Z,0,False,False,11,,15,,[],2,4,115983,Newcastle Utd,Leicester City
+157,2444627,16,False,False,158,2024-12-14T15:00:00Z,0,False,False,2,,16,,[],3,2,115984,Nottingham Forest,Aston Villa
+158,2444628,16,False,False,159,2024-12-14T15:00:00Z,0,False,False,18,,17,,[],3,2,115985,Southampton,Tottenham
+159,2444629,16,False,False,160,2024-12-14T15:00:00Z,0,False,False,10,,20,,[],2,2,115986,Wolves,Ipswich Town
+160,2444630,17,False,False,161,2024-12-21T15:00:00Z,0,False,False,13,,2,,[],5,4,115987,Aston Villa,Manchester City
+161,2444631,17,False,False,162,2024-12-21T15:00:00Z,0,False,False,16,,4,,[],2,2,115988,Brentford,Nottingham Forest
+162,2444632,17,False,False,163,2024-12-21T15:00:00Z,0,False,False,1,,7,,[],5,3,115989,Crystal Palace,Arsenal
+163,2444633,17,False,False,164,2024-12-21T15:00:00Z,0,False,False,6,,8,,[],3,3,115990,Everton,Chelsea
+164,2444634,17,False,False,165,2024-12-21T15:00:00Z,0,False,False,17,,9,,[],2,3,115991,Fulham,Southampton
+165,2444635,17,False,False,166,2024-12-21T15:00:00Z,0,False,False,15,,10,,[],3,2,115992,Ipswich Town,Newcastle Utd
+166,2444636,17,False,False,167,2024-12-21T15:00:00Z,0,False,False,20,,11,,[],2,2,115993,Leicester City,Wolves
+167,2444637,17,False,False,168,2024-12-21T15:00:00Z,0,False,False,3,,14,,[],2,3,115994,Manchester Utd,Bournemouth
+168,2444638,17,False,False,169,2024-12-21T15:00:00Z,0,False,False,12,,18,,[],4,4,115995,Tottenham,Liverpool
+169,2444639,17,False,False,170,2024-12-21T15:00:00Z,0,False,False,5,,19,,[],2,2,115996,West Ham,Brighton
+170,2444641,18,False,False,171,2024-12-26T15:00:00Z,0,False,False,10,,1,,[],2,5,115997,Arsenal,Ipswich Town
+171,2444640,18,False,False,172,2024-12-26T15:00:00Z,0,False,False,7,,3,,[],2,2,115998,Bournemouth,Crystal Palace
+172,2444642,18,False,False,173,2024-12-26T15:00:00Z,0,False,False,4,,5,,[],2,2,115999,Brighton,Brentford
+173,2444643,18,False,False,174,2024-12-26T15:00:00Z,0,False,False,9,,6,,[],2,4,116000,Chelsea,Fulham
+174,2444644,18,False,False,175,2024-12-26T15:00:00Z,0,False,False,11,,12,,[],2,5,116001,Liverpool,Leicester City
+175,2444645,18,False,False,176,2024-12-26T15:00:00Z,0,False,False,8,,13,,[],2,5,116002,Manchester City,Everton
+176,2444646,18,False,False,177,2024-12-26T15:00:00Z,0,False,False,2,,15,,[],3,4,116003,Newcastle Utd,Aston Villa
+177,2444647,18,False,False,178,2024-12-26T15:00:00Z,0,False,False,18,,16,,[],3,2,116004,Nottingham Forest,Tottenham
+178,2444648,18,False,False,179,2024-12-26T15:00:00Z,0,False,False,19,,17,,[],2,2,116005,Southampton,West Ham
+179,2444649,18,False,False,180,2024-12-26T15:00:00Z,0,False,False,14,,20,,[],3,2,116006,Wolves,Manchester Utd
+180,2444650,19,False,False,181,2024-12-29T15:00:00Z,0,False,False,5,,2,,[],2,4,116007,Aston Villa,Brighton
+181,2444651,19,False,False,182,2024-12-29T15:00:00Z,0,False,False,1,,4,,[],5,2,116008,Brentford,Arsenal
+182,2444652,19,False,False,183,2024-12-29T15:00:00Z,0,False,False,17,,7,,[],2,3,116009,Crystal Palace,Southampton
+183,2444653,19,False,False,184,2024-12-29T15:00:00Z,0,False,False,16,,8,,[],2,3,116010,Everton,Nottingham Forest
+184,2444654,19,False,False,185,2024-12-29T15:00:00Z,0,False,False,3,,9,,[],2,3,116011,Fulham,Bournemouth
+185,2444655,19,False,False,186,2024-12-29T15:00:00Z,0,False,False,6,,10,,[],3,2,116012,Ipswich Town,Chelsea
+186,2444656,19,False,False,187,2024-12-29T15:00:00Z,0,False,False,13,,11,,[],5,2,116013,Leicester City,Manchester City
+187,2444657,19,False,False,188,2024-12-29T15:00:00Z,0,False,False,15,,14,,[],3,3,116014,Manchester Utd,Newcastle Utd
+188,2444658,19,False,False,189,2024-12-29T15:00:00Z,0,False,False,20,,18,,[],2,4,116015,Tottenham,Wolves
+189,2444659,19,False,False,190,2024-12-29T15:00:00Z,0,False,False,12,,19,,[],4,2,116016,West Ham,Liverpool
+190,2444661,20,False,False,191,2025-01-04T15:00:00Z,0,False,False,11,,2,,[],2,4,116017,Aston Villa,Leicester City
+191,2444660,20,False,False,192,2025-01-04T15:00:00Z,0,False,False,8,,3,,[],2,2,116018,Bournemouth,Everton
+192,2444662,20,False,False,193,2025-01-04T15:00:00Z,0,False,False,1,,5,,[],5,2,116019,Brighton,Arsenal
+193,2444663,20,False,False,194,2025-01-04T15:00:00Z,0,False,False,6,,7,,[],3,3,116020,Crystal Palace,Chelsea
+194,2444664,20,False,False,195,2025-01-04T15:00:00Z,0,False,False,10,,9,,[],2,3,116021,Fulham,Ipswich Town
+195,2444665,20,False,False,196,2025-01-04T15:00:00Z,0,False,False,14,,12,,[],3,5,116022,Liverpool,Manchester Utd
+196,2444666,20,False,False,197,2025-01-04T15:00:00Z,0,False,False,19,,13,,[],2,5,116023,Manchester City,West Ham
+197,2444667,20,False,False,198,2025-01-04T15:00:00Z,0,False,False,4,,17,,[],2,2,116024,Southampton,Brentford
+198,2444668,20,False,False,199,2025-01-04T15:00:00Z,0,False,False,15,,18,,[],3,4,116025,Tottenham,Newcastle Utd
+199,2444669,20,False,False,200,2025-01-04T15:00:00Z,0,False,False,16,,20,,[],2,2,116026,Wolves,Nottingham Forest
+200,2444670,21,False,False,201,2025-01-14T19:45:00Z,0,False,False,18,,1,,[],3,5,116027,Arsenal,Tottenham
+201,2444671,21,False,False,202,2025-01-14T19:45:00Z,0,False,False,13,,4,,[],5,2,116028,Brentford,Manchester City
+202,2444672,21,False,False,203,2025-01-14T19:45:00Z,0,False,False,2,,8,,[],3,3,116029,Everton,Aston Villa
+203,2444673,21,False,False,204,2025-01-14T19:45:00Z,0,False,False,5,,10,,[],2,2,116030,Ipswich Town,Brighton
+204,2444674,21,False,False,205,2025-01-14T19:45:00Z,0,False,False,7,,11,,[],2,2,116031,Leicester City,Crystal Palace
+205,2444675,21,False,False,206,2025-01-14T19:45:00Z,0,False,False,12,,16,,[],4,2,116032,Nottingham Forest,Liverpool
+206,2444676,21,False,False,207,2025-01-14T19:45:00Z,0,False,False,9,,19,,[],2,2,116033,West Ham,Fulham
+207,2444677,21,False,False,208,2025-01-15T19:45:00Z,0,False,False,3,,6,,[],2,4,116034,Chelsea,Bournemouth
+208,2444679,21,False,False,210,2025-01-15T19:45:00Z,0,False,False,20,,15,,[],2,4,116036,Newcastle Utd,Wolves
+209,2444678,21,False,False,209,2025-01-15T20:00:00Z,0,False,False,17,,14,,[],2,3,116035,Manchester Utd,Southampton
+210,2444680,22,False,False,211,2025-01-18T15:00:00Z,0,False,False,2,,1,,[],3,5,116037,Arsenal,Aston Villa
+211,2444681,22,False,False,212,2025-01-18T15:00:00Z,0,False,False,12,,4,,[],4,2,116038,Brentford,Liverpool
+212,2444682,22,False,False,213,2025-01-18T15:00:00Z,0,False,False,20,,6,,[],2,4,116039,Chelsea,Wolves
+213,2444683,22,False,False,214,2025-01-18T15:00:00Z,0,False,False,18,,8,,[],3,3,116040,Everton,Tottenham
+214,2444684,22,False,False,215,2025-01-18T15:00:00Z,0,False,False,13,,10,,[],5,2,116041,Ipswich Town,Manchester City
+215,2444685,22,False,False,216,2025-01-18T15:00:00Z,0,False,False,9,,11,,[],2,2,116042,Leicester City,Fulham
+216,2444686,22,False,False,217,2025-01-18T15:00:00Z,0,False,False,5,,14,,[],2,3,116043,Manchester Utd,Brighton
+217,2444687,22,False,False,218,2025-01-18T15:00:00Z,0,False,False,3,,15,,[],2,4,116044,Newcastle Utd,Bournemouth
+218,2444688,22,False,False,219,2025-01-18T15:00:00Z,0,False,False,17,,16,,[],2,2,116045,Nottingham Forest,Southampton
+219,2444689,22,False,False,220,2025-01-18T15:00:00Z,0,False,False,7,,19,,[],2,2,116046,West Ham,Crystal Palace
+220,2444691,23,False,False,221,2025-01-25T15:00:00Z,0,False,False,19,,2,,[],2,4,116047,Aston Villa,West Ham
+221,2444690,23,False,False,222,2025-01-25T15:00:00Z,0,False,False,16,,3,,[],2,2,116048,Bournemouth,Nottingham Forest
+222,2444692,23,False,False,223,2025-01-25T15:00:00Z,0,False,False,8,,5,,[],2,2,116049,Brighton,Everton
+223,2444693,23,False,False,224,2025-01-25T15:00:00Z,0,False,False,4,,7,,[],2,3,116050,Crystal Palace,Brentford
+224,2444694,23,False,False,225,2025-01-25T15:00:00Z,0,False,False,14,,9,,[],3,3,116051,Fulham,Manchester Utd
+225,2444695,23,False,False,226,2025-01-25T15:00:00Z,0,False,False,10,,12,,[],2,5,116052,Liverpool,Ipswich Town
+226,2444696,23,False,False,227,2025-01-25T15:00:00Z,0,False,False,6,,13,,[],3,5,116053,Manchester City,Chelsea
+227,2444697,23,False,False,228,2025-01-25T15:00:00Z,0,False,False,15,,17,,[],3,2,116054,Southampton,Newcastle Utd
+228,2444698,23,False,False,229,2025-01-25T15:00:00Z,0,False,False,11,,18,,[],2,4,116055,Tottenham,Leicester City
+229,2444699,23,False,False,230,2025-01-25T15:00:00Z,0,False,False,1,,20,,[],5,2,116056,Wolves,Arsenal
+230,2444701,24,False,False,231,2025-02-01T15:00:00Z,0,False,False,13,,1,,[],5,5,116057,Arsenal,Manchester City
+231,2444700,24,False,False,232,2025-02-01T15:00:00Z,0,False,False,12,,3,,[],4,2,116058,Bournemouth,Liverpool
+232,2444702,24,False,False,233,2025-02-01T15:00:00Z,0,False,False,18,,4,,[],3,2,116059,Brentford,Tottenham
+233,2444703,24,False,False,234,2025-02-01T15:00:00Z,0,False,False,19,,6,,[],2,4,116060,Chelsea,West Ham
+234,2444704,24,False,False,235,2025-02-01T15:00:00Z,0,False,False,11,,8,,[],2,3,116061,Everton,Leicester City
+235,2444705,24,False,False,236,2025-02-01T15:00:00Z,0,False,False,17,,10,,[],2,2,116062,Ipswich Town,Southampton
+236,2444706,24,False,False,237,2025-02-01T15:00:00Z,0,False,False,7,,14,,[],2,3,116063,Manchester Utd,Crystal Palace
+237,2444707,24,False,False,238,2025-02-01T15:00:00Z,0,False,False,9,,15,,[],2,4,116064,Newcastle Utd,Fulham
+238,2444708,24,False,False,239,2025-02-01T15:00:00Z,0,False,False,5,,16,,[],2,2,116065,Nottingham Forest,Brighton
+239,2444709,24,False,False,240,2025-02-01T15:00:00Z,0,False,False,2,,20,,[],3,2,116066,Wolves,Aston Villa
+240,2444710,25,False,False,241,2025-02-15T15:00:00Z,0,False,False,10,,2,,[],2,4,116067,Aston Villa,Ipswich Town
+241,2444711,25,False,False,242,2025-02-15T15:00:00Z,0,False,False,6,,5,,[],3,2,116068,Brighton,Chelsea
+242,2444712,25,False,False,243,2025-02-15T15:00:00Z,0,False,False,8,,7,,[],2,3,116069,Crystal Palace,Everton
+243,2444713,25,False,False,244,2025-02-15T15:00:00Z,0,False,False,16,,9,,[],2,3,116070,Fulham,Nottingham Forest
+244,2444714,25,False,False,245,2025-02-15T15:00:00Z,0,False,False,1,,11,,[],5,2,116071,Leicester City,Arsenal
+245,2444715,25,False,False,246,2025-02-15T15:00:00Z,0,False,False,20,,12,,[],2,5,116072,Liverpool,Wolves
+246,2444716,25,False,False,247,2025-02-15T15:00:00Z,0,False,False,15,,13,,[],3,5,116073,Manchester City,Newcastle Utd
+247,2444717,25,False,False,248,2025-02-15T15:00:00Z,0,False,False,3,,17,,[],2,2,116074,Southampton,Bournemouth
+248,2444718,25,False,False,249,2025-02-15T15:00:00Z,0,False,False,14,,18,,[],3,4,116075,Tottenham,Manchester Utd
+249,2444719,25,False,False,250,2025-02-15T15:00:00Z,0,False,False,4,,19,,[],2,2,116076,West Ham,Brentford
+250,2444721,26,False,False,251,2025-02-22T15:00:00Z,0,False,False,19,,1,,[],2,5,116077,Arsenal,West Ham
+251,2444722,26,False,False,252,2025-02-22T15:00:00Z,0,False,False,6,,2,,[],3,4,116078,Aston Villa,Chelsea
+252,2444720,26,False,False,253,2025-02-22T15:00:00Z,0,False,False,20,,3,,[],2,2,116079,Bournemouth,Wolves
+253,2444723,26,False,False,254,2025-02-22T15:00:00Z,0,False,False,14,,8,,[],3,3,116080,Everton,Manchester Utd
+254,2444724,26,False,False,255,2025-02-22T15:00:00Z,0,False,False,7,,9,,[],2,3,116081,Fulham,Crystal Palace
+255,2444725,26,False,False,256,2025-02-22T15:00:00Z,0,False,False,18,,10,,[],3,2,116082,Ipswich Town,Tottenham
+256,2444726,26,False,False,257,2025-02-22T15:00:00Z,0,False,False,4,,11,,[],2,2,116083,Leicester City,Brentford
+257,2444727,26,False,False,258,2025-02-22T15:00:00Z,0,False,False,12,,13,,[],4,5,116084,Manchester City,Liverpool
+258,2444728,26,False,False,259,2025-02-22T15:00:00Z,0,False,False,16,,15,,[],2,4,116085,Newcastle Utd,Nottingham Forest
+259,2444729,26,False,False,260,2025-02-22T15:00:00Z,0,False,False,5,,17,,[],2,2,116086,Southampton,Brighton
+260,2444730,27,False,False,261,2025-02-25T19:45:00Z,0,False,False,8,,4,,[],2,2,116087,Brentford,Everton
+261,2444731,27,False,False,262,2025-02-25T19:45:00Z,0,False,False,3,,5,,[],2,2,116088,Brighton,Bournemouth
+262,2444733,27,False,False,264,2025-02-25T19:45:00Z,0,False,False,1,,16,,[],5,2,116090,Nottingham Forest,Arsenal
+263,2444734,27,False,False,265,2025-02-25T19:45:00Z,0,False,False,13,,18,,[],5,4,116091,Tottenham,Manchester City
+264,2444735,27,False,False,266,2025-02-25T19:45:00Z,0,False,False,11,,19,,[],2,2,116092,West Ham,Leicester City
+265,2444736,27,False,False,267,2025-02-25T19:45:00Z,0,False,False,9,,20,,[],2,2,116093,Wolves,Fulham
+266,2444732,27,False,False,263,2025-02-25T20:00:00Z,0,False,False,2,,7,,[],3,3,116089,Crystal Palace,Aston Villa
+267,2444737,27,False,False,268,2025-02-26T19:45:00Z,0,False,False,17,,6,,[],2,4,116094,Chelsea,Southampton
+268,2444738,27,False,False,269,2025-02-26T20:00:00Z,0,False,False,15,,12,,[],3,5,116095,Liverpool,Newcastle Utd
+269,2444739,27,False,False,270,2025-02-26T20:00:00Z,0,False,False,10,,14,,[],2,3,116096,Manchester Utd,Ipswich Town
+270,2444740,28,False,False,271,2025-03-08T15:00:00Z,0,False,False,2,,4,,[],3,2,116097,Brentford,Aston Villa
+271,2444741,28,False,False,272,2025-03-08T15:00:00Z,0,False,False,9,,5,,[],2,2,116098,Brighton,Fulham
+272,2444742,28,False,False,273,2025-03-08T15:00:00Z,0,False,False,11,,6,,[],2,4,116099,Chelsea,Leicester City
+273,2444743,28,False,False,274,2025-03-08T15:00:00Z,0,False,False,10,,7,,[],2,3,116100,Crystal Palace,Ipswich Town
+274,2444744,28,False,False,275,2025-03-08T15:00:00Z,0,False,False,17,,12,,[],2,5,116101,Liverpool,Southampton
+275,2444745,28,False,False,276,2025-03-08T15:00:00Z,0,False,False,1,,14,,[],5,3,116102,Manchester Utd,Arsenal
+276,2444746,28,False,False,277,2025-03-08T15:00:00Z,0,False,False,13,,16,,[],5,2,116103,Nottingham Forest,Manchester City
+277,2444747,28,False,False,278,2025-03-08T15:00:00Z,0,False,False,3,,18,,[],2,4,116104,Tottenham,Bournemouth
+278,2444748,28,False,False,279,2025-03-08T15:00:00Z,0,False,False,15,,19,,[],3,2,116105,West Ham,Newcastle Utd
+279,2444749,28,False,False,280,2025-03-08T15:00:00Z,0,False,False,8,,20,,[],2,2,116106,Wolves,Everton
+280,2444751,29,False,False,281,2025-03-15T15:00:00Z,0,False,False,6,,1,,[],3,5,116107,Arsenal,Chelsea
+281,2444752,29,False,False,282,2025-03-15T15:00:00Z,0,False,False,12,,2,,[],4,4,116108,Aston Villa,Liverpool
+282,2444750,29,False,False,283,2025-03-15T15:00:00Z,0,False,False,4,,3,,[],2,2,116109,Bournemouth,Brentford
+283,2444753,29,False,False,284,2025-03-15T15:00:00Z,0,False,False,19,,8,,[],2,3,116110,Everton,West Ham
+284,2444754,29,False,False,285,2025-03-15T15:00:00Z,0,False,False,18,,9,,[],3,3,116111,Fulham,Tottenham
+285,2444755,29,False,False,286,2025-03-15T15:00:00Z,0,False,False,16,,10,,[],2,2,116112,Ipswich Town,Nottingham Forest
+286,2444756,29,False,False,287,2025-03-15T15:00:00Z,0,False,False,14,,11,,[],3,2,116113,Leicester City,Manchester Utd
+287,2444757,29,False,False,288,2025-03-15T15:00:00Z,0,False,False,5,,13,,[],2,5,116114,Manchester City,Brighton
+288,2444758,29,False,False,289,2025-03-15T15:00:00Z,0,False,False,7,,15,,[],2,4,116115,Newcastle Utd,Crystal Palace
+289,2444759,29,False,False,290,2025-03-15T15:00:00Z,0,False,False,20,,17,,[],2,2,116116,Southampton,Wolves
+290,2444761,30,False,False,291,2025-04-01T18:45:00Z,0,False,False,9,,1,,[],2,5,116117,Arsenal,Fulham
+291,2444760,30,False,False,292,2025-04-01T18:45:00Z,0,False,False,10,,3,,[],2,2,116118,Bournemouth,Ipswich Town
+292,2444762,30,False,False,293,2025-04-01T18:45:00Z,0,False,False,2,,5,,[],3,2,116119,Brighton,Aston Villa
+293,2444763,30,False,False,294,2025-04-01T18:45:00Z,0,False,False,14,,16,,[],3,2,116120,Nottingham Forest,Manchester Utd
+294,2444764,30,False,False,295,2025-04-01T18:45:00Z,0,False,False,19,,20,,[],2,2,116121,Wolves,West Ham
+295,2444765,30,False,False,296,2025-04-02T18:45:00Z,0,False,False,18,,6,,[],3,4,116122,Chelsea,Tottenham
+296,2444767,30,False,False,298,2025-04-02T18:45:00Z,0,False,False,11,,13,,[],2,5,116124,Manchester City,Leicester City
+297,2444768,30,False,False,299,2025-04-02T18:45:00Z,0,False,False,4,,15,,[],2,4,116125,Newcastle Utd,Brentford
+298,2444769,30,False,False,300,2025-04-02T18:45:00Z,0,False,False,7,,17,,[],2,2,116126,Southampton,Crystal Palace
+299,2444766,30,False,False,297,2025-04-02T19:00:00Z,0,False,False,8,,12,,[],2,5,116123,Liverpool,Everton
+300,2444770,31,False,False,301,2025-04-05T14:00:00Z,0,False,False,16,,2,,[],2,4,116127,Aston Villa,Nottingham Forest
+301,2444771,31,False,False,302,2025-04-05T14:00:00Z,0,False,False,6,,4,,[],3,2,116128,Brentford,Chelsea
+302,2444772,31,False,False,303,2025-04-05T14:00:00Z,0,False,False,5,,7,,[],2,3,116129,Crystal Palace,Brighton
+303,2444773,31,False,False,304,2025-04-05T14:00:00Z,0,False,False,1,,8,,[],5,3,116130,Everton,Arsenal
+304,2444774,31,False,False,305,2025-04-05T14:00:00Z,0,False,False,12,,9,,[],4,3,116131,Fulham,Liverpool
+305,2444775,31,False,False,306,2025-04-05T14:00:00Z,0,False,False,20,,10,,[],2,2,116132,Ipswich Town,Wolves
+306,2444776,31,False,False,307,2025-04-05T14:00:00Z,0,False,False,15,,11,,[],3,2,116133,Leicester City,Newcastle Utd
+307,2444777,31,False,False,308,2025-04-05T14:00:00Z,0,False,False,13,,14,,[],5,3,116134,Manchester Utd,Manchester City
+308,2444778,31,False,False,309,2025-04-05T14:00:00Z,0,False,False,17,,18,,[],2,4,116135,Tottenham,Southampton
+309,2444779,31,False,False,310,2025-04-05T14:00:00Z,0,False,False,3,,19,,[],2,2,116136,West Ham,Bournemouth
+310,2444781,32,False,False,311,2025-04-12T14:00:00Z,0,False,False,4,,1,,[],2,5,116137,Arsenal,Brentford
+311,2444780,32,False,False,312,2025-04-12T14:00:00Z,0,False,False,9,,3,,[],2,2,116138,Bournemouth,Fulham
+312,2444782,32,False,False,313,2025-04-12T14:00:00Z,0,False,False,11,,5,,[],2,2,116139,Brighton,Leicester City
+313,2444783,32,False,False,314,2025-04-12T14:00:00Z,0,False,False,10,,6,,[],2,4,116140,Chelsea,Ipswich Town
+314,2444784,32,False,False,315,2025-04-12T14:00:00Z,0,False,False,19,,12,,[],2,5,116141,Liverpool,West Ham
+315,2444785,32,False,False,316,2025-04-12T14:00:00Z,0,False,False,7,,13,,[],2,5,116142,Manchester City,Crystal Palace
+316,2444786,32,False,False,317,2025-04-12T14:00:00Z,0,False,False,14,,15,,[],3,4,116143,Newcastle Utd,Manchester Utd
+317,2444787,32,False,False,318,2025-04-12T14:00:00Z,0,False,False,8,,16,,[],2,2,116144,Nottingham Forest,Everton
+318,2444788,32,False,False,319,2025-04-12T14:00:00Z,0,False,False,2,,17,,[],3,2,116145,Southampton,Aston Villa
+319,2444789,32,False,False,320,2025-04-12T14:00:00Z,0,False,False,18,,20,,[],3,2,116146,Wolves,Tottenham
+320,2444790,33,False,False,321,2025-04-19T14:00:00Z,0,False,False,15,,2,,[],3,4,116147,Aston Villa,Newcastle Utd
+321,2444791,33,False,False,322,2025-04-19T14:00:00Z,0,False,False,5,,4,,[],2,2,116148,Brentford,Brighton
+322,2444792,33,False,False,323,2025-04-19T14:00:00Z,0,False,False,3,,7,,[],2,3,116149,Crystal Palace,Bournemouth
+323,2444793,33,False,False,324,2025-04-19T14:00:00Z,0,False,False,13,,8,,[],5,3,116150,Everton,Manchester City
+324,2444794,33,False,False,325,2025-04-19T14:00:00Z,0,False,False,6,,9,,[],3,3,116151,Fulham,Chelsea
+325,2444795,33,False,False,326,2025-04-19T14:00:00Z,0,False,False,1,,10,,[],5,2,116152,Ipswich Town,Arsenal
+326,2444796,33,False,False,327,2025-04-19T14:00:00Z,0,False,False,12,,11,,[],4,2,116153,Leicester City,Liverpool
+327,2444797,33,False,False,328,2025-04-19T14:00:00Z,0,False,False,20,,14,,[],2,3,116154,Manchester Utd,Wolves
+328,2444798,33,False,False,329,2025-04-19T14:00:00Z,0,False,False,16,,18,,[],2,4,116155,Tottenham,Nottingham Forest
+329,2444799,33,False,False,330,2025-04-19T14:00:00Z,0,False,False,17,,19,,[],2,2,116156,West Ham,Southampton
+330,2444801,34,False,False,331,2025-04-26T14:00:00Z,0,False,False,7,,1,,[],2,5,116157,Arsenal,Crystal Palace
+331,2444800,34,False,False,332,2025-04-26T14:00:00Z,0,False,False,14,,3,,[],3,2,116158,Bournemouth,Manchester Utd
+332,2444802,34,False,False,333,2025-04-26T14:00:00Z,0,False,False,19,,5,,[],2,2,116159,Brighton,West Ham
+333,2444803,34,False,False,334,2025-04-26T14:00:00Z,0,False,False,8,,6,,[],2,4,116160,Chelsea,Everton
+334,2444804,34,False,False,335,2025-04-26T14:00:00Z,0,False,False,18,,12,,[],3,5,116161,Liverpool,Tottenham
+335,2444805,34,False,False,336,2025-04-26T14:00:00Z,0,False,False,2,,13,,[],3,5,116162,Manchester City,Aston Villa
+336,2444806,34,False,False,337,2025-04-26T14:00:00Z,0,False,False,10,,15,,[],2,4,116163,Newcastle Utd,Ipswich Town
+337,2444807,34,False,False,338,2025-04-26T14:00:00Z,0,False,False,4,,16,,[],2,2,116164,Nottingham Forest,Brentford
+338,2444808,34,False,False,339,2025-04-26T14:00:00Z,0,False,False,9,,17,,[],2,2,116165,Southampton,Fulham
+339,2444809,34,False,False,340,2025-04-26T14:00:00Z,0,False,False,11,,20,,[],2,2,116166,Wolves,Leicester City
+340,2444810,35,False,False,341,2025-05-03T14:00:00Z,0,False,False,3,,1,,[],2,5,116167,Arsenal,Bournemouth
+341,2444811,35,False,False,342,2025-05-03T14:00:00Z,0,False,False,9,,2,,[],2,4,116168,Aston Villa,Fulham
+342,2444812,35,False,False,343,2025-05-03T14:00:00Z,0,False,False,14,,4,,[],3,2,116169,Brentford,Manchester Utd
+343,2444813,35,False,False,344,2025-05-03T14:00:00Z,0,False,False,15,,5,,[],3,2,116170,Brighton,Newcastle Utd
+344,2444814,35,False,False,345,2025-05-03T14:00:00Z,0,False,False,12,,6,,[],4,4,116171,Chelsea,Liverpool
+345,2444815,35,False,False,346,2025-05-03T14:00:00Z,0,False,False,16,,7,,[],2,3,116172,Crystal Palace,Nottingham Forest
+346,2444816,35,False,False,347,2025-05-03T14:00:00Z,0,False,False,10,,8,,[],2,3,116173,Everton,Ipswich Town
+347,2444817,35,False,False,348,2025-05-03T14:00:00Z,0,False,False,17,,11,,[],2,2,116174,Leicester City,Southampton
+348,2444818,35,False,False,349,2025-05-03T14:00:00Z,0,False,False,20,,13,,[],2,5,116175,Manchester City,Wolves
+349,2444819,35,False,False,350,2025-05-03T14:00:00Z,0,False,False,18,,19,,[],3,2,116176,West Ham,Tottenham
+350,2444820,36,False,False,351,2025-05-10T14:00:00Z,0,False,False,2,,3,,[],3,2,116177,Bournemouth,Aston Villa
+351,2444821,36,False,False,352,2025-05-10T14:00:00Z,0,False,False,8,,9,,[],2,3,116178,Fulham,Everton
+352,2444822,36,False,False,353,2025-05-10T14:00:00Z,0,False,False,4,,10,,[],2,2,116179,Ipswich Town,Brentford
+353,2444823,36,False,False,354,2025-05-10T14:00:00Z,0,False,False,1,,12,,[],5,5,116180,Liverpool,Arsenal
+354,2444824,36,False,False,355,2025-05-10T14:00:00Z,0,False,False,19,,14,,[],2,3,116181,Manchester Utd,West Ham
+355,2444825,36,False,False,356,2025-05-10T14:00:00Z,0,False,False,6,,15,,[],3,4,116182,Newcastle Utd,Chelsea
+356,2444826,36,False,False,357,2025-05-10T14:00:00Z,0,False,False,11,,16,,[],2,2,116183,Nottingham Forest,Leicester City
+357,2444827,36,False,False,358,2025-05-10T14:00:00Z,0,False,False,13,,17,,[],5,2,116184,Southampton,Manchester City
+358,2444828,36,False,False,359,2025-05-10T14:00:00Z,0,False,False,7,,18,,[],2,4,116185,Tottenham,Crystal Palace
+359,2444829,36,False,False,360,2025-05-10T14:00:00Z,0,False,False,5,,20,,[],2,2,116186,Wolves,Brighton
+360,2444830,37,False,False,361,2025-05-18T14:00:00Z,0,False,False,15,,1,,[],3,5,116187,Arsenal,Newcastle Utd
+361,2444831,37,False,False,362,2025-05-18T14:00:00Z,0,False,False,18,,2,,[],3,4,116188,Aston Villa,Tottenham
+362,2444832,37,False,False,363,2025-05-18T14:00:00Z,0,False,False,9,,4,,[],2,2,116189,Brentford,Fulham
+363,2444833,37,False,False,364,2025-05-18T14:00:00Z,0,False,False,12,,5,,[],4,2,116190,Brighton,Liverpool
+364,2444834,37,False,False,365,2025-05-18T14:00:00Z,0,False,False,14,,6,,[],3,4,116191,Chelsea,Manchester Utd
+365,2444835,37,False,False,366,2025-05-18T14:00:00Z,0,False,False,20,,7,,[],2,3,116192,Crystal Palace,Wolves
+366,2444836,37,False,False,367,2025-05-18T14:00:00Z,0,False,False,17,,8,,[],2,3,116193,Everton,Southampton
+367,2444837,37,False,False,368,2025-05-18T14:00:00Z,0,False,False,10,,11,,[],2,2,116194,Leicester City,Ipswich Town
+368,2444838,37,False,False,369,2025-05-18T14:00:00Z,0,False,False,3,,13,,[],2,5,116195,Manchester City,Bournemouth
+369,2444839,37,False,False,370,2025-05-18T14:00:00Z,0,False,False,16,,19,,[],2,2,116196,West Ham,Nottingham Forest
+370,2444840,38,False,False,371,2025-05-25T15:00:00Z,0,False,False,11,,3,,[],2,2,116197,Bournemouth,Leicester City
+371,2444841,38,False,False,372,2025-05-25T15:00:00Z,0,False,False,13,,9,,[],5,3,116198,Fulham,Manchester City
+372,2444842,38,False,False,373,2025-05-25T15:00:00Z,0,False,False,19,,10,,[],2,2,116199,Ipswich Town,West Ham
+373,2444843,38,False,False,374,2025-05-25T15:00:00Z,0,False,False,7,,12,,[],2,5,116200,Liverpool,Crystal Palace
+374,2444844,38,False,False,375,2025-05-25T15:00:00Z,0,False,False,2,,14,,[],3,3,116201,Manchester Utd,Aston Villa
+375,2444845,38,False,False,376,2025-05-25T15:00:00Z,0,False,False,8,,15,,[],2,4,116202,Newcastle Utd,Everton
+376,2444846,38,False,False,377,2025-05-25T15:00:00Z,0,False,False,6,,16,,[],3,2,116203,Nottingham Forest,Chelsea
+377,2444847,38,False,False,378,2025-05-25T15:00:00Z,0,False,False,1,,17,,[],5,2,116204,Southampton,Arsenal
+378,2444848,38,False,False,379,2025-05-25T15:00:00Z,0,False,False,5,,18,,[],2,4,116205,Tottenham,Brighton
+379,2444849,38,False,False,380,2025-05-25T15:00:00Z,0,False,False,4,,20,,[],2,2,116206,Wolves,Brentford

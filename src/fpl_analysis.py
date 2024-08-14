@@ -409,20 +409,15 @@ def data_processing(season_folder: str, shift_param: int = 1):
     fpl_df.to_csv(filepath)
 
 def make_projections(latest_gameweek: int, season_folder: str, model_file_name: str,
-                     save_predictions: bool = True, return_predictions: bool = False,):
+                     save_predictions: bool = True, return_predictions: bool = False, preseason=False):
     '''Make FPL point projections for future gameweeks.'''
-
-    # fetch fpl data
-    filepath = Path(f'{season_folder}/data/fpl_df.csv')
-    fpl_df = pd.read_csv(filepath, index_col=0, low_memory=False)
-    
-    # fetch fpl fixtures
-    filepath = Path(f'{season_folder}/data/fixtures/fpl_fixtures.csv')
-    fixtures_fpl = pd.read_csv(filepath, index_col=0)
     
     # define features for the model
 
-    features_no_shift = ['element_type', 'home']
+    features_no_shift = ['element_type', 'home', 'opponent_xG_ewm_5', 'opponent_xG_ewm_10',
+       'opponent_xG_ewm_20', 'opponent_xG_ewm_40', 'opponent_xGA_ewm_5',
+       'opponent_xGA_ewm_10', 'opponent_xGA_ewm_20',
+       'opponent_xGA_ewm_40',]
 
     features_shift = ['corners_and_indirect_freekicks_order', 'creativity_rank', 
         'direct_freekicks_order', 'ict_index_rank', 'influence_rank',
@@ -430,11 +425,7 @@ def make_projections(latest_gameweek: int, season_folder: str, model_file_name: 
         'selected_by_percent', 'threat_rank',
         'team_xG_ewm_5', 'team_xG_ewm_10', 'team_xG_ewm_20',
         'team_xG_ewm_40', 'team_xGA_ewm_5', 'team_xGA_ewm_10',
-        'team_xGA_ewm_20', 'team_xGA_ewm_40', 
-        'opponent_xG_ewm_5', 'opponent_xG_ewm_10',
-        'opponent_xG_ewm_20', 'opponent_xG_ewm_40', 'opponent_xGA_ewm_5',
-        'opponent_xGA_ewm_10', 'opponent_xGA_ewm_20',
-        'opponent_xGA_ewm_40', 
+        'team_xGA_ewm_20', 'team_xGA_ewm_40',  
         'gameweek_assists_ewm_5', 'gameweek_bps_ewm_5',
         'gameweek_creativity_ewm_5', 'event_points_ewm_5',
         'gameweek_goals_scored_ewm_5', 'gameweek_goals_conceded_ewm_5',
@@ -479,12 +470,29 @@ def make_projections(latest_gameweek: int, season_folder: str, model_file_name: 
 
     features = features_no_shift + features_shift
     
-    season_str = season_folder[-5:]
-    season_str = season_str.replace('_','-')
-    df = fpl_df.loc[fpl_df.season==season_str].groupby(['name'])[features + ['team_name']].last().reset_index()
+    if not preseason:
+        # fetch fpl data
+        filepath = Path(f'{season_folder}/data/fpl_df.csv')
+        fpl_df = pd.read_csv(filepath, index_col=0, low_memory=False)
+
+        season_str = season_folder[-5:]
+        season_str = season_str.replace('_','-')
+        df = fpl_df.loc[fpl_df.season==season_str].groupby(['name'])[features + ['team_name']].last().reset_index()
+    else:
+        filepath = Path(f'{season_folder}/data/fpl_df_preseason.csv')
+        df = pd.read_csv(filepath, index_col=0, low_memory=False)
     
-    path = Path(f'{season_folder}/data/team_data.csv')
-    team_data = pd.read_csv(path, index_col=0)
+    # fetch fpl fixtures
+    filepath = Path(f'{season_folder}/data/fixtures/fpl_fixtures.csv')
+    fixtures_fpl = pd.read_csv(filepath, index_col=0)
+
+    # fetch team data
+    if not preseason:
+        path = Path(f'{season_folder}/data/team_data.csv')
+        team_data = pd.read_csv(path, index_col=0)
+    else:
+        path = Path(f'{season_folder}/data/team_data_preseason.csv')
+        team_data = pd.read_csv(path, index_col=0)
     
     # get latest moving average info for each team
     team_data = team_data.groupby('value').last()
@@ -548,9 +556,15 @@ def make_projections(latest_gameweek: int, season_folder: str, model_file_name: 
     prediction_df = pd.DataFrame(prediction_data).reset_index(drop=True)
     
     # load prediction model
-    model = catboost.CatBoostRegressor()
-    path = Path(f'{season_folder}/models/{model_file_name}')
-    model.load_model(path)
+    if 'xgboost' in model_file_name:
+        path = Path(f'{season_folder}/models/{model_file_name}')
+        model = pickle.load(open(path, 'rb'))
+    elif 'catboost' in model_file_name:
+        model = catboost.CatBoostRegressor()
+        path = Path(f'{season_folder}/models/{model_file_name}')
+        model.load_model(path)
+    else:
+        raise Exception('Invalid model_file_name!')        
 
     # make projections and save to file
     X = prediction_df[features]
