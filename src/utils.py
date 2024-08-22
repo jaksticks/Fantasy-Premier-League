@@ -17,11 +17,15 @@ def fetch_latest_fpl_data(folder_path_str: str = '../data/fpl/') -> pd.DataFrame
     files = os.listdir(folder_path)
     # drop non-csv files (e.g. DS_Store)
     files = [file for file in files if file.endswith('.csv')]
-    # sort files and pick last one
-    files = np.sort(files)
-    file = files[-1]
-    full_path = folder_path_str + file
-    latest_data = pd.read_csv(full_path, index_col=0)
+    if len(files)>0:
+        # sort files and pick last one
+        files = np.sort(files)
+        file = files[-1]
+        full_path = folder_path_str + file
+        latest_data = pd.read_csv(full_path, index_col=0)
+    else:
+        latest_data = pd.DataFrame(columns=['name'])
+
     return latest_data
 
 def calculate_performance_metrics(y_true, y_predicted, plot=True):

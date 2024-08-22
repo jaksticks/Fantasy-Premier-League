@@ -13,6 +13,8 @@ import argparse
 from scipy.stats import poisson
 import catboost
 
+import pdb
+
 #import matplotlib.pyplot as plt
 #import plotly.express as px
 
@@ -135,10 +137,10 @@ def calculate_xPoints(x,clf):
         # calculate expexted points
         points_played = np.array([1 if x['gameweek_minutes']>0 else 0])
         points_played_over_60 = np.array([1 if x['gameweek_minutes']>=60 else 0])
-        points_xG = goal_points[x['element_type']-1] * x['gameweek_xG']
+        points_xG = goal_points[int(x['element_type'])-1] * x['gameweek_xG']
         points_xA = x['gameweek_xA'] * 3
         clean_sheet_probability = np.array(poisson.pmf(0,x['team_xGA']))
-        points_clean_sheet = [clean_sheet_points[x['element_type']-1] * clean_sheet_probability if x['gameweek_minutes']>=60 else 0]
+        points_clean_sheet = [clean_sheet_points[int(x['element_type'])-1] * clean_sheet_probability if x['gameweek_minutes']>=60 else 0]
         points_saves = x['gameweek_saves'] // 3
         points_penalty_saves = x['gameweek_penalties_saved'] * 5 * 0.21 #points for save times approx. probability of penalty save
         #penalty_for_penalty_miss = x['Performance_PKatt'] * (-2*0.21) # this data only on fbref
@@ -593,7 +595,7 @@ def main():
     # give the file name for the model you are using (located in season_folder/models/)
     MODEL_FILE_NAME = config_json['MODEL_FILE_NAME']
     # list of team names
-    TEAMS = config_json['TEAMS']
+    TEAMS = config_json['TEAMS'].split(',')
 
     print('Retrieving data.')
     data_retrieval(latest_gameweek, SEASON_FOLDER, TEAMS)
