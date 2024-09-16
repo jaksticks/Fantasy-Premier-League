@@ -198,7 +198,7 @@ def data_processing(season_folder: str, shift_param: int = 1):
     # get gameweek data
     fpl_df_new['gameweek_xG'] = fpl_df_new.groupby('name')['expected_goals'].diff().fillna(fpl_df_new['expected_goals'])
     fpl_df_new['gameweek_xA'] = fpl_df_new.groupby('name')['expected_assists'].diff().fillna(fpl_df_new['expected_assists'])
-    fpl_df_new['gameweek_xGA'] = fpl_df_new.groupby('name')['expected_goals_conceded'].diff().fillna(fpl_df_new['expected_goals_conceded'])
+    fpl_df_new['gameweek_xGA'] = fpl_df_new.groupby('name')['expected_goal_involvements'].diff().fillna(fpl_df_new['expected_goal_involvements'])
 
     # concatenate new fpl data with old
     fpl_df = pd.concat([fpl_df, fpl_df_new], join='outer').reset_index(drop=True)
