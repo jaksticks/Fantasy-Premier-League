@@ -251,8 +251,11 @@ def data_processing(season_folder: str, shift_param: int = 1):
     for ix, row in fixtures_fpl.iterrows():
         home_team = row.home_team
         away_team = row.away_team
-        home_team_xg = fixtures_fbref.loc[(fixtures_fbref['Home']==home_team) & (fixtures_fbref['Away']==away_team), 'xG_home'].values[0]
-        away_team_xg = fixtures_fbref.loc[(fixtures_fbref['Home']==home_team) & (fixtures_fbref['Away']==away_team), 'xG_away'].values[0]
+        try:
+            home_team_xg = fixtures_fbref.loc[(fixtures_fbref['Home']==home_team) & (fixtures_fbref['Away']==away_team), 'xG_home'].values[0]
+            away_team_xg = fixtures_fbref.loc[(fixtures_fbref['Home']==home_team) & (fixtures_fbref['Away']==away_team), 'xG_away'].values[0]
+        except IndexError:
+            print(f'{home_team}-{away_team} on {row.kickoff_time} not found in fbref data!')
         home_xg.append( home_team_xg )
         away_xg.append( away_team_xg )
 
