@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+scipy
+catboost
+scikit-learn
+plotly
+lxml
+xgboost
+seaborn
+ipykernel

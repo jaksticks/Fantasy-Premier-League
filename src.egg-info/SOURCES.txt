@@ -2,6 +2,8 @@ LICENSE
 README.md
 setup.py
 src/__init__.py
+src/fpl_analysis.py
+src/model_training.py
 src/utils.py
 src.egg-info/PKG-INFO
 src.egg-info/SOURCES.txt

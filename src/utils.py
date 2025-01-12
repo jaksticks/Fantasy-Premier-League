@@ -5,7 +5,7 @@ import os
 import requests
 import json
 
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.metrics import mean_absolute_error, root_mean_squared_error, r2_score
 
 import plotly.express as px
 import plotly.graph_objects as go
@@ -31,7 +31,7 @@ def fetch_latest_fpl_data(folder_path_str: str = '../data/fpl/') -> pd.DataFrame
 def calculate_performance_metrics(y_true, y_predicted, plot=True):
     '''Calculate test metrics for regression (r2, mae, mse).'''
     mae = mean_absolute_error(y_true, y_predicted)
-    rmse = mean_squared_error(y_true, y_predicted, squared=False)
+    rmse = root_mean_squared_error(y_true, y_predicted)
     r2 = r2_score(y_true, y_predicted)
 
     if plot:
