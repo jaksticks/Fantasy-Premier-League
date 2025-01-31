@@ -15,7 +15,7 @@ Folder "season24_25" is used for analysis for the current 2024-2025 season.
 
 Use notebook "gradio" to spin up an interactive dashboard for player analysis.
 
-To update latest data and run projections, run
+To update latest data and run projections, activate your virtual environment and run
 ```  
 python src/fpl_analysis.py <latest_gameweek> 
 ```
