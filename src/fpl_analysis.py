@@ -358,7 +358,7 @@ def data_processing(season_folder: str, shift_param: int = 1):
                     'red_cards', 'saves', 'threat', 'yellow_cards']
 
     for col in diff_columns:
-        fpl_df[f'gameweek_{col}'] = fpl_df.groupby(['web_name', 'season'])[col].diff()
+        fpl_df[f'gameweek_{col}'] = fpl_df.groupby(['first_name', 'second_name', 'season'])[col].diff()
         fpl_df[f'gameweek_{col}'] = fpl_df.apply(lambda x: my_fill_na(x, f'gameweek_{col}', col), axis=1)
     
     ### FPL expected points
@@ -373,7 +373,7 @@ def data_processing(season_folder: str, shift_param: int = 1):
     for i in rolling_windows:
         new_columns = [col+f'_ewm_{i}' for col in ewm_columns]
         fpl_df[new_columns] = (fpl_df
-                               .groupby('web_name')[ewm_columns]
+                               .groupby(['first_name', 'second_name'])[ewm_columns]
                                .ewm(alpha=1/i)
                                .mean()
                                .reset_index()
