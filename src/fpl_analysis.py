@@ -20,13 +20,6 @@ import pdb
 
 def data_retrieval(latest_gameweek: int, season_folder: str, teams:list):
     '''Fetch all new data'''
- 
-    # teams for season 23-24
-    #teams = ['Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton',
-    #        'Burnley', 'Chelsea', 'Crystal Palace', 'Everton', 'Fulham',
-    #        'Liverpool', 'Luton', 'Manchester City', 'Manchester Utd',
-    #        'Newcastle Utd', 'Nottingham Forest', 'Sheffield Utd', 'Tottenham',
-    #        'West Ham', 'Wolves']
     
     # FPL PLAYER DATA
     
@@ -175,9 +168,9 @@ def calculate_xPoints(x,clf):
         
         return total_points
 
-def data_processing(season_folder: str, shift_param: int = 1):
+def data_processing(season_folder: str, shift_param: int = 1, save_data: bool = True):
     '''Process FPL data.
-    Input shift_param used for moving e.g. team rolling averages down so that only knowledge from previoius games
+    Input shift_param used for moving e.g. team rolling averages down so that only knowledge from previous games
     is available when making predictions.
     '''
 
@@ -377,7 +370,7 @@ def data_processing(season_folder: str, shift_param: int = 1):
                                .ewm(alpha=1/i)
                                .mean()
                                .reset_index()
-                               .sort_values(by='level_1')[ewm_columns]
+                               .sort_values(by='level_2')[ewm_columns]
                                .values)
     
     # FPL expanding stats
@@ -410,8 +403,11 @@ def data_processing(season_folder: str, shift_param: int = 1):
     fpl_df.loc[np.isinf(fpl_df['xG_overperformance']), 'xG_overperformance'] = 1
         
     # Save data
-    filepath = Path(f'{season_folder}/data/fpl_df.csv')
-    fpl_df.to_csv(filepath)
+    if save_data:
+        filepath = Path(f'{season_folder}/data/fpl_df.csv')
+        fpl_df.to_csv(filepath)
+    else:
+        return fpl_df
 
 def make_projections(latest_gameweek: int, season_folder: str, model_file_name: str,
                      save_predictions: bool = True, return_predictions: bool = False, preseason=False):
