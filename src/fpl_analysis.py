@@ -135,7 +135,7 @@ def calculate_xPoints(x,clf):
         clean_sheet_probability = np.array(poisson.pmf(0,x['team_xGA']))
         points_clean_sheet = [clean_sheet_points[int(x['element_type'])-1] * clean_sheet_probability if x['gameweek_minutes']>=60 else 0]
         points_saves = x['gameweek_saves'] // 3
-        points_penalty_saves = x['gameweek_penalties_saved'] * 5 * 0.21 #points for save times approx. probability of penalty save
+        points_penalty_saves = x['gameweek_penalties_saved'] * 5 
         #penalty_for_penalty_miss = x['Performance_PKatt'] * (-2*0.21) # this data only on fbref
         # estimate bonus points
         if not np.isnan(x['gameweek_bps']):
