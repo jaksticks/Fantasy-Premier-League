@@ -160,10 +160,14 @@ def calculate_xPoints(x,clf):
         penalty_for_cards = [-3 if x['gameweek_red_cards']==1 else -1 if x['gameweek_yellow_cards']==1 else 0]
         penalty_for_own_goal = -2 * x['gameweek_own_goals']
 
+        # defensive contributions
+        defensive_contribution = [2 if (((x['gameweek_defensive_contribution']>=10) & (x['element_type']==1)) | 
+                                        ((x['gameweek_defensive_contribution']>=12) & (x['element_type']>=2))) else 0]
+
         # add up all point components
         total_points = (points_played + points_played_over_60 + points_xG + points_xA + points_clean_sheet + points_saves +
                         points_penalty_saves + points_bonus + xGA_conceded_penalty +
-                        penalty_for_cards + penalty_for_own_goal)
+                        penalty_for_cards + penalty_for_own_goal + defensive_contribution)
         total_points = float(total_points.item())
         
         return total_points
@@ -348,7 +352,7 @@ def data_processing(season_folder: str, shift_param: int = 1, save_data: bool = 
     # calculate gameweek stats by looking at differences in cumulative stats
 
     diff_columns = ['assists', 'bps', 'creativity', 'goals_scored', 'goals_conceded', 'own_goals', 'penalties_saved', 
-                    'red_cards', 'saves', 'threat', 'yellow_cards']
+                    'red_cards', 'saves', 'threat', 'yellow_cards', 'defensive_contribution']
 
     for col in diff_columns:
         fpl_df[f'gameweek_{col}'] = fpl_df.groupby(['first_name', 'second_name', 'season'])[col].diff()
@@ -361,7 +365,7 @@ def data_processing(season_folder: str, shift_param: int = 1, save_data: bool = 
     # calculate moving averages based on gameweek stats
 
     ewm_columns = ['gameweek_assists', 'gameweek_bps', 'gameweek_creativity', 'event_points', 'gameweek_goals_scored', 'gameweek_goals_conceded', 'gameweek_saves', 
-                'gameweek_threat', 'gameweek_xG', 'gameweek_xA', 'gameweek_xGA', 'gameweek_minutes', 'gameweek_xPoints']
+                'gameweek_threat', 'gameweek_xG', 'gameweek_xA', 'gameweek_xGA', 'gameweek_minutes', 'gameweek_xPoints', 'gameweek_defensive_contribution']
 
     for i in rolling_windows:
         new_columns = [col+f'_ewm_{i}' for col in ewm_columns]
@@ -376,7 +380,7 @@ def data_processing(season_folder: str, shift_param: int = 1, save_data: bool = 
     # FPL expanding stats
 
     expanding_columns = ['gameweek_assists', 'gameweek_bps', 'gameweek_creativity', 'event_points', 'gameweek_goals_scored', 'gameweek_goals_conceded', 'gameweek_saves', 
-                'gameweek_threat', 'gameweek_xG', 'gameweek_xA', 'gameweek_xGA', 'gameweek_minutes', 'gameweek_xPoints']
+                'gameweek_threat', 'gameweek_xG', 'gameweek_xA', 'gameweek_xGA', 'gameweek_minutes', 'gameweek_xPoints', 'gameweek_defensive_contribution']
     expanding_col_names = [col+'_expanding' for col in expanding_columns]
 
     fpl_df[expanding_col_names] = (
