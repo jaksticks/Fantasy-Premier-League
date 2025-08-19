@@ -75,3 +75,14 @@ def fetch_my_team(user_name: str, password: str, team_id: str):
     team = json.loads(response.content)
 
     return team
+
+def simple_team_fetch(team_id: str, latest_gameweek: int):
+    """Fetch FPL team data without login credentials."""
+    
+    team_url = f"https://fantasy.premierleague.com/api/entry/{team_id}/event/{latest_gameweek}/picks/"
+    
+    response = requests.get(team_url)
+    if response.status_code != 200:
+        raise Exception(f"Failed to fetch team: {response.status_code} {response.text}")
+
+    return response.json()
