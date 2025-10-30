@@ -11,9 +11,7 @@ This repository contains codes used for player evaluation, point projections and
 
 ## Analysis and projections
 
-Folder "season24_25" is used for analysis for the current 2024-2025 season.
-
-Use notebook "gradio" to spin up an interactive dashboard for player analysis.
+Folder "season25_26" is used for analysis for the current 2025-2026 season.
 
 To update latest data and run projections, activate your virtual environment and run
 ```  
@@ -21,9 +19,18 @@ python src/fpl_analysis.py <latest_gameweek>
 ```
 at the repository root. In the above <latest_gameweek> refers to the most recent FPL gameweek (not the upcoming one for which the deadline has not yet passed). 
 
-The notebook "fplreview_style_projection_data" is used to create a csv file in the same format that is used by fplreview.com. This can then be used as input for a team optimization tool such as Sertalp B. Cay's repo https://github.com/sertalpbilal/FPL-Optimization-Tools to produce week-by-week transfer plans.
 
-Note! Here we only produce point projections for players, not for the new (24-25 season) assistant manager position (which might be needed to run optimization with the latest version of the above repo).
+
+To create a player point projection csv file in the same format that is used by e.g. fplreview.com, run 
+```
+python src/projections_for_optimization.py --latest_gameweek <latest_gameweek>
+```
+This can then be used as input for a team optimization tool such as Sertalp B. Cay's repo https://github.com/sertalpbilal/FPL-Optimization-Tools to produce week-by-week transfer plans.
+
+To spin up an interactive gradio dashboard for player analysis, move to src folder and run
+```
+python gradio_dashboard.py --latest_gameweek <latest_gameweek>
+```
 
 ## License
 
