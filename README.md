@@ -23,13 +23,13 @@ at the repository root. In the above <latest_gameweek> refers to the most recent
 
 To create a player point projection csv file in the same format that is used by e.g. fplreview.com, run 
 ```
-python src/projections_for_optimization.py --latest_gameweek <latest_gameweek>
+python src/projections_for_optimization.py <latest_gameweek>
 ```
 This can then be used as input for a team optimization tool such as Sertalp B. Cay's repo https://github.com/sertalpbilal/FPL-Optimization-Tools to produce week-by-week transfer plans.
 
 To spin up an interactive gradio dashboard for player analysis, move to src folder and run
 ```
-python gradio_dashboard.py --latest_gameweek <latest_gameweek>
+python gradio_dashboard.py <latest_gameweek>
 ```
 
 ## License

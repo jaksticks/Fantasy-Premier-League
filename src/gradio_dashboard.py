@@ -363,7 +363,7 @@ if __name__ == "__main__":
     # Set up argument parser
     parser = argparse.ArgumentParser(description="Create a Gradio dashboard.")
     parser.add_argument(
-        "--latest_gameweek",
+        "latest_gameweek",
         type=int,
         help="Ongoing gameweek, i.e., not the gameweek for the next deadline."
     )
