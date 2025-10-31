@@ -196,16 +196,16 @@ def data_processing(args, season_folder, season):
     logging.info("Loading and processing data.")
 
     # Load projections
-    filepath = Path(f'../{season_folder}/data/predictions/gameweek{args.latest_gameweek}.csv')
+    filepath = Path(f'{season_folder}/data/predictions/gameweek{args.latest_gameweek}.csv')
     projections = pd.read_csv(filepath, index_col=0)
     # position mapping for projections
     position_dict = {1:'GK', 2:'DEF', 3:'MID', 4:'FWD'}
     projections['position'] = projections['element_type'].map(position_dict)
 
     if args.latest_gameweek>0:
-        filepath = Path(f'../{season_folder}/data/fpl_df.csv')
+        filepath = Path(f'{season_folder}/data/fpl_df.csv')
     elif args.latest_gameweek==0:
-        filepath = Path(f'../{season_folder}/data/fpl_df_preseason.csv')
+        filepath = Path(f'{season_folder}/data/fpl_df_preseason.csv')
     fpl_df = pd.read_csv(filepath, index_col=0, low_memory=False)
     fpl_df = fpl_df[fpl_df.season==season]
 
@@ -370,7 +370,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Read the config file
-    config_file_path = "../config.json"
+    config_file_path = "config.json"
     with open(config_file_path, "r") as config_file:
         config = json.load(config_file)
     # Get urls from the config file
