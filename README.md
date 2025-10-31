@@ -29,7 +29,7 @@ This can then be used as input for a team optimization tool such as Sertalp B. C
 
 To spin up an interactive gradio dashboard for player analysis, move to src folder and run
 ```
-python gradio_dashboard.py <latest_gameweek>
+python src/gradio_dashboard.py <latest_gameweek>
 ```
 
 ## License
