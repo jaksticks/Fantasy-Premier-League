@@ -8,6 +8,7 @@ import requests
 from src.utils import fetch_latest_fpl_data
 import pickle
 import argparse
+import soccerdata as sd
 
 #from sklearn.linear_model import LogisticRegression
 from scipy.stats import poisson
@@ -86,11 +87,21 @@ def data_retrieval(latest_gameweek: int, season_folder: str, teams:list):
     ## FBRef fixtures
     
     # fetch data
-    data = pd.read_html('https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures')
-    fbref_fixtures = data[0]
-    fbref_fixtures = fbref_fixtures[fbref_fixtures['xG'].notnull()]
-    fbref_fixtures = fbref_fixtures.rename(columns={'xG':'xG_home', 'xG.1':'xG_away'})
     
+    # this does not work anymore!
+    #data = pd.read_html('https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures')
+    #fbref_fixtures = data[0]
+    #fbref_fixtures = fbref_fixtures[fbref_fixtures['xG'].notnull()]
+    #fbref_fixtures = fbref_fixtures.rename(columns={'xG':'xG_home', 'xG.1':'xG_away'})
+    
+    # now using soccerdata package
+    fbref = sd.FBref('ENG-Premier League', f'20{season_folder[-5:-3]}')
+    fbref_fixtures = fbref.read_schedule()
+    fbref_fixtures = fbref_fixtures[fbref_fixtures.home_xg.notnull()]
+    fbref_fixtures = fbref_fixtures.rename(
+        columns={'home_xg':'xG_home', 'away_xg':'xG_away', 'home_team':'Home', 'away_team':'Away'}
+        )
+
     # save data
     filepath = Path(f'{season_folder}/data/fixtures/fbref_fixtures.csv')
     fbref_fixtures.to_csv(filepath)

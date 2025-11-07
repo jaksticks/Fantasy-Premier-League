@@ -9,3 +9,4 @@ lxml
 xgboost
 seaborn
 ipykernel
+soccerdata

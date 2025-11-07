@@ -1,91 +1,101 @@
-,Wk,Day,Date,Time,Home,xG_home,Score,xG_away,Away,Attendance,Venue,Referee,Match Report,Notes
-0,1.0,Fri,2025-08-15,20:00,Liverpool,2.2,4–2,1.7,Bournemouth,60315.0,Anfield,Anthony Taylor,Match Report,
-1,1.0,Sat,2025-08-16,12:30,Aston Villa,0.2,0–0,1.4,Newcastle Utd,42526.0,Villa Park,Craig Pawson,Match Report,
-2,1.0,Sat,2025-08-16,15:00,Sunderland,0.7,3–0,0.6,West Ham,46233.0,Stadium of Light,Robert Jones,Match Report,
-3,1.0,Sat,2025-08-16,15:00,Brighton,1.5,1–1,0.7,Fulham,31478.0,The American Express Stadium,Samuel Barrott,Match Report,
-4,1.0,Sat,2025-08-16,15:00,Tottenham,2.3,3–0,0.9,Burnley,61077.0,Tottenham Hotspur Stadium,Michael Oliver,Match Report,
-5,1.0,Sat,2025-08-16,17:30,Wolves,0.6,0–4,2.4,Manchester City,31456.0,Molineux Stadium,Jarred Gillett,Match Report,
-6,1.0,Sun,2025-08-17,14:00,Chelsea,1.6,0–0,0.6,Crystal Palace,39678.0,Stamford Bridge,Darren England,Match Report,
-7,1.0,Sun,2025-08-17,14:00,Nott'ham Forest,1.8,3–1,1.4,Brentford,29949.0,The City Ground,Peter Bankes,Match Report,
-8,1.0,Sun,2025-08-17,16:30,Manchester Utd,1.5,0–1,1.3,Arsenal,73475.0,Old Trafford,Simon Hooper,Match Report,
-9,1.0,Mon,2025-08-18,20:00,Leeds United,2.0,1–0,0.8,Everton,36820.0,Elland Road,Chris Kavanagh,Match Report,
-11,2.0,Fri,2025-08-22,20:00,West Ham,0.7,1–5,2.7,Chelsea,62462.0,London Stadium,Michael Oliver,Match Report,
-12,2.0,Sat,2025-08-23,12:30,Manchester City,1.6,0–2,1.1,Tottenham,51785.0,Etihad Stadium,Peter Bankes,Match Report,
-13,2.0,Sat,2025-08-23,15:00,Bournemouth,1.3,1–0,0.5,Wolves,11070.0,Vitality Stadium,Thomas Bramall,Match Report,
-14,2.0,Sat,2025-08-23,15:00,Brentford,1.2,1–0,1.2,Aston Villa,16838.0,Gtech Community Stadium,Tony Harrington,Match Report,
-15,2.0,Sat,2025-08-23,15:00,Burnley,1.0,2–0,0.8,Sunderland,21285.0,Turf Moor,Michael Salisbury,Match Report,
-16,2.0,Sat,2025-08-23,17:30,Arsenal,2.7,5–0,0.2,Leeds United,60110.0,Emirates Stadium,Jarred Gillett,Match Report,
-17,2.0,Sun,2025-08-24,14:00,Crystal Palace,1.1,1–1,0.9,Nott'ham Forest,24876.0,Selhurst Park,Anthony Taylor,Match Report,
-18,2.0,Sun,2025-08-24,14:00,Everton,1.6,2–0,2.4,Brighton,51759.0,Hill Dickinson Stadium,Stuart Attwell,Match Report,
-19,2.0,Sun,2025-08-24,16:30,Fulham,1.7,1–1,1.6,Manchester Utd,27512.0,Craven Cottage,Chris Kavanagh,Match Report,
-20,2.0,Mon,2025-08-25,20:00,Newcastle Utd,1.0,2–3,0.7,Liverpool,52230.0,St James' Park,Simon Hooper,Match Report,
-22,3.0,Sat,2025-08-30,12:30,Chelsea,2.1,2–0,0.9,Fulham,39745.0,Stamford Bridge,Robert Jones,Match Report,
-23,3.0,Sat,2025-08-30,15:00,Wolves,1.1,2–3,1.9,Everton,30271.0,Molineux Stadium,Michael Oliver,Match Report,
-24,3.0,Sat,2025-08-30,15:00,Manchester Utd,3.6,3–2,1.2,Burnley,74257.0,Old Trafford,Samuel Barrott,Match Report,
-25,3.0,Sat,2025-08-30,15:00,Sunderland,1.5,2–1,1.2,Brentford,46267.0,Stadium of Light,Anthony Taylor,Match Report,
-26,3.0,Sat,2025-08-30,15:00,Tottenham,0.2,0–1,1.5,Bournemouth,61250.0,Tottenham Hotspur Stadium,Simon Hooper,Match Report,
-27,3.0,Sat,2025-08-30,17:30,Leeds United,0.7,0–0,0.5,Newcastle Utd,36727.0,Elland Road,Peter Bankes,Match Report,
-28,3.0,Sun,2025-08-31,14:00,Nott'ham Forest,0.7,0–3,2.4,West Ham,30215.0,The City Ground,Craig Pawson,Match Report,
-29,3.0,Sun,2025-08-31,14:00,Brighton,2.2,2–1,1.8,Manchester City,31485.0,The American Express Stadium,Darren England,Match Report,
-30,3.0,Sun,2025-08-31,16:30,Liverpool,0.5,1–0,0.5,Arsenal,60455.0,Anfield,Chris Kavanagh,Match Report,
-31,3.0,Sun,2025-08-31,19:00,Aston Villa,1.1,0–3,2.6,Crystal Palace,41036.0,Villa Park,Stuart Attwell,Match Report,
-33,4.0,Sat,2025-09-13,12:30,Arsenal,1.8,3–0,0.2,Nott'ham Forest,60167.0,Emirates Stadium,Darren England,Match Report,
-34,4.0,Sat,2025-09-13,15:00,Newcastle Utd,1.5,1–0,0.5,Wolves,52145.0,St James' Park,Chris Kavanagh,Match Report,
-35,4.0,Sat,2025-09-13,15:00,Fulham,0.9,1–0,0.8,Leeds United,27327.0,Craven Cottage,Craig Pawson,Match Report,
-36,4.0,Sat,2025-09-13,15:00,Crystal Palace,1.8,0–0,0.4,Sunderland,25154.0,Selhurst Park,Thomas Bramall,Match Report,
-37,4.0,Sat,2025-09-13,15:00,Everton,2.0,0–0,0.4,Aston Villa,52114.0,Hill Dickinson Stadium,Simon Hooper,Match Report,
-38,4.0,Sat,2025-09-13,15:00,Bournemouth,1.4,2–1,0.6,Brighton,11167.0,Vitality Stadium,Peter Bankes,Match Report,
-39,4.0,Sat,2025-09-13,17:30,West Ham,0.6,0–3,1.3,Tottenham,62459.0,London Stadium,Jarred Gillett,Match Report,
-40,4.0,Sat,2025-09-13,20:00,Brentford,1.4,2–2,1.3,Chelsea,16795.0,Gtech Community Stadium,Stuart Attwell,Match Report,
-41,4.0,Sun,2025-09-14,14:00,Burnley,0.1,0–1,2.6,Liverpool,21678.0,Turf Moor,Michael Oliver,Match Report,
-42,4.0,Sun,2025-09-14,16:30,Manchester City,2.7,3–0,1.2,Manchester Utd,52534.0,Etihad Stadium,Anthony Taylor,Match Report,
-44,5.0,Sat,2025-09-20,12:30,Liverpool,0.9,2–1,0.7,Everton,60342.0,Anfield,Darren England,Match Report,
-45,5.0,Sat,2025-09-20,15:00,Wolves,1.8,1–3,0.5,Leeds United,30807.0,Molineux Stadium,Anthony Taylor,Match Report,
-46,5.0,Sat,2025-09-20,15:00,Brighton,1.3,2–2,1.2,Tottenham,31488.0,The American Express Stadium,Chris Kavanagh,Match Report,
-47,5.0,Sat,2025-09-20,15:00,Burnley,0.9,1–1,1.1,Nott'ham Forest,21475.0,Turf Moor,Thomas Bramall,Match Report,
-48,5.0,Sat,2025-09-20,15:00,West Ham,0.6,1–2,2.1,Crystal Palace,62455.0,London Stadium,Tony Harrington,Match Report,
-49,5.0,Sat,2025-09-20,17:30,Manchester Utd,1.8,2–1,0.4,Chelsea,74124.0,Old Trafford,Peter Bankes,Match Report,
-50,5.0,Sat,2025-09-20,20:00,Fulham,1.0,3–1,0.6,Brentford,26113.0,Craven Cottage,Michael Oliver,Match Report,
-51,5.0,Sun,2025-09-21,14:00,Bournemouth,0.5,0–0,0.2,Newcastle Utd,11212.0,Vitality Stadium,Robert Jones,Match Report,
-52,5.0,Sun,2025-09-21,14:00,Sunderland,1.0,1–1,0.8,Aston Villa,46261.0,Stadium of Light,Samuel Barrott,Match Report,
-53,5.0,Sun,2025-09-21,16:30,Arsenal,0.9,1–1,0.9,Manchester City,60161.0,Emirates Stadium,Stuart Attwell,Match Report,
-55,6.0,Sat,2025-09-27,12:30,Brentford,1.9,3–1,2.1,Manchester Utd,17193.0,Gtech Community Stadium,Craig Pawson,Match Report,
-56,6.0,Sat,2025-09-27,15:00,Crystal Palace,2.9,2–1,2.1,Liverpool,25118.0,Selhurst Park,Chris Kavanagh,Match Report,
-57,6.0,Sat,2025-09-27,15:00,Manchester City,2.0,5–1,0.4,Burnley,52427.0,Etihad Stadium,Robert Jones,Match Report,
-58,6.0,Sat,2025-09-27,15:00,Chelsea,1.8,1–3,2.3,Brighton,39597.0,Stamford Bridge,Simon Hooper,Match Report,
-59,6.0,Sat,2025-09-27,15:00,Leeds United,1.8,2–2,0.7,Bournemouth,36574.0,Elland Road,Michael Oliver,Match Report,
-60,6.0,Sat,2025-09-27,17:30,Nott'ham Forest,1.6,0–1,1.6,Sunderland,30226.0,The City Ground,Tony Harrington,Match Report,
-61,6.0,Sat,2025-09-27,20:00,Tottenham,0.8,1–1,1.1,Wolves,60537.0,Tottenham Hotspur Stadium,Michael Salisbury,Match Report,
-62,6.0,Sun,2025-09-28,14:00,Aston Villa,1.1,3–1,1.1,Fulham,40350.0,Villa Park,Andy Madley,Match Report,
-63,6.0,Sun,2025-09-28,16:30,Newcastle Utd,0.6,1–2,2.0,Arsenal,52199.0,St James' Park,Jarred Gillett,Match Report,
-64,6.0,Mon,2025-09-29,20:00,Everton,0.7,1–1,1.2,West Ham,51890.0,Hill Dickinson Stadium,Samuel Barrott,Match Report,
-66,7.0,Fri,2025-10-03,20:00,Bournemouth,1.2,3–1,0.9,Fulham,11165.0,Vitality Stadium,Simon Hooper,Match Report,
-67,7.0,Sat,2025-10-04,12:30,Leeds United,1.7,1–2,0.6,Tottenham,36703.0,Elland Road,Thomas Bramall,Match Report,
-68,7.0,Sat,2025-10-04,15:00,Arsenal,2.8,2–0,0.4,West Ham,60181.0,Emirates Stadium,John Brooks,Match Report,
-69,7.0,Sat,2025-10-04,15:00,Manchester Utd,1.8,2–0,0.7,Sunderland,74004.0,Old Trafford,Stuart Attwell,Match Report,
-70,7.0,Sat,2025-10-04,17:30,Chelsea,1.0,2–1,1.9,Liverpool,39538.0,Stamford Bridge,Anthony Taylor,Match Report,
-71,7.0,Sun,2025-10-05,14:00,Wolves,0.6,1–1,0.9,Brighton,29504.0,Molineux Stadium,Jarred Gillett,Match Report,
-72,7.0,Sun,2025-10-05,14:00,Everton,2.0,2–1,1.5,Crystal Palace,51770.0,Hill Dickinson Stadium,Michael Salisbury,Match Report,
-73,7.0,Sun,2025-10-05,14:00,Aston Villa,1.1,2–1,0.4,Burnley,40308.0,Villa Park,Andrew Kitchen,Match Report,
-74,7.0,Sun,2025-10-05,14:00,Newcastle Utd,3.2,2–0,0.2,Nott'ham Forest,52189.0,St James' Park,Peter Bankes,Match Report,
-75,7.0,Sun,2025-10-05,16:30,Brentford,0.7,0–1,0.8,Manchester City,17028.0,Gtech Community Stadium,Darren England,Match Report,
-77,8.0,Sat,2025-10-18,12:30,Nott'ham Forest,2.2,0–3,1.7,Chelsea,30495.0,The City Ground,Chris Kavanagh,Match Report,
-78,8.0,Sat,2025-10-18,15:00,Sunderland,0.6,2–0,0.8,Wolves,46578.0,Stadium of Light,Robert Jones,Match Report,
-79,8.0,Sat,2025-10-18,15:00,Burnley,0.5,2–0,2.4,Leeds United,21646.0,Turf Moor,Tim Robinson,Match Report,
-80,8.0,Sat,2025-10-18,15:00,Brighton,0.9,2–1,1.4,Newcastle Utd,31620.0,The American Express Stadium,Craig Pawson,Match Report,
-81,8.0,Sat,2025-10-18,15:00,Crystal Palace,4.4,3–3,2.0,Bournemouth,25125.0,Selhurst Park,Jarred Gillett,Match Report,
-82,8.0,Sat,2025-10-18,15:00,Manchester City,2.3,2–0,1.1,Everton,52498.0,Etihad Stadium,Tony Harrington,Match Report,
-83,8.0,Sat,2025-10-18,17:30,Fulham,0.4,0–1,1.8,Arsenal,27736.0,Craven Cottage,Anthony Taylor,Match Report,
-84,8.0,Sun,2025-10-19,14:00,Tottenham,0.9,1–2,0.3,Aston Villa,61291.0,Tottenham Hotspur Stadium,Simon Hooper,Match Report,
-85,8.0,Sun,2025-10-19,16:30,Liverpool,2.6,1–2,1.3,Manchester Utd,60337.0,Anfield,Michael Oliver,Match Report,
-86,8.0,Mon,2025-10-20,20:00,West Ham,0.4,0–2,2.3,Brentford,62452.0,London Stadium,Andy Madley,Match Report,
-88,9.0,Fri,2025-10-24,20:00,Leeds United,1.5,2–1,0.6,West Ham,36788.0,Elland Road,Stuart Attwell,Match Report,
-89,9.0,Sat,2025-10-25,15:00,Newcastle Utd,2.1,2–1,1.3,Fulham,52152.0,St James' Park,Peter Bankes,Match Report,
-90,9.0,Sat,2025-10-25,15:00,Chelsea,0.9,1–2,1.2,Sunderland,39489.0,Stamford Bridge,Andy Madley,Match Report,
-91,9.0,Sat,2025-10-25,17:30,Manchester Utd,1.3,4–2,1.1,Brighton,74124.0,Old Trafford,Anthony Taylor,Match Report,
-92,9.0,Sat,2025-10-25,20:00,Brentford,2.7,3–2,2.2,Liverpool,17214.0,Gtech Community Stadium,Simon Hooper,Match Report,
-93,9.0,Sun,2025-10-26,14:00,Arsenal,0.9,1–0,0.5,Crystal Palace,60103.0,Emirates Stadium,Thomas Bramall,Match Report,
-94,9.0,Sun,2025-10-26,14:00,Aston Villa,0.8,1–0,1.2,Manchester City,41988.0,Villa Park,Michael Oliver,Match Report,
-95,9.0,Sun,2025-10-26,14:00,Wolves,2.3,2–3,1.4,Burnley,29116.0,Molineux Stadium,Tony Harrington,Match Report,
-96,9.0,Sun,2025-10-26,14:00,Bournemouth,0.6,2–0,0.4,Nott'ham Forest,11204.0,Vitality Stadium,Samuel Barrott,Match Report,
-97,9.0,Sun,2025-10-26,16:30,Everton,1.7,0–3,1.7,Tottenham,51781.0,Hill Dickinson Stadium,Craig Pawson,Match Report,
+league,season,game,week,day,date,time,Home,xG_home,score,xG_away,Away,attendance,venue,referee,match_report,notes,game_id
+ENG-Premier League,2526,2025-08-15 Liverpool-Bournemouth,1,Fri,2025-08-15,20:00,Liverpool,2.2,4–2,1.7,Bournemouth,60315,Anfield,Anthony Taylor,/en/matches/a071faa8/Liverpool-Bournemouth-August-15-2025-Premier-League,,a071faa8
+ENG-Premier League,2526,2025-08-16 Aston Villa-Newcastle Utd,1,Sat,2025-08-16,12:30,Aston Villa,0.2,0–0,1.4,Newcastle Utd,42526,Villa Park,Craig Pawson,/en/matches/bbdf4739/Aston-Villa-Newcastle-United-August-16-2025-Premier-League,,bbdf4739
+ENG-Premier League,2526,2025-08-16 Brighton-Fulham,1,Sat,2025-08-16,15:00,Brighton,1.5,1–1,0.7,Fulham,31478,The American Express Stadium,Samuel Barrott,/en/matches/57c49bae/Brighton-and-Hove-Albion-Fulham-August-16-2025-Premier-League,,57c49bae
+ENG-Premier League,2526,2025-08-16 Sunderland-West Ham,1,Sat,2025-08-16,15:00,Sunderland,0.7,3–0,0.6,West Ham,46233,Stadium of Light,Robert Jones,/en/matches/e1058522/Sunderland-West-Ham-United-August-16-2025-Premier-League,,e1058522
+ENG-Premier League,2526,2025-08-16 Tottenham-Burnley,1,Sat,2025-08-16,15:00,Tottenham,2.3,3–0,0.9,Burnley,61077,Tottenham Hotspur Stadium,Michael Oliver,/en/matches/d41bb8b3/Tottenham-Hotspur-Burnley-August-16-2025-Premier-League,,d41bb8b3
+ENG-Premier League,2526,2025-08-16 Wolves-Manchester City,1,Sat,2025-08-16,17:30,Wolves,0.6,0–4,2.4,Manchester City,31456,Molineux Stadium,Jarred Gillett,/en/matches/8613020d/Wolverhampton-Wanderers-Manchester-City-August-16-2025-Premier-League,,8613020d
+ENG-Premier League,2526,2025-08-17 Chelsea-Crystal Palace,1,Sun,2025-08-17,14:00,Chelsea,1.6,0–0,0.6,Crystal Palace,39678,Stamford Bridge,Darren England,/en/matches/2185fc64/Chelsea-Crystal-Palace-August-17-2025-Premier-League,,2185fc64
+ENG-Premier League,2526,2025-08-17 Manchester Utd-Arsenal,1,Sun,2025-08-17,16:30,Manchester Utd,1.5,0–1,1.3,Arsenal,73475,Old Trafford,Simon Hooper,/en/matches/643d26fd/Manchester-United-Arsenal-August-17-2025-Premier-League,,643d26fd
+ENG-Premier League,2526,2025-08-17 Nott'ham Forest-Brentford,1,Sun,2025-08-17,14:00,Nott'ham Forest,1.8,3–1,1.4,Brentford,29949,The City Ground,Peter Bankes,/en/matches/855f8b5e/Nottingham-Forest-Brentford-August-17-2025-Premier-League,,855f8b5e
+ENG-Premier League,2526,2025-08-18 Leeds United-Everton,1,Mon,2025-08-18,20:00,Leeds United,2.0,1–0,0.8,Everton,36820,Elland Road,Chris Kavanagh,/en/matches/0701e218/Leeds-United-Everton-August-18-2025-Premier-League,,0701e218
+ENG-Premier League,2526,2025-08-22 West Ham-Chelsea,2,Fri,2025-08-22,20:00,West Ham,0.7,1–5,2.7,Chelsea,62462,London Stadium,Michael Oliver,/en/matches/57b35843/West-Ham-United-Chelsea-August-22-2025-Premier-League,,57b35843
+ENG-Premier League,2526,2025-08-23 Arsenal-Leeds United,2,Sat,2025-08-23,17:30,Arsenal,2.7,5–0,0.2,Leeds United,60110,Emirates Stadium,Jarred Gillett,/en/matches/e8724659/Arsenal-Leeds-United-August-23-2025-Premier-League,,e8724659
+ENG-Premier League,2526,2025-08-23 Bournemouth-Wolves,2,Sat,2025-08-23,15:00,Bournemouth,1.3,1–0,0.5,Wolves,11070,Vitality Stadium,Thomas Bramall,/en/matches/a515fb3a/Bournemouth-Wolverhampton-Wanderers-August-23-2025-Premier-League,,a515fb3a
+ENG-Premier League,2526,2025-08-23 Brentford-Aston Villa,2,Sat,2025-08-23,15:00,Brentford,1.2,1–0,1.2,Aston Villa,16838,Gtech Community Stadium,Tony Harrington,/en/matches/860c7af2/Brentford-Aston-Villa-August-23-2025-Premier-League,,860c7af2
+ENG-Premier League,2526,2025-08-23 Burnley-Sunderland,2,Sat,2025-08-23,15:00,Burnley,1.0,2–0,0.8,Sunderland,21285,Turf Moor,Michael Salisbury,/en/matches/4e287736/Burnley-Sunderland-August-23-2025-Premier-League,,4e287736
+ENG-Premier League,2526,2025-08-23 Manchester City-Tottenham,2,Sat,2025-08-23,12:30,Manchester City,1.6,0–2,1.1,Tottenham,51785,Etihad Stadium,Peter Bankes,/en/matches/f7e2c9c7/Manchester-City-Tottenham-Hotspur-August-23-2025-Premier-League,,f7e2c9c7
+ENG-Premier League,2526,2025-08-24 Crystal Palace-Nott'ham Forest,2,Sun,2025-08-24,14:00,Crystal Palace,1.1,1–1,0.9,Nott'ham Forest,24876,Selhurst Park,Anthony Taylor,/en/matches/a3984be1/Crystal-Palace-Nottingham-Forest-August-24-2025-Premier-League,,a3984be1
+ENG-Premier League,2526,2025-08-24 Everton-Brighton,2,Sun,2025-08-24,14:00,Everton,1.6,2–0,2.4,Brighton,51759,Hill Dickinson Stadium,Stuart Attwell,/en/matches/0bad74e2/Everton-Brighton-and-Hove-Albion-August-24-2025-Premier-League,,0bad74e2
+ENG-Premier League,2526,2025-08-24 Fulham-Manchester Utd,2,Sun,2025-08-24,16:30,Fulham,1.7,1–1,1.6,Manchester Utd,27512,Craven Cottage,Chris Kavanagh,/en/matches/fc45a8b2/Fulham-Manchester-United-August-24-2025-Premier-League,,fc45a8b2
+ENG-Premier League,2526,2025-08-25 Newcastle Utd-Liverpool,2,Mon,2025-08-25,20:00,Newcastle Utd,1.0,2–3,0.7,Liverpool,52230,St James' Park,Simon Hooper,/en/matches/2c75d21a/Newcastle-United-Liverpool-August-25-2025-Premier-League,,2c75d21a
+ENG-Premier League,2526,2025-08-30 Chelsea-Fulham,3,Sat,2025-08-30,12:30,Chelsea,2.1,2–0,0.9,Fulham,39745,Stamford Bridge,Robert Jones,/en/matches/2dbd7fbd/Chelsea-Fulham-August-30-2025-Premier-League,,2dbd7fbd
+ENG-Premier League,2526,2025-08-30 Leeds United-Newcastle Utd,3,Sat,2025-08-30,17:30,Leeds United,0.7,0–0,0.5,Newcastle Utd,36727,Elland Road,Peter Bankes,/en/matches/bc110e0b/Leeds-United-Newcastle-United-August-30-2025-Premier-League,,bc110e0b
+ENG-Premier League,2526,2025-08-30 Manchester Utd-Burnley,3,Sat,2025-08-30,15:00,Manchester Utd,3.6,3–2,1.2,Burnley,74257,Old Trafford,Samuel Barrott,/en/matches/0050df89/Manchester-United-Burnley-August-30-2025-Premier-League,,0050df89
+ENG-Premier League,2526,2025-08-30 Sunderland-Brentford,3,Sat,2025-08-30,15:00,Sunderland,1.5,2–1,1.2,Brentford,46267,Stadium of Light,Anthony Taylor,/en/matches/f03152d1/Sunderland-Brentford-August-30-2025-Premier-League,,f03152d1
+ENG-Premier League,2526,2025-08-30 Tottenham-Bournemouth,3,Sat,2025-08-30,15:00,Tottenham,0.2,0–1,1.5,Bournemouth,61250,Tottenham Hotspur Stadium,Simon Hooper,/en/matches/0e30cf4b/Tottenham-Hotspur-Bournemouth-August-30-2025-Premier-League,,0e30cf4b
+ENG-Premier League,2526,2025-08-30 Wolves-Everton,3,Sat,2025-08-30,15:00,Wolves,1.1,2–3,1.9,Everton,30271,Molineux Stadium,Michael Oliver,/en/matches/3c399f5e/Wolverhampton-Wanderers-Everton-August-30-2025-Premier-League,,3c399f5e
+ENG-Premier League,2526,2025-08-31 Aston Villa-Crystal Palace,3,Sun,2025-08-31,19:00,Aston Villa,1.1,0–3,2.6,Crystal Palace,41036,Villa Park,Stuart Attwell,/en/matches/cd51ed93/Aston-Villa-Crystal-Palace-August-31-2025-Premier-League,,cd51ed93
+ENG-Premier League,2526,2025-08-31 Brighton-Manchester City,3,Sun,2025-08-31,14:00,Brighton,2.2,2–1,1.8,Manchester City,31485,The American Express Stadium,Darren England,/en/matches/810d81e7/Brighton-and-Hove-Albion-Manchester-City-August-31-2025-Premier-League,,810d81e7
+ENG-Premier League,2526,2025-08-31 Liverpool-Arsenal,3,Sun,2025-08-31,16:30,Liverpool,0.5,1–0,0.5,Arsenal,60455,Anfield,Chris Kavanagh,/en/matches/b0005978/Liverpool-Arsenal-August-31-2025-Premier-League,,b0005978
+ENG-Premier League,2526,2025-08-31 Nott'ham Forest-West Ham,3,Sun,2025-08-31,14:00,Nott'ham Forest,0.7,0–3,2.4,West Ham,30215,The City Ground,Craig Pawson,/en/matches/299beb27/Nottingham-Forest-West-Ham-United-August-31-2025-Premier-League,,299beb27
+ENG-Premier League,2526,2025-09-13 Arsenal-Nott'ham Forest,4,Sat,2025-09-13,12:30,Arsenal,1.8,3–0,0.2,Nott'ham Forest,60167,Emirates Stadium,Darren England,/en/matches/4fe3e679/Arsenal-Nottingham-Forest-September-13-2025-Premier-League,,4fe3e679
+ENG-Premier League,2526,2025-09-13 Bournemouth-Brighton,4,Sat,2025-09-13,15:00,Bournemouth,1.4,2–1,0.6,Brighton,11167,Vitality Stadium,Peter Bankes,/en/matches/8398bbef/Bournemouth-Brighton-and-Hove-Albion-September-13-2025-Premier-League,,8398bbef
+ENG-Premier League,2526,2025-09-13 Brentford-Chelsea,4,Sat,2025-09-13,20:00,Brentford,1.4,2–2,1.3,Chelsea,16795,Gtech Community Stadium,Stuart Attwell,/en/matches/d8104c65/Brentford-Chelsea-September-13-2025-Premier-League,,d8104c65
+ENG-Premier League,2526,2025-09-13 Crystal Palace-Sunderland,4,Sat,2025-09-13,15:00,Crystal Palace,1.8,0–0,0.4,Sunderland,25154,Selhurst Park,Thomas Bramall,/en/matches/e3cade07/Crystal-Palace-Sunderland-September-13-2025-Premier-League,,e3cade07
+ENG-Premier League,2526,2025-09-13 Everton-Aston Villa,4,Sat,2025-09-13,15:00,Everton,2.0,0–0,0.4,Aston Villa,52114,Hill Dickinson Stadium,Simon Hooper,/en/matches/a624dc89/Everton-Aston-Villa-September-13-2025-Premier-League,,a624dc89
+ENG-Premier League,2526,2025-09-13 Fulham-Leeds United,4,Sat,2025-09-13,15:00,Fulham,0.9,1–0,0.8,Leeds United,27327,Craven Cottage,Craig Pawson,/en/matches/ab8543fb/Fulham-Leeds-United-September-13-2025-Premier-League,,ab8543fb
+ENG-Premier League,2526,2025-09-13 Newcastle Utd-Wolves,4,Sat,2025-09-13,15:00,Newcastle Utd,1.5,1–0,0.5,Wolves,52145,St James' Park,Chris Kavanagh,/en/matches/55fbbbe6/Newcastle-United-Wolverhampton-Wanderers-September-13-2025-Premier-League,,55fbbbe6
+ENG-Premier League,2526,2025-09-13 West Ham-Tottenham,4,Sat,2025-09-13,17:30,West Ham,0.6,0–3,1.3,Tottenham,62459,London Stadium,Jarred Gillett,/en/matches/86c7261a/West-Ham-United-Tottenham-Hotspur-September-13-2025-Premier-League,,86c7261a
+ENG-Premier League,2526,2025-09-14 Burnley-Liverpool,4,Sun,2025-09-14,14:00,Burnley,0.1,0–1,2.6,Liverpool,21678,Turf Moor,Michael Oliver,/en/matches/fed27aaa/Burnley-Liverpool-September-14-2025-Premier-League,,fed27aaa
+ENG-Premier League,2526,2025-09-14 Manchester City-Manchester Utd,4,Sun,2025-09-14,16:30,Manchester City,2.7,3–0,1.2,Manchester Utd,52534,Etihad Stadium,Anthony Taylor,/en/matches/f2b1061a/Manchester-Derby-Manchester-City-Manchester-United-September-14-2025-Premier-League,,f2b1061a
+ENG-Premier League,2526,2025-09-20 Brighton-Tottenham,5,Sat,2025-09-20,15:00,Brighton,1.3,2–2,1.2,Tottenham,31488,The American Express Stadium,Chris Kavanagh,/en/matches/fa03feeb/Brighton-and-Hove-Albion-Tottenham-Hotspur-September-20-2025-Premier-League,,fa03feeb
+ENG-Premier League,2526,2025-09-20 Burnley-Nott'ham Forest,5,Sat,2025-09-20,15:00,Burnley,0.9,1–1,1.1,Nott'ham Forest,21475,Turf Moor,Thomas Bramall,/en/matches/e523c1cd/Burnley-Nottingham-Forest-September-20-2025-Premier-League,,e523c1cd
+ENG-Premier League,2526,2025-09-20 Fulham-Brentford,5,Sat,2025-09-20,20:00,Fulham,1.0,3–1,0.6,Brentford,26113,Craven Cottage,Michael Oliver,/en/matches/295b388b/Fulham-Brentford-September-20-2025-Premier-League,,295b388b
+ENG-Premier League,2526,2025-09-20 Liverpool-Everton,5,Sat,2025-09-20,12:30,Liverpool,0.9,2–1,0.7,Everton,60342,Anfield,Darren England,/en/matches/5da72d0e/Merseyside-Derby-Liverpool-Everton-September-20-2025-Premier-League,,5da72d0e
+ENG-Premier League,2526,2025-09-20 Manchester Utd-Chelsea,5,Sat,2025-09-20,17:30,Manchester Utd,1.8,2–1,0.4,Chelsea,74124,Old Trafford,Peter Bankes,/en/matches/a562da13/Manchester-United-Chelsea-September-20-2025-Premier-League,,a562da13
+ENG-Premier League,2526,2025-09-20 West Ham-Crystal Palace,5,Sat,2025-09-20,15:00,West Ham,0.6,1–2,2.1,Crystal Palace,62455,London Stadium,Tony Harrington,/en/matches/15b707b3/West-Ham-United-Crystal-Palace-September-20-2025-Premier-League,,15b707b3
+ENG-Premier League,2526,2025-09-20 Wolves-Leeds United,5,Sat,2025-09-20,15:00,Wolves,1.8,1–3,0.5,Leeds United,30807,Molineux Stadium,Anthony Taylor,/en/matches/45650a33/Wolverhampton-Wanderers-Leeds-United-September-20-2025-Premier-League,,45650a33
+ENG-Premier League,2526,2025-09-21 Arsenal-Manchester City,5,Sun,2025-09-21,16:30,Arsenal,0.9,1–1,0.9,Manchester City,60161,Emirates Stadium,Stuart Attwell,/en/matches/2045939c/Arsenal-Manchester-City-September-21-2025-Premier-League,,2045939c
+ENG-Premier League,2526,2025-09-21 Bournemouth-Newcastle Utd,5,Sun,2025-09-21,14:00,Bournemouth,0.5,0–0,0.2,Newcastle Utd,11212,Vitality Stadium,Robert Jones,/en/matches/f55b1b65/Bournemouth-Newcastle-United-September-21-2025-Premier-League,,f55b1b65
+ENG-Premier League,2526,2025-09-21 Sunderland-Aston Villa,5,Sun,2025-09-21,14:00,Sunderland,1.0,1–1,0.8,Aston Villa,46261,Stadium of Light,Samuel Barrott,/en/matches/4e615d10/Sunderland-Aston-Villa-September-21-2025-Premier-League,,4e615d10
+ENG-Premier League,2526,2025-09-27 Brentford-Manchester Utd,6,Sat,2025-09-27,12:30,Brentford,1.9,3–1,2.1,Manchester Utd,17193,Gtech Community Stadium,Craig Pawson,/en/matches/f96a49ea/Brentford-Manchester-United-September-27-2025-Premier-League,,f96a49ea
+ENG-Premier League,2526,2025-09-27 Chelsea-Brighton,6,Sat,2025-09-27,15:00,Chelsea,1.8,1–3,2.3,Brighton,39597,Stamford Bridge,Simon Hooper,/en/matches/b3a3df9a/Chelsea-Brighton-and-Hove-Albion-September-27-2025-Premier-League,,b3a3df9a
+ENG-Premier League,2526,2025-09-27 Crystal Palace-Liverpool,6,Sat,2025-09-27,15:00,Crystal Palace,2.9,2–1,2.1,Liverpool,25118,Selhurst Park,Chris Kavanagh,/en/matches/8a5edb7f/Crystal-Palace-Liverpool-September-27-2025-Premier-League,,8a5edb7f
+ENG-Premier League,2526,2025-09-27 Leeds United-Bournemouth,6,Sat,2025-09-27,15:00,Leeds United,1.8,2–2,0.7,Bournemouth,36574,Elland Road,Michael Oliver,/en/matches/d2fc69e6/Leeds-United-Bournemouth-September-27-2025-Premier-League,,d2fc69e6
+ENG-Premier League,2526,2025-09-27 Manchester City-Burnley,6,Sat,2025-09-27,15:00,Manchester City,2.0,5–1,0.4,Burnley,52427,Etihad Stadium,Robert Jones,/en/matches/53db8cb5/Manchester-City-Burnley-September-27-2025-Premier-League,,53db8cb5
+ENG-Premier League,2526,2025-09-27 Nott'ham Forest-Sunderland,6,Sat,2025-09-27,17:30,Nott'ham Forest,1.6,0–1,1.6,Sunderland,30226,The City Ground,Tony Harrington,/en/matches/78970349/Nottingham-Forest-Sunderland-September-27-2025-Premier-League,,78970349
+ENG-Premier League,2526,2025-09-27 Tottenham-Wolves,6,Sat,2025-09-27,20:00,Tottenham,0.8,1–1,1.1,Wolves,60537,Tottenham Hotspur Stadium,Michael Salisbury,/en/matches/116cff7d/Tottenham-Hotspur-Wolverhampton-Wanderers-September-27-2025-Premier-League,,116cff7d
+ENG-Premier League,2526,2025-09-28 Aston Villa-Fulham,6,Sun,2025-09-28,14:00,Aston Villa,1.1,3–1,1.1,Fulham,40350,Villa Park,Andy Madley,/en/matches/7345f259/Aston-Villa-Fulham-September-28-2025-Premier-League,,7345f259
+ENG-Premier League,2526,2025-09-28 Newcastle Utd-Arsenal,6,Sun,2025-09-28,16:30,Newcastle Utd,0.6,1–2,2.0,Arsenal,52199,St James' Park,Jarred Gillett,/en/matches/e851cb5c/Newcastle-United-Arsenal-September-28-2025-Premier-League,,e851cb5c
+ENG-Premier League,2526,2025-09-29 Everton-West Ham,6,Mon,2025-09-29,20:00,Everton,0.7,1–1,1.2,West Ham,51890,Hill Dickinson Stadium,Samuel Barrott,/en/matches/1163f46d/Everton-West-Ham-United-September-29-2025-Premier-League,,1163f46d
+ENG-Premier League,2526,2025-10-03 Bournemouth-Fulham,7,Fri,2025-10-03,20:00,Bournemouth,1.2,3–1,0.9,Fulham,11165,Vitality Stadium,Simon Hooper,/en/matches/200f4acc/Bournemouth-Fulham-October-3-2025-Premier-League,,200f4acc
+ENG-Premier League,2526,2025-10-04 Arsenal-West Ham,7,Sat,2025-10-04,15:00,Arsenal,2.8,2–0,0.4,West Ham,60181,Emirates Stadium,John Brooks,/en/matches/266bddc6/Arsenal-West-Ham-United-October-4-2025-Premier-League,,266bddc6
+ENG-Premier League,2526,2025-10-04 Chelsea-Liverpool,7,Sat,2025-10-04,17:30,Chelsea,1.0,2–1,1.9,Liverpool,39538,Stamford Bridge,Anthony Taylor,/en/matches/780d534e/Chelsea-Liverpool-October-4-2025-Premier-League,,780d534e
+ENG-Premier League,2526,2025-10-04 Leeds United-Tottenham,7,Sat,2025-10-04,12:30,Leeds United,1.7,1–2,0.6,Tottenham,36703,Elland Road,Thomas Bramall,/en/matches/3e588df8/Leeds-United-Tottenham-Hotspur-October-4-2025-Premier-League,,3e588df8
+ENG-Premier League,2526,2025-10-04 Manchester Utd-Sunderland,7,Sat,2025-10-04,15:00,Manchester Utd,1.8,2–0,0.7,Sunderland,74004,Old Trafford,Stuart Attwell,/en/matches/e33ea33d/Manchester-United-Sunderland-October-4-2025-Premier-League,,e33ea33d
+ENG-Premier League,2526,2025-10-05 Aston Villa-Burnley,7,Sun,2025-10-05,14:00,Aston Villa,1.1,2–1,0.4,Burnley,40308,Villa Park,Andrew Kitchen,/en/matches/db870461/Aston-Villa-Burnley-October-5-2025-Premier-League,,db870461
+ENG-Premier League,2526,2025-10-05 Brentford-Manchester City,7,Sun,2025-10-05,16:30,Brentford,0.7,0–1,0.8,Manchester City,17028,Gtech Community Stadium,Darren England,/en/matches/8c0ee359/Brentford-Manchester-City-October-5-2025-Premier-League,,8c0ee359
+ENG-Premier League,2526,2025-10-05 Everton-Crystal Palace,7,Sun,2025-10-05,14:00,Everton,2.0,2–1,1.5,Crystal Palace,51770,Hill Dickinson Stadium,Michael Salisbury,/en/matches/88e53add/Everton-Crystal-Palace-October-5-2025-Premier-League,,88e53add
+ENG-Premier League,2526,2025-10-05 Newcastle Utd-Nott'ham Forest,7,Sun,2025-10-05,14:00,Newcastle Utd,3.2,2–0,0.2,Nott'ham Forest,52189,St James' Park,Peter Bankes,/en/matches/e33f1657/Newcastle-United-Nottingham-Forest-October-5-2025-Premier-League,,e33f1657
+ENG-Premier League,2526,2025-10-05 Wolves-Brighton,7,Sun,2025-10-05,14:00,Wolves,0.6,1–1,0.9,Brighton,29504,Molineux Stadium,Jarred Gillett,/en/matches/1314f9fd/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-October-5-2025-Premier-League,,1314f9fd
+ENG-Premier League,2526,2025-10-18 Brighton-Newcastle Utd,8,Sat,2025-10-18,15:00,Brighton,0.9,2–1,1.4,Newcastle Utd,31620,The American Express Stadium,Craig Pawson,/en/matches/7c25388b/Brighton-and-Hove-Albion-Newcastle-United-October-18-2025-Premier-League,,7c25388b
+ENG-Premier League,2526,2025-10-18 Burnley-Leeds United,8,Sat,2025-10-18,15:00,Burnley,0.5,2–0,2.4,Leeds United,21646,Turf Moor,Tim Robinson,/en/matches/a31356f3/Burnley-Leeds-United-October-18-2025-Premier-League,,a31356f3
+ENG-Premier League,2526,2025-10-18 Crystal Palace-Bournemouth,8,Sat,2025-10-18,15:00,Crystal Palace,4.4,3–3,2.0,Bournemouth,25125,Selhurst Park,Jarred Gillett,/en/matches/7a0ab06b/Crystal-Palace-Bournemouth-October-18-2025-Premier-League,,7a0ab06b
+ENG-Premier League,2526,2025-10-18 Fulham-Arsenal,8,Sat,2025-10-18,17:30,Fulham,0.4,0–1,1.8,Arsenal,27736,Craven Cottage,Anthony Taylor,/en/matches/94eefc1d/Fulham-Arsenal-October-18-2025-Premier-League,,94eefc1d
+ENG-Premier League,2526,2025-10-18 Manchester City-Everton,8,Sat,2025-10-18,15:00,Manchester City,2.3,2–0,1.1,Everton,52498,Etihad Stadium,Tony Harrington,/en/matches/1340e41a/Manchester-City-Everton-October-18-2025-Premier-League,,1340e41a
+ENG-Premier League,2526,2025-10-18 Nott'ham Forest-Chelsea,8,Sat,2025-10-18,12:30,Nott'ham Forest,2.2,0–3,1.7,Chelsea,30495,The City Ground,Chris Kavanagh,/en/matches/b3ac7e40/Nottingham-Forest-Chelsea-October-18-2025-Premier-League,,b3ac7e40
+ENG-Premier League,2526,2025-10-18 Sunderland-Wolves,8,Sat,2025-10-18,15:00,Sunderland,0.6,2–0,0.8,Wolves,46578,Stadium of Light,Robert Jones,/en/matches/fe212874/Sunderland-Wolverhampton-Wanderers-October-18-2025-Premier-League,,fe212874
+ENG-Premier League,2526,2025-10-19 Liverpool-Manchester Utd,8,Sun,2025-10-19,16:30,Liverpool,2.6,1–2,1.3,Manchester Utd,60337,Anfield,Michael Oliver,/en/matches/cbec79a5/North-West-Derby-Liverpool-Manchester-United-October-19-2025-Premier-League,,cbec79a5
+ENG-Premier League,2526,2025-10-19 Tottenham-Aston Villa,8,Sun,2025-10-19,14:00,Tottenham,0.9,1–2,0.3,Aston Villa,61291,Tottenham Hotspur Stadium,Simon Hooper,/en/matches/810c0cb9/Tottenham-Hotspur-Aston-Villa-October-19-2025-Premier-League,,810c0cb9
+ENG-Premier League,2526,2025-10-20 West Ham-Brentford,8,Mon,2025-10-20,20:00,West Ham,0.4,0–2,2.3,Brentford,62452,London Stadium,Andy Madley,/en/matches/3322a47b/West-Ham-United-Brentford-October-20-2025-Premier-League,,3322a47b
+ENG-Premier League,2526,2025-10-24 Leeds United-West Ham,9,Fri,2025-10-24,20:00,Leeds United,1.5,2–1,0.6,West Ham,36788,Elland Road,Stuart Attwell,/en/matches/236e3e4c/Leeds-United-West-Ham-United-October-24-2025-Premier-League,,236e3e4c
+ENG-Premier League,2526,2025-10-25 Brentford-Liverpool,9,Sat,2025-10-25,20:00,Brentford,2.7,3–2,2.2,Liverpool,17214,Gtech Community Stadium,Simon Hooper,/en/matches/26e5ca72/Brentford-Liverpool-October-25-2025-Premier-League,,26e5ca72
+ENG-Premier League,2526,2025-10-25 Chelsea-Sunderland,9,Sat,2025-10-25,15:00,Chelsea,0.9,1–2,1.2,Sunderland,39489,Stamford Bridge,Andy Madley,/en/matches/cfda878f/Chelsea-Sunderland-October-25-2025-Premier-League,,cfda878f
+ENG-Premier League,2526,2025-10-25 Manchester Utd-Brighton,9,Sat,2025-10-25,17:30,Manchester Utd,1.3,4–2,1.1,Brighton,74124,Old Trafford,Anthony Taylor,/en/matches/a190da2c/Manchester-United-Brighton-and-Hove-Albion-October-25-2025-Premier-League,,a190da2c
+ENG-Premier League,2526,2025-10-25 Newcastle Utd-Fulham,9,Sat,2025-10-25,15:00,Newcastle Utd,2.1,2–1,1.3,Fulham,52152,St James' Park,Peter Bankes,/en/matches/0f6b6849/Newcastle-United-Fulham-October-25-2025-Premier-League,,0f6b6849
+ENG-Premier League,2526,2025-10-26 Arsenal-Crystal Palace,9,Sun,2025-10-26,14:00,Arsenal,0.9,1–0,0.5,Crystal Palace,60103,Emirates Stadium,Thomas Bramall,/en/matches/8e08b6c9/Arsenal-Crystal-Palace-October-26-2025-Premier-League,,8e08b6c9
+ENG-Premier League,2526,2025-10-26 Aston Villa-Manchester City,9,Sun,2025-10-26,14:00,Aston Villa,0.8,1–0,1.2,Manchester City,41988,Villa Park,Michael Oliver,/en/matches/2324c097/Aston-Villa-Manchester-City-October-26-2025-Premier-League,,2324c097
+ENG-Premier League,2526,2025-10-26 Bournemouth-Nott'ham Forest,9,Sun,2025-10-26,14:00,Bournemouth,0.6,2–0,0.4,Nott'ham Forest,11204,Vitality Stadium,Samuel Barrott,/en/matches/0676a57a/Bournemouth-Nottingham-Forest-October-26-2025-Premier-League,,0676a57a
+ENG-Premier League,2526,2025-10-26 Everton-Tottenham,9,Sun,2025-10-26,16:30,Everton,1.7,0–3,1.7,Tottenham,51781,Hill Dickinson Stadium,Craig Pawson,/en/matches/4234aaa9/Everton-Tottenham-Hotspur-October-26-2025-Premier-League,,4234aaa9
+ENG-Premier League,2526,2025-10-26 Wolves-Burnley,9,Sun,2025-10-26,14:00,Wolves,2.3,2–3,1.4,Burnley,29116,Molineux Stadium,Tony Harrington,/en/matches/28244556/Wolverhampton-Wanderers-Burnley-October-26-2025-Premier-League,,28244556
+ENG-Premier League,2526,2025-11-01 Brighton-Leeds United,10,Sat,2025-11-01,15:00,Brighton,3.0,3–0,0.5,Leeds United,31512,The American Express Stadium,Michael Oliver,/en/matches/40e608f4/Brighton-and-Hove-Albion-Leeds-United-November-1-2025-Premier-League,,40e608f4
+ENG-Premier League,2526,2025-11-01 Burnley-Arsenal,10,Sat,2025-11-01,15:00,Burnley,0.4,0–2,2.3,Arsenal,21538,Turf Moor,Chris Kavanagh,/en/matches/2e2f2939/Burnley-Arsenal-November-1-2025-Premier-League,,2e2f2939
+ENG-Premier League,2526,2025-11-01 Crystal Palace-Brentford,10,Sat,2025-11-01,15:00,Crystal Palace,0.7,2–0,0.5,Brentford,25083,Selhurst Park,Peter Bankes,/en/matches/96c4864b/Crystal-Palace-Brentford-November-1-2025-Premier-League,,96c4864b
+ENG-Premier League,2526,2025-11-01 Fulham-Wolves,10,Sat,2025-11-01,15:00,Fulham,1.3,3–0,0.2,Wolves,26413,Craven Cottage,John Brooks,/en/matches/03f6bccd/Fulham-Wolverhampton-Wanderers-November-1-2025-Premier-League,,03f6bccd
+ENG-Premier League,2526,2025-11-01 Liverpool-Aston Villa,10,Sat,2025-11-01,20:00,Liverpool,1.2,2–0,0.4,Aston Villa,60407,Anfield,Stuart Attwell,/en/matches/c15115cb/Liverpool-Aston-Villa-November-1-2025-Premier-League,,c15115cb
+ENG-Premier League,2526,2025-11-01 Nott'ham Forest-Manchester Utd,10,Sat,2025-11-01,15:00,Nott'ham Forest,1.9,2–2,1.2,Manchester Utd,30778,The City Ground,Darren England,/en/matches/6f99be65/Nottingham-Forest-Manchester-United-November-1-2025-Premier-League,,6f99be65
+ENG-Premier League,2526,2025-11-01 Tottenham-Chelsea,10,Sat,2025-11-01,17:30,Tottenham,0.1,0–1,3.7,Chelsea,61202,Tottenham Hotspur Stadium,Jarred Gillett,/en/matches/cb498e0b/Tottenham-Hotspur-Chelsea-November-1-2025-Premier-League,,cb498e0b
+ENG-Premier League,2526,2025-11-02 Manchester City-Bournemouth,10,Sun,2025-11-02,16:30,Manchester City,2.2,3–1,0.6,Bournemouth,52387,Etihad Stadium,Anthony Taylor,/en/matches/cc77588b/Manchester-City-Bournemouth-November-2-2025-Premier-League,,cc77588b
+ENG-Premier League,2526,2025-11-02 West Ham-Newcastle Utd,10,Sun,2025-11-02,14:00,West Ham,1.7,3–1,0.5,Newcastle Utd,62441,London Stadium,Robert Jones,/en/matches/55587dfc/West-Ham-United-Newcastle-United-November-2-2025-Premier-League,,55587dfc
+ENG-Premier League,2526,2025-11-03 Sunderland-Everton,10,Mon,2025-11-03,20:00,Sunderland,1.2,1–1,0.9,Everton,41476,Stadium of Light,Thomas Bramall,/en/matches/bb37daa2/Sunderland-Everton-November-3-2025-Premier-League,,bb37daa2
