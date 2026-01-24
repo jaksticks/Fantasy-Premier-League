@@ -1,201 +1,221 @@
-league,season,game,week,day,date,time,Home,xG_home,score,xG_away,Away,attendance,venue,referee,match_report,notes,game_id
-ENG-Premier League,2526,2025-08-15 Liverpool-Bournemouth,1,Fri,2025-08-15,20:00,Liverpool,2.2,4–2,1.7,Bournemouth,60315,Anfield,Anthony Taylor,/en/matches/a071faa8/Liverpool-Bournemouth-August-15-2025-Premier-League,,a071faa8
-ENG-Premier League,2526,2025-08-16 Aston Villa-Newcastle Utd,1,Sat,2025-08-16,12:30,Aston Villa,0.2,0–0,1.4,Newcastle Utd,42526,Villa Park,Craig Pawson,/en/matches/bbdf4739/Aston-Villa-Newcastle-United-August-16-2025-Premier-League,,bbdf4739
-ENG-Premier League,2526,2025-08-16 Brighton-Fulham,1,Sat,2025-08-16,15:00,Brighton,1.5,1–1,0.7,Fulham,31478,The American Express Stadium,Samuel Barrott,/en/matches/57c49bae/Brighton-and-Hove-Albion-Fulham-August-16-2025-Premier-League,,57c49bae
-ENG-Premier League,2526,2025-08-16 Sunderland-West Ham,1,Sat,2025-08-16,15:00,Sunderland,0.7,3–0,0.6,West Ham,46233,Stadium of Light,Robert Jones,/en/matches/e1058522/Sunderland-West-Ham-United-August-16-2025-Premier-League,,e1058522
-ENG-Premier League,2526,2025-08-16 Tottenham-Burnley,1,Sat,2025-08-16,15:00,Tottenham,2.3,3–0,0.9,Burnley,61077,Tottenham Hotspur Stadium,Michael Oliver,/en/matches/d41bb8b3/Tottenham-Hotspur-Burnley-August-16-2025-Premier-League,,d41bb8b3
-ENG-Premier League,2526,2025-08-16 Wolves-Manchester City,1,Sat,2025-08-16,17:30,Wolves,0.6,0–4,2.4,Manchester City,31456,Molineux Stadium,Jarred Gillett,/en/matches/8613020d/Wolverhampton-Wanderers-Manchester-City-August-16-2025-Premier-League,,8613020d
-ENG-Premier League,2526,2025-08-17 Chelsea-Crystal Palace,1,Sun,2025-08-17,14:00,Chelsea,1.6,0–0,0.6,Crystal Palace,39678,Stamford Bridge,Darren England,/en/matches/2185fc64/Chelsea-Crystal-Palace-August-17-2025-Premier-League,,2185fc64
-ENG-Premier League,2526,2025-08-17 Manchester Utd-Arsenal,1,Sun,2025-08-17,16:30,Manchester Utd,1.5,0–1,1.3,Arsenal,73475,Old Trafford,Simon Hooper,/en/matches/643d26fd/Manchester-United-Arsenal-August-17-2025-Premier-League,,643d26fd
-ENG-Premier League,2526,2025-08-17 Nott'ham Forest-Brentford,1,Sun,2025-08-17,14:00,Nott'ham Forest,1.8,3–1,1.4,Brentford,29949,The City Ground,Peter Bankes,/en/matches/855f8b5e/Nottingham-Forest-Brentford-August-17-2025-Premier-League,,855f8b5e
-ENG-Premier League,2526,2025-08-18 Leeds United-Everton,1,Mon,2025-08-18,20:00,Leeds United,2.0,1–0,0.8,Everton,36820,Elland Road,Chris Kavanagh,/en/matches/0701e218/Leeds-United-Everton-August-18-2025-Premier-League,,0701e218
-ENG-Premier League,2526,2025-08-22 West Ham-Chelsea,2,Fri,2025-08-22,20:00,West Ham,0.7,1–5,2.7,Chelsea,62462,London Stadium,Michael Oliver,/en/matches/57b35843/West-Ham-United-Chelsea-August-22-2025-Premier-League,,57b35843
-ENG-Premier League,2526,2025-08-23 Arsenal-Leeds United,2,Sat,2025-08-23,17:30,Arsenal,2.7,5–0,0.2,Leeds United,60110,Emirates Stadium,Jarred Gillett,/en/matches/e8724659/Arsenal-Leeds-United-August-23-2025-Premier-League,,e8724659
-ENG-Premier League,2526,2025-08-23 Bournemouth-Wolves,2,Sat,2025-08-23,15:00,Bournemouth,1.3,1–0,0.5,Wolves,11070,Vitality Stadium,Thomas Bramall,/en/matches/a515fb3a/Bournemouth-Wolverhampton-Wanderers-August-23-2025-Premier-League,,a515fb3a
-ENG-Premier League,2526,2025-08-23 Brentford-Aston Villa,2,Sat,2025-08-23,15:00,Brentford,1.2,1–0,1.2,Aston Villa,16838,Gtech Community Stadium,Tony Harrington,/en/matches/860c7af2/Brentford-Aston-Villa-August-23-2025-Premier-League,,860c7af2
-ENG-Premier League,2526,2025-08-23 Burnley-Sunderland,2,Sat,2025-08-23,15:00,Burnley,1.0,2–0,0.8,Sunderland,21285,Turf Moor,Michael Salisbury,/en/matches/4e287736/Burnley-Sunderland-August-23-2025-Premier-League,,4e287736
-ENG-Premier League,2526,2025-08-23 Manchester City-Tottenham,2,Sat,2025-08-23,12:30,Manchester City,1.6,0–2,1.1,Tottenham,51785,Etihad Stadium,Peter Bankes,/en/matches/f7e2c9c7/Manchester-City-Tottenham-Hotspur-August-23-2025-Premier-League,,f7e2c9c7
-ENG-Premier League,2526,2025-08-24 Crystal Palace-Nott'ham Forest,2,Sun,2025-08-24,14:00,Crystal Palace,1.1,1–1,0.9,Nott'ham Forest,24876,Selhurst Park,Anthony Taylor,/en/matches/a3984be1/Crystal-Palace-Nottingham-Forest-August-24-2025-Premier-League,,a3984be1
-ENG-Premier League,2526,2025-08-24 Everton-Brighton,2,Sun,2025-08-24,14:00,Everton,1.6,2–0,2.4,Brighton,51759,Hill Dickinson Stadium,Stuart Attwell,/en/matches/0bad74e2/Everton-Brighton-and-Hove-Albion-August-24-2025-Premier-League,,0bad74e2
-ENG-Premier League,2526,2025-08-24 Fulham-Manchester Utd,2,Sun,2025-08-24,16:30,Fulham,1.7,1–1,1.6,Manchester Utd,27512,Craven Cottage,Chris Kavanagh,/en/matches/fc45a8b2/Fulham-Manchester-United-August-24-2025-Premier-League,,fc45a8b2
-ENG-Premier League,2526,2025-08-25 Newcastle Utd-Liverpool,2,Mon,2025-08-25,20:00,Newcastle Utd,1.0,2–3,0.7,Liverpool,52230,St James' Park,Simon Hooper,/en/matches/2c75d21a/Newcastle-United-Liverpool-August-25-2025-Premier-League,,2c75d21a
-ENG-Premier League,2526,2025-08-30 Chelsea-Fulham,3,Sat,2025-08-30,12:30,Chelsea,2.1,2–0,0.9,Fulham,39745,Stamford Bridge,Robert Jones,/en/matches/2dbd7fbd/Chelsea-Fulham-August-30-2025-Premier-League,,2dbd7fbd
-ENG-Premier League,2526,2025-08-30 Leeds United-Newcastle Utd,3,Sat,2025-08-30,17:30,Leeds United,0.7,0–0,0.5,Newcastle Utd,36727,Elland Road,Peter Bankes,/en/matches/bc110e0b/Leeds-United-Newcastle-United-August-30-2025-Premier-League,,bc110e0b
-ENG-Premier League,2526,2025-08-30 Manchester Utd-Burnley,3,Sat,2025-08-30,15:00,Manchester Utd,3.6,3–2,1.2,Burnley,74257,Old Trafford,Samuel Barrott,/en/matches/0050df89/Manchester-United-Burnley-August-30-2025-Premier-League,,0050df89
-ENG-Premier League,2526,2025-08-30 Sunderland-Brentford,3,Sat,2025-08-30,15:00,Sunderland,1.5,2–1,1.2,Brentford,46267,Stadium of Light,Anthony Taylor,/en/matches/f03152d1/Sunderland-Brentford-August-30-2025-Premier-League,,f03152d1
-ENG-Premier League,2526,2025-08-30 Tottenham-Bournemouth,3,Sat,2025-08-30,15:00,Tottenham,0.2,0–1,1.5,Bournemouth,61250,Tottenham Hotspur Stadium,Simon Hooper,/en/matches/0e30cf4b/Tottenham-Hotspur-Bournemouth-August-30-2025-Premier-League,,0e30cf4b
-ENG-Premier League,2526,2025-08-30 Wolves-Everton,3,Sat,2025-08-30,15:00,Wolves,1.1,2–3,1.9,Everton,30271,Molineux Stadium,Michael Oliver,/en/matches/3c399f5e/Wolverhampton-Wanderers-Everton-August-30-2025-Premier-League,,3c399f5e
-ENG-Premier League,2526,2025-08-31 Aston Villa-Crystal Palace,3,Sun,2025-08-31,19:00,Aston Villa,1.1,0–3,2.6,Crystal Palace,41036,Villa Park,Stuart Attwell,/en/matches/cd51ed93/Aston-Villa-Crystal-Palace-August-31-2025-Premier-League,,cd51ed93
-ENG-Premier League,2526,2025-08-31 Brighton-Manchester City,3,Sun,2025-08-31,14:00,Brighton,2.2,2–1,1.8,Manchester City,31485,The American Express Stadium,Darren England,/en/matches/810d81e7/Brighton-and-Hove-Albion-Manchester-City-August-31-2025-Premier-League,,810d81e7
-ENG-Premier League,2526,2025-08-31 Liverpool-Arsenal,3,Sun,2025-08-31,16:30,Liverpool,0.5,1–0,0.5,Arsenal,60455,Anfield,Chris Kavanagh,/en/matches/b0005978/Liverpool-Arsenal-August-31-2025-Premier-League,,b0005978
-ENG-Premier League,2526,2025-08-31 Nott'ham Forest-West Ham,3,Sun,2025-08-31,14:00,Nott'ham Forest,0.7,0–3,2.4,West Ham,30215,The City Ground,Craig Pawson,/en/matches/299beb27/Nottingham-Forest-West-Ham-United-August-31-2025-Premier-League,,299beb27
-ENG-Premier League,2526,2025-09-13 Arsenal-Nott'ham Forest,4,Sat,2025-09-13,12:30,Arsenal,1.8,3–0,0.2,Nott'ham Forest,60167,Emirates Stadium,Darren England,/en/matches/4fe3e679/Arsenal-Nottingham-Forest-September-13-2025-Premier-League,,4fe3e679
-ENG-Premier League,2526,2025-09-13 Bournemouth-Brighton,4,Sat,2025-09-13,15:00,Bournemouth,1.4,2–1,0.6,Brighton,11167,Vitality Stadium,Peter Bankes,/en/matches/8398bbef/Bournemouth-Brighton-and-Hove-Albion-September-13-2025-Premier-League,,8398bbef
-ENG-Premier League,2526,2025-09-13 Brentford-Chelsea,4,Sat,2025-09-13,20:00,Brentford,1.4,2–2,1.3,Chelsea,16795,Gtech Community Stadium,Stuart Attwell,/en/matches/d8104c65/Brentford-Chelsea-September-13-2025-Premier-League,,d8104c65
-ENG-Premier League,2526,2025-09-13 Crystal Palace-Sunderland,4,Sat,2025-09-13,15:00,Crystal Palace,1.8,0–0,0.4,Sunderland,25154,Selhurst Park,Thomas Bramall,/en/matches/e3cade07/Crystal-Palace-Sunderland-September-13-2025-Premier-League,,e3cade07
-ENG-Premier League,2526,2025-09-13 Everton-Aston Villa,4,Sat,2025-09-13,15:00,Everton,2.0,0–0,0.4,Aston Villa,52114,Hill Dickinson Stadium,Simon Hooper,/en/matches/a624dc89/Everton-Aston-Villa-September-13-2025-Premier-League,,a624dc89
-ENG-Premier League,2526,2025-09-13 Fulham-Leeds United,4,Sat,2025-09-13,15:00,Fulham,0.9,1–0,0.8,Leeds United,27327,Craven Cottage,Craig Pawson,/en/matches/ab8543fb/Fulham-Leeds-United-September-13-2025-Premier-League,,ab8543fb
-ENG-Premier League,2526,2025-09-13 Newcastle Utd-Wolves,4,Sat,2025-09-13,15:00,Newcastle Utd,1.5,1–0,0.5,Wolves,52145,St James' Park,Chris Kavanagh,/en/matches/55fbbbe6/Newcastle-United-Wolverhampton-Wanderers-September-13-2025-Premier-League,,55fbbbe6
-ENG-Premier League,2526,2025-09-13 West Ham-Tottenham,4,Sat,2025-09-13,17:30,West Ham,0.6,0–3,1.3,Tottenham,62459,London Stadium,Jarred Gillett,/en/matches/86c7261a/West-Ham-United-Tottenham-Hotspur-September-13-2025-Premier-League,,86c7261a
-ENG-Premier League,2526,2025-09-14 Burnley-Liverpool,4,Sun,2025-09-14,14:00,Burnley,0.1,0–1,2.6,Liverpool,21678,Turf Moor,Michael Oliver,/en/matches/fed27aaa/Burnley-Liverpool-September-14-2025-Premier-League,,fed27aaa
-ENG-Premier League,2526,2025-09-14 Manchester City-Manchester Utd,4,Sun,2025-09-14,16:30,Manchester City,2.7,3–0,1.2,Manchester Utd,52534,Etihad Stadium,Anthony Taylor,/en/matches/f2b1061a/Manchester-Derby-Manchester-City-Manchester-United-September-14-2025-Premier-League,,f2b1061a
-ENG-Premier League,2526,2025-09-20 Brighton-Tottenham,5,Sat,2025-09-20,15:00,Brighton,1.3,2–2,1.2,Tottenham,31488,The American Express Stadium,Chris Kavanagh,/en/matches/fa03feeb/Brighton-and-Hove-Albion-Tottenham-Hotspur-September-20-2025-Premier-League,,fa03feeb
-ENG-Premier League,2526,2025-09-20 Burnley-Nott'ham Forest,5,Sat,2025-09-20,15:00,Burnley,0.9,1–1,1.1,Nott'ham Forest,21475,Turf Moor,Thomas Bramall,/en/matches/e523c1cd/Burnley-Nottingham-Forest-September-20-2025-Premier-League,,e523c1cd
-ENG-Premier League,2526,2025-09-20 Fulham-Brentford,5,Sat,2025-09-20,20:00,Fulham,1.0,3–1,0.6,Brentford,26113,Craven Cottage,Michael Oliver,/en/matches/295b388b/Fulham-Brentford-September-20-2025-Premier-League,,295b388b
-ENG-Premier League,2526,2025-09-20 Liverpool-Everton,5,Sat,2025-09-20,12:30,Liverpool,0.9,2–1,0.7,Everton,60342,Anfield,Darren England,/en/matches/5da72d0e/Merseyside-Derby-Liverpool-Everton-September-20-2025-Premier-League,,5da72d0e
-ENG-Premier League,2526,2025-09-20 Manchester Utd-Chelsea,5,Sat,2025-09-20,17:30,Manchester Utd,1.8,2–1,0.4,Chelsea,74124,Old Trafford,Peter Bankes,/en/matches/a562da13/Manchester-United-Chelsea-September-20-2025-Premier-League,,a562da13
-ENG-Premier League,2526,2025-09-20 West Ham-Crystal Palace,5,Sat,2025-09-20,15:00,West Ham,0.6,1–2,2.1,Crystal Palace,62455,London Stadium,Tony Harrington,/en/matches/15b707b3/West-Ham-United-Crystal-Palace-September-20-2025-Premier-League,,15b707b3
-ENG-Premier League,2526,2025-09-20 Wolves-Leeds United,5,Sat,2025-09-20,15:00,Wolves,1.8,1–3,0.5,Leeds United,30807,Molineux Stadium,Anthony Taylor,/en/matches/45650a33/Wolverhampton-Wanderers-Leeds-United-September-20-2025-Premier-League,,45650a33
-ENG-Premier League,2526,2025-09-21 Arsenal-Manchester City,5,Sun,2025-09-21,16:30,Arsenal,0.9,1–1,0.9,Manchester City,60161,Emirates Stadium,Stuart Attwell,/en/matches/2045939c/Arsenal-Manchester-City-September-21-2025-Premier-League,,2045939c
-ENG-Premier League,2526,2025-09-21 Bournemouth-Newcastle Utd,5,Sun,2025-09-21,14:00,Bournemouth,0.5,0–0,0.2,Newcastle Utd,11212,Vitality Stadium,Robert Jones,/en/matches/f55b1b65/Bournemouth-Newcastle-United-September-21-2025-Premier-League,,f55b1b65
-ENG-Premier League,2526,2025-09-21 Sunderland-Aston Villa,5,Sun,2025-09-21,14:00,Sunderland,1.0,1–1,0.8,Aston Villa,46261,Stadium of Light,Samuel Barrott,/en/matches/4e615d10/Sunderland-Aston-Villa-September-21-2025-Premier-League,,4e615d10
-ENG-Premier League,2526,2025-09-27 Brentford-Manchester Utd,6,Sat,2025-09-27,12:30,Brentford,1.9,3–1,2.1,Manchester Utd,17193,Gtech Community Stadium,Craig Pawson,/en/matches/f96a49ea/Brentford-Manchester-United-September-27-2025-Premier-League,,f96a49ea
-ENG-Premier League,2526,2025-09-27 Chelsea-Brighton,6,Sat,2025-09-27,15:00,Chelsea,1.8,1–3,2.3,Brighton,39597,Stamford Bridge,Simon Hooper,/en/matches/b3a3df9a/Chelsea-Brighton-and-Hove-Albion-September-27-2025-Premier-League,,b3a3df9a
-ENG-Premier League,2526,2025-09-27 Crystal Palace-Liverpool,6,Sat,2025-09-27,15:00,Crystal Palace,2.9,2–1,2.1,Liverpool,25118,Selhurst Park,Chris Kavanagh,/en/matches/8a5edb7f/Crystal-Palace-Liverpool-September-27-2025-Premier-League,,8a5edb7f
-ENG-Premier League,2526,2025-09-27 Leeds United-Bournemouth,6,Sat,2025-09-27,15:00,Leeds United,1.8,2–2,0.7,Bournemouth,36574,Elland Road,Michael Oliver,/en/matches/d2fc69e6/Leeds-United-Bournemouth-September-27-2025-Premier-League,,d2fc69e6
-ENG-Premier League,2526,2025-09-27 Manchester City-Burnley,6,Sat,2025-09-27,15:00,Manchester City,2.0,5–1,0.4,Burnley,52427,Etihad Stadium,Robert Jones,/en/matches/53db8cb5/Manchester-City-Burnley-September-27-2025-Premier-League,,53db8cb5
-ENG-Premier League,2526,2025-09-27 Nott'ham Forest-Sunderland,6,Sat,2025-09-27,17:30,Nott'ham Forest,1.6,0–1,1.6,Sunderland,30226,The City Ground,Tony Harrington,/en/matches/78970349/Nottingham-Forest-Sunderland-September-27-2025-Premier-League,,78970349
-ENG-Premier League,2526,2025-09-27 Tottenham-Wolves,6,Sat,2025-09-27,20:00,Tottenham,0.8,1–1,1.1,Wolves,60537,Tottenham Hotspur Stadium,Michael Salisbury,/en/matches/116cff7d/Tottenham-Hotspur-Wolverhampton-Wanderers-September-27-2025-Premier-League,,116cff7d
-ENG-Premier League,2526,2025-09-28 Aston Villa-Fulham,6,Sun,2025-09-28,14:00,Aston Villa,1.1,3–1,1.1,Fulham,40350,Villa Park,Andy Madley,/en/matches/7345f259/Aston-Villa-Fulham-September-28-2025-Premier-League,,7345f259
-ENG-Premier League,2526,2025-09-28 Newcastle Utd-Arsenal,6,Sun,2025-09-28,16:30,Newcastle Utd,0.6,1–2,2.0,Arsenal,52199,St James' Park,Jarred Gillett,/en/matches/e851cb5c/Newcastle-United-Arsenal-September-28-2025-Premier-League,,e851cb5c
-ENG-Premier League,2526,2025-09-29 Everton-West Ham,6,Mon,2025-09-29,20:00,Everton,0.7,1–1,1.2,West Ham,51890,Hill Dickinson Stadium,Samuel Barrott,/en/matches/1163f46d/Everton-West-Ham-United-September-29-2025-Premier-League,,1163f46d
-ENG-Premier League,2526,2025-10-03 Bournemouth-Fulham,7,Fri,2025-10-03,20:00,Bournemouth,1.2,3–1,0.9,Fulham,11165,Vitality Stadium,Simon Hooper,/en/matches/200f4acc/Bournemouth-Fulham-October-3-2025-Premier-League,,200f4acc
-ENG-Premier League,2526,2025-10-04 Arsenal-West Ham,7,Sat,2025-10-04,15:00,Arsenal,2.8,2–0,0.4,West Ham,60181,Emirates Stadium,John Brooks,/en/matches/266bddc6/Arsenal-West-Ham-United-October-4-2025-Premier-League,,266bddc6
-ENG-Premier League,2526,2025-10-04 Chelsea-Liverpool,7,Sat,2025-10-04,17:30,Chelsea,1.0,2–1,1.9,Liverpool,39538,Stamford Bridge,Anthony Taylor,/en/matches/780d534e/Chelsea-Liverpool-October-4-2025-Premier-League,,780d534e
-ENG-Premier League,2526,2025-10-04 Leeds United-Tottenham,7,Sat,2025-10-04,12:30,Leeds United,1.7,1–2,0.6,Tottenham,36703,Elland Road,Thomas Bramall,/en/matches/3e588df8/Leeds-United-Tottenham-Hotspur-October-4-2025-Premier-League,,3e588df8
-ENG-Premier League,2526,2025-10-04 Manchester Utd-Sunderland,7,Sat,2025-10-04,15:00,Manchester Utd,1.8,2–0,0.7,Sunderland,74004,Old Trafford,Stuart Attwell,/en/matches/e33ea33d/Manchester-United-Sunderland-October-4-2025-Premier-League,,e33ea33d
-ENG-Premier League,2526,2025-10-05 Aston Villa-Burnley,7,Sun,2025-10-05,14:00,Aston Villa,1.1,2–1,0.4,Burnley,40308,Villa Park,Andrew Kitchen,/en/matches/db870461/Aston-Villa-Burnley-October-5-2025-Premier-League,,db870461
-ENG-Premier League,2526,2025-10-05 Brentford-Manchester City,7,Sun,2025-10-05,16:30,Brentford,0.7,0–1,0.8,Manchester City,17028,Gtech Community Stadium,Darren England,/en/matches/8c0ee359/Brentford-Manchester-City-October-5-2025-Premier-League,,8c0ee359
-ENG-Premier League,2526,2025-10-05 Everton-Crystal Palace,7,Sun,2025-10-05,14:00,Everton,2.0,2–1,1.5,Crystal Palace,51770,Hill Dickinson Stadium,Michael Salisbury,/en/matches/88e53add/Everton-Crystal-Palace-October-5-2025-Premier-League,,88e53add
-ENG-Premier League,2526,2025-10-05 Newcastle Utd-Nott'ham Forest,7,Sun,2025-10-05,14:00,Newcastle Utd,3.2,2–0,0.2,Nott'ham Forest,52189,St James' Park,Peter Bankes,/en/matches/e33f1657/Newcastle-United-Nottingham-Forest-October-5-2025-Premier-League,,e33f1657
-ENG-Premier League,2526,2025-10-05 Wolves-Brighton,7,Sun,2025-10-05,14:00,Wolves,0.6,1–1,0.9,Brighton,29504,Molineux Stadium,Jarred Gillett,/en/matches/1314f9fd/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-October-5-2025-Premier-League,,1314f9fd
-ENG-Premier League,2526,2025-10-18 Brighton-Newcastle Utd,8,Sat,2025-10-18,15:00,Brighton,0.9,2–1,1.4,Newcastle Utd,31620,The American Express Stadium,Craig Pawson,/en/matches/7c25388b/Brighton-and-Hove-Albion-Newcastle-United-October-18-2025-Premier-League,,7c25388b
-ENG-Premier League,2526,2025-10-18 Burnley-Leeds United,8,Sat,2025-10-18,15:00,Burnley,0.5,2–0,2.4,Leeds United,21646,Turf Moor,Tim Robinson,/en/matches/a31356f3/Burnley-Leeds-United-October-18-2025-Premier-League,,a31356f3
-ENG-Premier League,2526,2025-10-18 Crystal Palace-Bournemouth,8,Sat,2025-10-18,15:00,Crystal Palace,4.4,3–3,2.0,Bournemouth,25125,Selhurst Park,Jarred Gillett,/en/matches/7a0ab06b/Crystal-Palace-Bournemouth-October-18-2025-Premier-League,,7a0ab06b
-ENG-Premier League,2526,2025-10-18 Fulham-Arsenal,8,Sat,2025-10-18,17:30,Fulham,0.4,0–1,1.8,Arsenal,27736,Craven Cottage,Anthony Taylor,/en/matches/94eefc1d/Fulham-Arsenal-October-18-2025-Premier-League,,94eefc1d
-ENG-Premier League,2526,2025-10-18 Manchester City-Everton,8,Sat,2025-10-18,15:00,Manchester City,2.3,2–0,1.1,Everton,52498,Etihad Stadium,Tony Harrington,/en/matches/1340e41a/Manchester-City-Everton-October-18-2025-Premier-League,,1340e41a
-ENG-Premier League,2526,2025-10-18 Nott'ham Forest-Chelsea,8,Sat,2025-10-18,12:30,Nott'ham Forest,2.2,0–3,1.7,Chelsea,30495,The City Ground,Chris Kavanagh,/en/matches/b3ac7e40/Nottingham-Forest-Chelsea-October-18-2025-Premier-League,,b3ac7e40
-ENG-Premier League,2526,2025-10-18 Sunderland-Wolves,8,Sat,2025-10-18,15:00,Sunderland,0.6,2–0,0.8,Wolves,46578,Stadium of Light,Robert Jones,/en/matches/fe212874/Sunderland-Wolverhampton-Wanderers-October-18-2025-Premier-League,,fe212874
-ENG-Premier League,2526,2025-10-19 Liverpool-Manchester Utd,8,Sun,2025-10-19,16:30,Liverpool,2.6,1–2,1.3,Manchester Utd,60337,Anfield,Michael Oliver,/en/matches/cbec79a5/North-West-Derby-Liverpool-Manchester-United-October-19-2025-Premier-League,,cbec79a5
-ENG-Premier League,2526,2025-10-19 Tottenham-Aston Villa,8,Sun,2025-10-19,14:00,Tottenham,0.9,1–2,0.3,Aston Villa,61291,Tottenham Hotspur Stadium,Simon Hooper,/en/matches/810c0cb9/Tottenham-Hotspur-Aston-Villa-October-19-2025-Premier-League,,810c0cb9
-ENG-Premier League,2526,2025-10-20 West Ham-Brentford,8,Mon,2025-10-20,20:00,West Ham,0.4,0–2,2.3,Brentford,62452,London Stadium,Andy Madley,/en/matches/3322a47b/West-Ham-United-Brentford-October-20-2025-Premier-League,,3322a47b
-ENG-Premier League,2526,2025-10-24 Leeds United-West Ham,9,Fri,2025-10-24,20:00,Leeds United,1.5,2–1,0.6,West Ham,36788,Elland Road,Stuart Attwell,/en/matches/236e3e4c/Leeds-United-West-Ham-United-October-24-2025-Premier-League,,236e3e4c
-ENG-Premier League,2526,2025-10-25 Brentford-Liverpool,9,Sat,2025-10-25,20:00,Brentford,2.7,3–2,2.2,Liverpool,17214,Gtech Community Stadium,Simon Hooper,/en/matches/26e5ca72/Brentford-Liverpool-October-25-2025-Premier-League,,26e5ca72
-ENG-Premier League,2526,2025-10-25 Chelsea-Sunderland,9,Sat,2025-10-25,15:00,Chelsea,0.9,1–2,1.2,Sunderland,39489,Stamford Bridge,Andy Madley,/en/matches/cfda878f/Chelsea-Sunderland-October-25-2025-Premier-League,,cfda878f
-ENG-Premier League,2526,2025-10-25 Manchester Utd-Brighton,9,Sat,2025-10-25,17:30,Manchester Utd,1.3,4–2,1.1,Brighton,74124,Old Trafford,Anthony Taylor,/en/matches/a190da2c/Manchester-United-Brighton-and-Hove-Albion-October-25-2025-Premier-League,,a190da2c
-ENG-Premier League,2526,2025-10-25 Newcastle Utd-Fulham,9,Sat,2025-10-25,15:00,Newcastle Utd,2.1,2–1,1.3,Fulham,52152,St James' Park,Peter Bankes,/en/matches/0f6b6849/Newcastle-United-Fulham-October-25-2025-Premier-League,,0f6b6849
-ENG-Premier League,2526,2025-10-26 Arsenal-Crystal Palace,9,Sun,2025-10-26,14:00,Arsenal,0.9,1–0,0.5,Crystal Palace,60103,Emirates Stadium,Thomas Bramall,/en/matches/8e08b6c9/Arsenal-Crystal-Palace-October-26-2025-Premier-League,,8e08b6c9
-ENG-Premier League,2526,2025-10-26 Aston Villa-Manchester City,9,Sun,2025-10-26,14:00,Aston Villa,0.8,1–0,1.2,Manchester City,41988,Villa Park,Michael Oliver,/en/matches/2324c097/Aston-Villa-Manchester-City-October-26-2025-Premier-League,,2324c097
-ENG-Premier League,2526,2025-10-26 Bournemouth-Nott'ham Forest,9,Sun,2025-10-26,14:00,Bournemouth,0.6,2–0,0.4,Nott'ham Forest,11204,Vitality Stadium,Samuel Barrott,/en/matches/0676a57a/Bournemouth-Nottingham-Forest-October-26-2025-Premier-League,,0676a57a
-ENG-Premier League,2526,2025-10-26 Everton-Tottenham,9,Sun,2025-10-26,16:30,Everton,1.7,0–3,1.7,Tottenham,51781,Hill Dickinson Stadium,Craig Pawson,/en/matches/4234aaa9/Everton-Tottenham-Hotspur-October-26-2025-Premier-League,,4234aaa9
-ENG-Premier League,2526,2025-10-26 Wolves-Burnley,9,Sun,2025-10-26,14:00,Wolves,2.3,2–3,1.4,Burnley,29116,Molineux Stadium,Tony Harrington,/en/matches/28244556/Wolverhampton-Wanderers-Burnley-October-26-2025-Premier-League,,28244556
-ENG-Premier League,2526,2025-11-01 Brighton-Leeds United,10,Sat,2025-11-01,15:00,Brighton,3.0,3–0,0.5,Leeds United,31512,The American Express Stadium,Michael Oliver,/en/matches/40e608f4/Brighton-and-Hove-Albion-Leeds-United-November-1-2025-Premier-League,,40e608f4
-ENG-Premier League,2526,2025-11-01 Burnley-Arsenal,10,Sat,2025-11-01,15:00,Burnley,0.4,0–2,2.3,Arsenal,21538,Turf Moor,Chris Kavanagh,/en/matches/2e2f2939/Burnley-Arsenal-November-1-2025-Premier-League,,2e2f2939
-ENG-Premier League,2526,2025-11-01 Crystal Palace-Brentford,10,Sat,2025-11-01,15:00,Crystal Palace,0.7,2–0,0.5,Brentford,25083,Selhurst Park,Peter Bankes,/en/matches/96c4864b/Crystal-Palace-Brentford-November-1-2025-Premier-League,,96c4864b
-ENG-Premier League,2526,2025-11-01 Fulham-Wolves,10,Sat,2025-11-01,15:00,Fulham,1.3,3–0,0.2,Wolves,26413,Craven Cottage,John Brooks,/en/matches/03f6bccd/Fulham-Wolverhampton-Wanderers-November-1-2025-Premier-League,,03f6bccd
-ENG-Premier League,2526,2025-11-01 Liverpool-Aston Villa,10,Sat,2025-11-01,20:00,Liverpool,1.2,2–0,0.4,Aston Villa,60407,Anfield,Stuart Attwell,/en/matches/c15115cb/Liverpool-Aston-Villa-November-1-2025-Premier-League,,c15115cb
-ENG-Premier League,2526,2025-11-01 Nott'ham Forest-Manchester Utd,10,Sat,2025-11-01,15:00,Nott'ham Forest,1.9,2–2,1.2,Manchester Utd,30778,The City Ground,Darren England,/en/matches/6f99be65/Nottingham-Forest-Manchester-United-November-1-2025-Premier-League,,6f99be65
-ENG-Premier League,2526,2025-11-01 Tottenham-Chelsea,10,Sat,2025-11-01,17:30,Tottenham,0.1,0–1,3.7,Chelsea,61202,Tottenham Hotspur Stadium,Jarred Gillett,/en/matches/cb498e0b/Tottenham-Hotspur-Chelsea-November-1-2025-Premier-League,,cb498e0b
-ENG-Premier League,2526,2025-11-02 Manchester City-Bournemouth,10,Sun,2025-11-02,16:30,Manchester City,2.2,3–1,0.6,Bournemouth,52387,Etihad Stadium,Anthony Taylor,/en/matches/cc77588b/Manchester-City-Bournemouth-November-2-2025-Premier-League,,cc77588b
-ENG-Premier League,2526,2025-11-02 West Ham-Newcastle Utd,10,Sun,2025-11-02,14:00,West Ham,1.7,3–1,0.5,Newcastle Utd,62441,London Stadium,Robert Jones,/en/matches/55587dfc/West-Ham-United-Newcastle-United-November-2-2025-Premier-League,,55587dfc
-ENG-Premier League,2526,2025-11-03 Sunderland-Everton,10,Mon,2025-11-03,20:00,Sunderland,1.2,1–1,0.9,Everton,41476,Stadium of Light,Thomas Bramall,/en/matches/bb37daa2/Sunderland-Everton-November-3-2025-Premier-League,,bb37daa2
-ENG-Premier League,2526,2025-11-08 Chelsea-Wolves,11,Sat,2025-11-08,20:00,Chelsea,3.3,3–0,0.2,Wolves,39467,Stamford Bridge,Andrew Kitchen,/en/matches/098d4b9c/Chelsea-Wolverhampton-Wanderers-November-8-2025-Premier-League,,098d4b9c
-ENG-Premier League,2526,2025-11-08 Everton-Fulham,11,Sat,2025-11-08,15:00,Everton,1.4,2–0,0.4,Fulham,52491,Hill Dickinson Stadium,Andy Madley,/en/matches/0e46b968/Everton-Fulham-November-8-2025-Premier-League,,0e46b968
-ENG-Premier League,2526,2025-11-08 Sunderland-Arsenal,11,Sat,2025-11-08,17:30,Sunderland,0.4,2–2,1.9,Arsenal,46799,Stadium of Light,Craig Pawson,/en/matches/34884979/Sunderland-Arsenal-November-8-2025-Premier-League,,34884979
-ENG-Premier League,2526,2025-11-08 Tottenham-Manchester Utd,11,Sat,2025-11-08,12:30,Tottenham,0.9,2–2,0.8,Manchester Utd,61210,Tottenham Hotspur Stadium,Samuel Barrott,/en/matches/ad74e791/Tottenham-Hotspur-Manchester-United-November-8-2025-Premier-League,,ad74e791
-ENG-Premier League,2526,2025-11-08 West Ham-Burnley,11,Sat,2025-11-08,15:00,West Ham,3.0,3–2,1.0,Burnley,62449,London Stadium,Michael Salisbury,/en/matches/9a904d13/West-Ham-United-Burnley-November-8-2025-Premier-League,,9a904d13
-ENG-Premier League,2526,2025-11-09 Aston Villa-Bournemouth,11,Sun,2025-11-09,14:00,Aston Villa,1.7,4–0,1.6,Bournemouth,40792,Villa Park,John Brooks,/en/matches/b333094b/Aston-Villa-Bournemouth-November-9-2025-Premier-League,,b333094b
-ENG-Premier League,2526,2025-11-09 Brentford-Newcastle Utd,11,Sun,2025-11-09,14:00,Brentford,2.3,3–1,0.4,Newcastle Utd,17207,Gtech Community Stadium,Stuart Attwell,/en/matches/7398b723/Brentford-Newcastle-United-November-9-2025-Premier-League,,7398b723
-ENG-Premier League,2526,2025-11-09 Crystal Palace-Brighton,11,Sun,2025-11-09,14:00,Crystal Palace,0.7,0–0,0.4,Brighton,24326,Selhurst Park,Tim Robinson,/en/matches/d6740601/Crystal-Palace-Brighton-and-Hove-Albion-November-9-2025-Premier-League,,d6740601
-ENG-Premier League,2526,2025-11-09 Manchester City-Liverpool,11,Sun,2025-11-09,16:30,Manchester City,1.5,3–0,0.7,Liverpool,52432,Etihad Stadium,Chris Kavanagh,/en/matches/a126a64c/Manchester-City-Liverpool-November-9-2025-Premier-League,,a126a64c
-ENG-Premier League,2526,2025-11-09 Nott'ham Forest-Leeds United,11,Sun,2025-11-09,14:00,Nott'ham Forest,2.5,3–1,0.7,Leeds United,30708,The City Ground,Jarred Gillett,/en/matches/c2217a56/Nottingham-Forest-Leeds-United-November-9-2025-Premier-League,,c2217a56
-ENG-Premier League,2526,2025-11-22 Bournemouth-West Ham,12,Sat,2025-11-22,15:00,Bournemouth,3.9,2–2,0.6,West Ham,11216,Vitality Stadium,Thomas Bramall,/en/matches/f5c9621e/Bournemouth-West-Ham-United-November-22-2025-Premier-League,,f5c9621e
-ENG-Premier League,2526,2025-11-22 Brighton-Brentford,12,Sat,2025-11-22,15:00,Brighton,1.2,2–1,2.0,Brentford,31458,The American Express Stadium,Chris Kavanagh,/en/matches/3ad15355/Brighton-and-Hove-Albion-Brentford-November-22-2025-Premier-League,,3ad15355
-ENG-Premier League,2526,2025-11-22 Burnley-Chelsea,12,Sat,2025-11-22,12:30,Burnley,0.4,0–2,1.7,Chelsea,21499,Turf Moor,Peter Bankes,/en/matches/43c673dd/Burnley-Chelsea-November-22-2025-Premier-League,,43c673dd
-ENG-Premier League,2526,2025-11-22 Fulham-Sunderland,12,Sat,2025-11-22,15:00,Fulham,2.1,1–0,0.2,Sunderland,27560,Craven Cottage,Darren England,/en/matches/5cd7ef12/Fulham-Sunderland-November-22-2025-Premier-League,,5cd7ef12
-ENG-Premier League,2526,2025-11-22 Liverpool-Nott'ham Forest,12,Sat,2025-11-22,15:00,Liverpool,1.9,0–3,1.6,Nott'ham Forest,60419,Anfield,Andy Madley,/en/matches/2180fc9b/Liverpool-Nottingham-Forest-November-22-2025-Premier-League,,2180fc9b
-ENG-Premier League,2526,2025-11-22 Newcastle Utd-Manchester City,12,Sat,2025-11-22,17:30,Newcastle Utd,2.3,2–1,2.5,Manchester City,52181,St James' Park,Samuel Barrott,/en/matches/efd005dc/Newcastle-United-Manchester-City-November-22-2025-Premier-League,,efd005dc
-ENG-Premier League,2526,2025-11-22 Wolves-Crystal Palace,12,Sat,2025-11-22,15:00,Wolves,1.8,0–2,1.3,Crystal Palace,29976,Molineux Stadium,Anthony Taylor,/en/matches/c90ed936/Wolverhampton-Wanderers-Crystal-Palace-November-22-2025-Premier-League,,c90ed936
-ENG-Premier League,2526,2025-11-23 Arsenal-Tottenham,12,Sun,2025-11-23,16:30,Arsenal,1.9,4–1,0.1,Tottenham,60345,Emirates Stadium,Michael Oliver,/en/matches/51a5792d/North-London-Derby-Arsenal-Tottenham-Hotspur-November-23-2025-Premier-League,,51a5792d
-ENG-Premier League,2526,2025-11-23 Leeds United-Aston Villa,12,Sun,2025-11-23,14:00,Leeds United,1.6,1–2,1.6,Aston Villa,36819,Elland Road,Robert Jones,/en/matches/53a69c4e/Leeds-United-Aston-Villa-November-23-2025-Premier-League,,53a69c4e
-ENG-Premier League,2526,2025-11-24 Manchester Utd-Everton,12,Mon,2025-11-24,20:00,Manchester Utd,1.7,0–1,0.2,Everton,74158,Old Trafford,Tony Harrington,/en/matches/69a9c9a3/Manchester-United-Everton-November-24-2025-Premier-League,,69a9c9a3
-ENG-Premier League,2526,2025-11-29 Brentford-Burnley,13,Sat,2025-11-29,15:00,Brentford,3.0,3–1,0.9,Burnley,17176,Gtech Community Stadium,Samuel Barrott,/en/matches/5615f800/Brentford-Burnley-November-29-2025-Premier-League,,5615f800
-ENG-Premier League,2526,2025-11-29 Everton-Newcastle Utd,13,Sat,2025-11-29,17:30,Everton,1.0,1–4,1.8,Newcastle Utd,52489,Hill Dickinson Stadium,Craig Pawson,/en/matches/1e17ace9/Everton-Newcastle-United-November-29-2025-Premier-League,,1e17ace9
-ENG-Premier League,2526,2025-11-29 Manchester City-Leeds United,13,Sat,2025-11-29,15:00,Manchester City,2.6,3–2,1.5,Leeds United,52483,Etihad Stadium,Peter Bankes,/en/matches/bfa73051/Manchester-City-Leeds-United-November-29-2025-Premier-League,,bfa73051
-ENG-Premier League,2526,2025-11-29 Sunderland-Bournemouth,13,Sat,2025-11-29,15:00,Sunderland,1.5,3–2,1.7,Bournemouth,46973,Stadium of Light,Tim Robinson,/en/matches/e118da78/Sunderland-Bournemouth-November-29-2025-Premier-League,,e118da78
-ENG-Premier League,2526,2025-11-29 Tottenham-Fulham,13,Sat,2025-11-29,20:00,Tottenham,0.9,1–2,0.4,Fulham,60546,Tottenham Hotspur Stadium,Stuart Attwell,/en/matches/34e802eb/Tottenham-Hotspur-Fulham-November-29-2025-Premier-League,,34e802eb
-ENG-Premier League,2526,2025-11-30 Aston Villa-Wolves,13,Sun,2025-11-30,14:05,Aston Villa,0.9,1–0,0.4,Wolves,42139,Villa Park,Chris Kavanagh,/en/matches/117c4cab/Aston-Villa-Wolverhampton-Wanderers-November-30-2025-Premier-League,,117c4cab
-ENG-Premier League,2526,2025-11-30 Chelsea-Arsenal,13,Sun,2025-11-30,16:30,Chelsea,0.8,1–1,1.0,Arsenal,39820,Stamford Bridge,Anthony Taylor,/en/matches/455c69b8/North-West-London-Derby-Chelsea-Arsenal-November-30-2025-Premier-League,,455c69b8
-ENG-Premier League,2526,2025-11-30 Crystal Palace-Manchester Utd,13,Sun,2025-11-30,12:00,Crystal Palace,1.8,1–2,1.2,Manchester Utd,25189,Selhurst Park,Robert Jones,/en/matches/6857b94e/Crystal-Palace-Manchester-United-November-30-2025-Premier-League,,6857b94e
-ENG-Premier League,2526,2025-11-30 Nott'ham Forest-Brighton,13,Sun,2025-11-30,14:05,Nott'ham Forest,0.9,0–2,1.9,Brighton,30522,The City Ground,Michael Oliver,/en/matches/2d580ed7/Nottingham-Forest-Brighton-and-Hove-Albion-November-30-2025-Premier-League,,2d580ed7
-ENG-Premier League,2526,2025-11-30 West Ham-Liverpool,13,Sun,2025-11-30,14:05,West Ham,0.3,0–2,1.2,Liverpool,62469,London Stadium,Darren England,/en/matches/090b47a6/West-Ham-United-Liverpool-November-30-2025-Premier-League,,090b47a6
-ENG-Premier League,2526,2025-12-02 Bournemouth-Everton,14,Tue,2025-12-02,19:30,Bournemouth,0.5,0–1,1.4,Everton,11161,Vitality Stadium,Michael Salisbury,/en/matches/6e2749c6/Bournemouth-Everton-December-2-2025-Premier-League,,6e2749c6
-ENG-Premier League,2526,2025-12-02 Fulham-Manchester City,14,Tue,2025-12-02,19:30,Fulham,0.9,4–5,2.3,Manchester City,26700,Craven Cottage,Craig Pawson,/en/matches/83f0391d/Fulham-Manchester-City-December-2-2025-Premier-League,,83f0391d
-ENG-Premier League,2526,2025-12-02 Newcastle Utd-Tottenham,14,Tue,2025-12-02,20:15,Newcastle Utd,2.0,2–2,0.7,Tottenham,52007,St James' Park,Thomas Bramall,/en/matches/7c5f15be/Newcastle-United-Tottenham-Hotspur-December-2-2025-Premier-League,,7c5f15be
-ENG-Premier League,2526,2025-12-03 Arsenal-Brentford,14,Wed,2025-12-03,19:30,Arsenal,1.8,2–0,0.3,Brentford,60110,Emirates Stadium,Tony Harrington,/en/matches/576f681d/Arsenal-Brentford-December-3-2025-Premier-League,,576f681d
-ENG-Premier League,2526,2025-12-03 Brighton-Aston Villa,14,Wed,2025-12-03,19:30,Brighton,1.9,3–4,2.3,Aston Villa,31247,The American Express Stadium,Andy Madley,/en/matches/96d69898/Brighton-and-Hove-Albion-Aston-Villa-December-3-2025-Premier-League,,96d69898
-ENG-Premier League,2526,2025-12-03 Burnley-Crystal Palace,14,Wed,2025-12-03,19:30,Burnley,0.9,0–1,0.7,Crystal Palace,19365,Turf Moor,Thomas Kirk,/en/matches/9f1131fe/Burnley-Crystal-Palace-December-3-2025-Premier-League,,9f1131fe
-ENG-Premier League,2526,2025-12-03 Leeds United-Chelsea,14,Wed,2025-12-03,20:15,Leeds United,2.3,3–1,0.9,Chelsea,36767,Elland Road,Darren England,/en/matches/6218f36c/Leeds-United-Chelsea-December-3-2025-Premier-League,,6218f36c
-ENG-Premier League,2526,2025-12-03 Liverpool-Sunderland,14,Wed,2025-12-03,20:15,Liverpool,1.4,1–1,0.4,Sunderland,60146,Anfield,Stuart Attwell,/en/matches/1666070b/Liverpool-Sunderland-December-3-2025-Premier-League,,1666070b
-ENG-Premier League,2526,2025-12-03 Wolves-Nott'ham Forest,14,Wed,2025-12-03,19:30,Wolves,0.9,0–1,0.7,Nott'ham Forest,28646,Molineux Stadium,Tim Robinson,/en/matches/6f03844a/Wolverhampton-Wanderers-Nottingham-Forest-December-3-2025-Premier-League,,6f03844a
-ENG-Premier League,2526,2025-12-04 Manchester Utd-West Ham,14,Thu,2025-12-04,20:00,Manchester Utd,1.8,1–1,0.8,West Ham,73938,Old Trafford,Andrew Kitchen,/en/matches/66fee216/Manchester-United-West-Ham-United-December-4-2025-Premier-League,,66fee216
-ENG-Premier League,2526,2025-12-06 Aston Villa-Arsenal,15,Sat,2025-12-06,12:30,Aston Villa,2.1,2–1,1.9,Arsenal,42888,Villa Park,Peter Bankes,/en/matches/f6d068df/Aston-Villa-Arsenal-December-6-2025-Premier-League,,f6d068df
-ENG-Premier League,2526,2025-12-06 Bournemouth-Chelsea,15,Sat,2025-12-06,15:00,Bournemouth,1.5,0–0,0.9,Chelsea,11240,Vitality Stadium,Michael Oliver,/en/matches/c6875359/Bournemouth-Chelsea-December-6-2025-Premier-League,,c6875359
-ENG-Premier League,2526,2025-12-06 Everton-Nott'ham Forest,15,Sat,2025-12-06,15:00,Everton,1.1,3–0,0.5,Nott'ham Forest,52501,Hill Dickinson Stadium,Chris Kavanagh,/en/matches/cbe24427/Everton-Nottingham-Forest-December-6-2025-Premier-League,,cbe24427
-ENG-Premier League,2526,2025-12-06 Leeds United-Liverpool,15,Sat,2025-12-06,17:30,Leeds United,1.6,3–3,1.9,Liverpool,36842,Elland Road,Anthony Taylor,/en/matches/c0fc0aac/Leeds-United-Liverpool-December-6-2025-Premier-League,,c0fc0aac
-ENG-Premier League,2526,2025-12-06 Manchester City-Sunderland,15,Sat,2025-12-06,15:00,Manchester City,2.4,3–0,0.7,Sunderland,52436,Etihad Stadium,Andy Madley,/en/matches/1f7cfc5f/Manchester-City-Sunderland-December-6-2025-Premier-League,,1f7cfc5f
-ENG-Premier League,2526,2025-12-06 Newcastle Utd-Burnley,15,Sat,2025-12-06,15:00,Newcastle Utd,1.8,2–1,1.6,Burnley,52041,St James' Park,Stuart Attwell,/en/matches/e5ed4270/Newcastle-United-Burnley-December-6-2025-Premier-League,,e5ed4270
-ENG-Premier League,2526,2025-12-06 Tottenham-Brentford,15,Sat,2025-12-06,15:00,Tottenham,2.2,2–0,0.2,Brentford,60759,Tottenham Hotspur Stadium,Robert Jones,/en/matches/9a4fd973/Tottenham-Hotspur-Brentford-December-6-2025-Premier-League,,9a4fd973
-ENG-Premier League,2526,2025-12-07 Brighton-West Ham,15,Sun,2025-12-07,14:00,Brighton,1.8,1–1,1.2,West Ham,31293,The American Express Stadium,Simon Hooper,/en/matches/e5c1f07b/Brighton-and-Hove-Albion-West-Ham-United-December-7-2025-Premier-League,,e5c1f07b
-ENG-Premier League,2526,2025-12-07 Fulham-Crystal Palace,15,Sun,2025-12-07,16:30,Fulham,0.8,1–2,1.6,Crystal Palace,27283,Craven Cottage,Samuel Barrott,/en/matches/c0ececfd/Fulham-Crystal-Palace-December-7-2025-Premier-League,,c0ececfd
-ENG-Premier League,2526,2025-12-08 Wolves-Manchester Utd,15,Mon,2025-12-08,20:00,Wolves,0.6,1–4,4.0,Manchester Utd,30338,Molineux Stadium,Michael Salisbury,/en/matches/d52338cb/Wolverhampton-Wanderers-Manchester-United-December-8-2025-Premier-League,,d52338cb
-ENG-Premier League,2526,2025-12-13 Arsenal-Wolves,16,Sat,2025-12-13,20:00,Arsenal,1.1,2–1,0.3,Wolves,60242,Emirates Stadium,Robert Jones,/en/matches/5914e624/Arsenal-Wolverhampton-Wanderers-December-13-2025-Premier-League,,5914e624
-ENG-Premier League,2526,2025-12-13 Burnley-Fulham,16,Sat,2025-12-13,17:30,Burnley,2.4,2–3,2.0,Fulham,19739,Turf Moor,Michael Oliver,/en/matches/993fe4a5/Burnley-Fulham-December-13-2025-Premier-League,,993fe4a5
-ENG-Premier League,2526,2025-12-13 Chelsea-Everton,16,Sat,2025-12-13,15:00,Chelsea,2.2,2–0,1.0,Everton,39552,Stamford Bridge,Thomas Bramall,/en/matches/33f5c26d/Chelsea-Everton-December-13-2025-Premier-League,,33f5c26d
-ENG-Premier League,2526,2025-12-13 Liverpool-Brighton,16,Sat,2025-12-13,15:00,Liverpool,1.8,2–0,1.9,Brighton,60429,Anfield,Craig Pawson,/en/matches/9b6b7eac/Liverpool-Brighton-and-Hove-Albion-December-13-2025-Premier-League,,9b6b7eac
-ENG-Premier League,2526,2025-12-14 Brentford-Leeds United,16,Sun,2025-12-14,16:30,Brentford,0.6,1–1,1.5,Leeds United,17159,Gtech Community Stadium,John Brooks,/en/matches/68c62e00/Brentford-Leeds-United-December-14-2025-Premier-League,,68c62e00
-ENG-Premier League,2526,2025-12-14 Crystal Palace-Manchester City,16,Sun,2025-12-14,14:00,Crystal Palace,1.9,0–3,1.2,Manchester City,25166,Selhurst Park,Darren England,/en/matches/88d54a65/Crystal-Palace-Manchester-City-December-14-2025-Premier-League,,88d54a65
-ENG-Premier League,2526,2025-12-14 Nott'ham Forest-Tottenham,16,Sun,2025-12-14,14:00,Nott'ham Forest,2.3,3–0,0.3,Tottenham,30579,The City Ground,Samuel Barrott,/en/matches/30741081/Nottingham-Forest-Tottenham-Hotspur-December-14-2025-Premier-League,,30741081
-ENG-Premier League,2526,2025-12-14 Sunderland-Newcastle Utd,16,Sun,2025-12-14,14:00,Sunderland,0.3,1–0,0.2,Newcastle Utd,47158,Stadium of Light,Peter Bankes,/en/matches/f0108982/Sunderland-Newcastle-United-December-14-2025-Premier-League,,f0108982
-ENG-Premier League,2526,2025-12-14 West Ham-Aston Villa,16,Sun,2025-12-14,14:00,West Ham,1.0,2–3,0.7,Aston Villa,62447,London Stadium,Anthony Taylor,/en/matches/88b3c085/West-Ham-United-Aston-Villa-December-14-2025-Premier-League,,88b3c085
-ENG-Premier League,2526,2025-12-15 Manchester Utd-Bournemouth,16,Mon,2025-12-15,20:00,Manchester Utd,3.4,4–4,1.9,Bournemouth,73951,Old Trafford,Simon Hooper,/en/matches/fe812068/Manchester-United-Bournemouth-December-15-2025-Premier-League,,fe812068
-ENG-Premier League,2526,2025-12-20 Bournemouth-Burnley,17,Sat,2025-12-20,15:00,Bournemouth,1.4,1–1,0.4,Burnley,10762,Vitality Stadium,Chris Kavanagh,/en/matches/f248c97b/Bournemouth-Burnley-December-20-2025-Premier-League,,f248c97b
-ENG-Premier League,2526,2025-12-20 Brighton-Sunderland,17,Sat,2025-12-20,15:00,Brighton,1.1,0–0,1.4,Sunderland,31426,The American Express Stadium,Darren England,/en/matches/8751f2e2/Brighton-and-Hove-Albion-Sunderland-December-20-2025-Premier-League,,8751f2e2
-ENG-Premier League,2526,2025-12-20 Everton-Arsenal,17,Sat,2025-12-20,20:00,Everton,0.2,0–1,2.0,Arsenal,52513,Hill Dickinson Stadium,Samuel Barrott,/en/matches/9bf2aba0/Everton-Arsenal-December-20-2025-Premier-League,,9bf2aba0
-ENG-Premier League,2526,2025-12-20 Leeds United-Crystal Palace,17,Sat,2025-12-20,20:00,Leeds United,2.6,4–1,1.6,Crystal Palace,36334,Elland Road,Thomas Bramall,/en/matches/a105af33/Leeds-United-Crystal-Palace-December-20-2025-Premier-League,,a105af33
-ENG-Premier League,2526,2025-12-20 Manchester City-West Ham,17,Sat,2025-12-20,15:00,Manchester City,2.1,3–0,1.1,West Ham,52454,Etihad Stadium,Paul Tierney,/en/matches/56b82593/Manchester-City-West-Ham-United-December-20-2025-Premier-League,,56b82593
-ENG-Premier League,2526,2025-12-20 Newcastle Utd-Chelsea,17,Sat,2025-12-20,12:30,Newcastle Utd,2.3,2–2,1.2,Chelsea,52226,St James' Park,Andy Madley,/en/matches/4972e40c/Newcastle-United-Chelsea-December-20-2025-Premier-League,,4972e40c
-ENG-Premier League,2526,2025-12-20 Tottenham-Liverpool,17,Sat,2025-12-20,17:30,Tottenham,1.0,1–2,0.7,Liverpool,61138,Tottenham Hotspur Stadium,John Brooks,/en/matches/30618752/Tottenham-Hotspur-Liverpool-December-20-2025-Premier-League,,30618752
-ENG-Premier League,2526,2025-12-20 Wolves-Brentford,17,Sat,2025-12-20,15:00,Wolves,1.3,0–2,1.3,Brentford,27662,Molineux Stadium,Matt Donohue,/en/matches/3c79be9f/Wolverhampton-Wanderers-Brentford-December-20-2025-Premier-League,,3c79be9f
-ENG-Premier League,2526,2025-12-21 Aston Villa-Manchester Utd,17,Sun,2025-12-21,16:30,Aston Villa,1.2,2–1,1.3,Manchester Utd,43157,Villa Park,Michael Oliver,/en/matches/0da8e4de/Aston-Villa-Manchester-United-December-21-2025-Premier-League,,0da8e4de
-ENG-Premier League,2526,2025-12-22 Fulham-Nott'ham Forest,17,Mon,2025-12-22,20:00,Fulham,1.5,1–0,0.7,Nott'ham Forest,26647,Craven Cottage,Anthony Taylor,/en/matches/23ee8b09/Fulham-Nottingham-Forest-December-22-2025-Premier-League,,23ee8b09
-ENG-Premier League,2526,2025-12-26 Manchester Utd-Newcastle Utd,18,Fri,2025-12-26,20:00,Manchester Utd,1.3,1–0,1.2,Newcastle Utd,,Old Trafford,Anthony Taylor,/en/matches/aff462b8/Manchester-United-Newcastle-United-December-26-2025-Premier-League,,aff462b8
-ENG-Premier League,2526,2025-12-27 Arsenal-Brighton,18,Sat,2025-12-27,15:00,Arsenal,2.7,2–1,0.8,Brighton,60209,Emirates Stadium,John Brooks,/en/matches/ad61fc31/Arsenal-Brighton-and-Hove-Albion-December-27-2025-Premier-League,,ad61fc31
-ENG-Premier League,2526,2025-12-27 Brentford-Bournemouth,18,Sat,2025-12-27,15:00,Brentford,3.5,4–1,2.3,Bournemouth,17152,Gtech Community Stadium,Peter Bankes,/en/matches/512bb3b3/Brentford-Bournemouth-December-27-2025-Premier-League,,512bb3b3
-ENG-Premier League,2526,2025-12-27 Burnley-Everton,18,Sat,2025-12-27,15:00,Burnley,1.4,0–0,0.8,Everton,21637,Turf Moor,Craig Pawson,/en/matches/8f2a6c20/Burnley-Everton-December-27-2025-Premier-League,,8f2a6c20
-ENG-Premier League,2526,2025-12-27 Chelsea-Aston Villa,18,Sat,2025-12-27,17:30,Chelsea,2.1,1–2,1.2,Aston Villa,39765,Stamford Bridge,Stuart Attwell,/en/matches/3ddb49f0/Chelsea-Aston-Villa-December-27-2025-Premier-League,,3ddb49f0
-ENG-Premier League,2526,2025-12-27 Liverpool-Wolves,18,Sat,2025-12-27,15:00,Liverpool,1.5,2–1,1.2,Wolves,60466,Anfield,Simon Hooper,/en/matches/b329ca7b/Liverpool-Wolverhampton-Wanderers-December-27-2025-Premier-League,,b329ca7b
-ENG-Premier League,2526,2025-12-27 Nott'ham Forest-Manchester City,18,Sat,2025-12-27,12:30,Nott'ham Forest,0.6,1–2,1.5,Manchester City,30778,The City Ground,Robert Jones,/en/matches/8d38f2e5/Nottingham-Forest-Manchester-City-December-27-2025-Premier-League,,8d38f2e5
-ENG-Premier League,2526,2025-12-27 West Ham-Fulham,18,Sat,2025-12-27,15:00,West Ham,0.9,0–1,1.5,Fulham,62464,London Stadium,Chris Kavanagh,/en/matches/424b7408/West-Ham-United-Fulham-December-27-2025-Premier-League,,424b7408
-ENG-Premier League,2526,2025-12-28 Crystal Palace-Tottenham,18,Sun,2025-12-28,16:30,Crystal Palace,1.5,0–1,0.8,Tottenham,25186,Selhurst Park,Jarred Gillett,/en/matches/da05abe0/Crystal-Palace-Tottenham-Hotspur-December-28-2025-Premier-League,,da05abe0
-ENG-Premier League,2526,2025-12-28 Sunderland-Leeds United,18,Sun,2025-12-28,14:00,Sunderland,0.7,1–1,2.2,Leeds United,46675,Stadium of Light,Tony Harrington,/en/matches/9c510880/Sunderland-Leeds-United-December-28-2025-Premier-League,,9c510880
-ENG-Premier League,2526,2025-12-30 Arsenal-Aston Villa,19,Tue,2025-12-30,20:15,Arsenal,2.9,4–1,2.5,Aston Villa,60279,Emirates Stadium,Darren England,/en/matches/89b4ea51/Arsenal-Aston-Villa-December-30-2025-Premier-League,,89b4ea51
-ENG-Premier League,2526,2025-12-30 Burnley-Newcastle Utd,19,Tue,2025-12-30,19:30,Burnley,1.1,1–3,2.3,Newcastle Utd,21020,Turf Moor,Robert Jones,/en/matches/7e8f51ca/Burnley-Newcastle-United-December-30-2025-Premier-League,,7e8f51ca
-ENG-Premier League,2526,2025-12-30 Chelsea-Bournemouth,19,Tue,2025-12-30,19:30,Chelsea,2.3,2–2,3.0,Bournemouth,39765,Stamford Bridge,Samuel Barrott,/en/matches/6abcb6e9/Chelsea-Bournemouth-December-30-2025-Premier-League,,6abcb6e9
-ENG-Premier League,2526,2025-12-30 Manchester Utd-Wolves,19,Tue,2025-12-30,20:15,Manchester Utd,0.8,1–1,1.2,Wolves,,Old Trafford,Thomas Bramall,/en/matches/bf3cb7a6/Manchester-United-Wolverhampton-Wanderers-December-30-2025-Premier-League,,bf3cb7a6
-ENG-Premier League,2526,2025-12-30 Nott'ham Forest-Everton,19,Tue,2025-12-30,19:30,Nott'ham Forest,1.5,0–2,1.3,Everton,30617,The City Ground,Michael Oliver,/en/matches/9e232624/Nottingham-Forest-Everton-December-30-2025-Premier-League,,9e232624
-ENG-Premier League,2526,2025-12-30 West Ham-Brighton,19,Tue,2025-12-30,19:30,West Ham,1.9,2–2,2.9,Brighton,62464,London Stadium,Michael Salisbury,/en/matches/2ed2a547/West-Ham-United-Brighton-and-Hove-Albion-December-30-2025-Premier-League,,2ed2a547
-ENG-Premier League,2526,2026-01-01 Brentford-Tottenham,19,Thu,2026-01-01,20:00,Brentford,0.9,0–0,0.8,Tottenham,17141,Gtech Community Stadium,Andy Madley,/en/matches/560a0a6c/Brentford-Tottenham-Hotspur-January-1-2026-Premier-League,,560a0a6c
-ENG-Premier League,2526,2026-01-01 Crystal Palace-Fulham,19,Thu,2026-01-01,17:30,Crystal Palace,1.9,1–1,1.7,Fulham,25111,Selhurst Park,Tony Harrington,/en/matches/08780759/Crystal-Palace-Fulham-January-1-2026-Premier-League,,08780759
-ENG-Premier League,2526,2026-01-01 Liverpool-Leeds United,19,Thu,2026-01-01,17:30,Liverpool,2.1,0–0,0.7,Leeds United,60343,Anfield,Chris Kavanagh,/en/matches/148c23a6/Liverpool-Leeds-United-January-1-2026-Premier-League,,148c23a6
-ENG-Premier League,2526,2026-01-01 Sunderland-Manchester City,19,Thu,2026-01-01,20:00,Sunderland,0.9,0–0,2.1,Manchester City,46920,Stadium of Light,Jarred Gillett,/en/matches/3f843d94/Sunderland-Manchester-City-January-1-2026-Premier-League,,3f843d94
-ENG-Premier League,2526,2026-01-03 Aston Villa-Nott'ham Forest,20,Sat,2026-01-03,12:30,Aston Villa,1.7,3–1,0.9,Nott'ham Forest,43039,Villa Park,Simon Hooper,/en/matches/4ef85729/Aston-Villa-Nottingham-Forest-January-3-2026-Premier-League,,4ef85729
-ENG-Premier League,2526,2026-01-03 Bournemouth-Arsenal,20,Sat,2026-01-03,17:30,Bournemouth,1.4,2–3,1.1,Arsenal,11240,Vitality Stadium,Chris Kavanagh,/en/matches/db124c87/Bournemouth-Arsenal-January-3-2026-Premier-League,,db124c87
-ENG-Premier League,2526,2026-01-03 Brighton-Burnley,20,Sat,2026-01-03,15:00,Brighton,1.4,2–0,0.3,Burnley,31373,The American Express Stadium,Tim Robinson,/en/matches/987e9f89/Brighton-and-Hove-Albion-Burnley-January-3-2026-Premier-League,,987e9f89
-ENG-Premier League,2526,2026-01-03 Wolves-West Ham,20,Sat,2026-01-03,15:00,Wolves,1.9,3–0,0.3,West Ham,29874,Molineux Stadium,Peter Bankes,/en/matches/9364f40b/Wolverhampton-Wanderers-West-Ham-United-January-3-2026-Premier-League,,9364f40b
-ENG-Premier League,2526,2026-01-04 Everton-Brentford,20,Sun,2026-01-04,15:00,Everton,0.9,2–4,2.7,Brentford,,Hill Dickinson Stadium,Anthony Taylor,/en/matches/a67dd0e7/Everton-Brentford-January-4-2026-Premier-League,,a67dd0e7
-ENG-Premier League,2526,2026-01-04 Fulham-Liverpool,20,Sun,2026-01-04,15:15,Fulham,0.7,2–2,1.4,Liverpool,27547,Craven Cottage,Craig Pawson,/en/matches/a5b3e9ba/Fulham-Liverpool-January-4-2026-Premier-League,,a5b3e9ba
-ENG-Premier League,2526,2026-01-04 Leeds United-Manchester Utd,20,Sun,2026-01-04,12:30,Leeds United,0.9,1–1,1.6,Manchester Utd,36909,Elland Road,Jarred Gillett,/en/matches/7ecdefc0/Leeds-United-Manchester-United-January-4-2026-Premier-League,,7ecdefc0
-ENG-Premier League,2526,2026-01-04 Manchester City-Chelsea,20,Sun,2026-01-04,17:30,Manchester City,1.0,1–1,1.8,Chelsea,,Etihad Stadium,Michael Oliver,/en/matches/989daed4/Manchester-City-Chelsea-January-4-2026-Premier-League,,989daed4
-ENG-Premier League,2526,2026-01-04 Newcastle Utd-Crystal Palace,20,Sun,2026-01-04,15:00,Newcastle Utd,2.1,2–0,0.7,Crystal Palace,51979,St James' Park,John Brooks,/en/matches/b4262b3c/Newcastle-United-Crystal-Palace-January-4-2026-Premier-League,,b4262b3c
-ENG-Premier League,2526,2026-01-04 Tottenham-Sunderland,20,Sun,2026-01-04,15:00,Tottenham,1.1,1–1,0.4,Sunderland,60877,Tottenham Hotspur Stadium,Stuart Attwell,/en/matches/06bb7d71/Tottenham-Hotspur-Sunderland-January-4-2026-Premier-League,,06bb7d71
+league,season,game,round,week,date,Home,Away,xG_home,xG_away,game_id
+ENG-Premier League,2526,2025-08-15 Liverpool-Bournemouth,1,1,2025-08-15 19:00:00+00:00,Liverpool,Bournemouth,4.0,2.0,14025013
+ENG-Premier League,2526,2025-08-16 Aston Villa-Newcastle United,1,1,2025-08-16 11:30:00+00:00,Aston Villa,Newcastle United,0.0,0.0,14025016
+ENG-Premier League,2526,2025-08-16 Brighton & Hove Albion-Fulham,1,1,2025-08-16 14:00:00+00:00,Brighton & Hove Albion,Fulham,1.0,1.0,14025020
+ENG-Premier League,2526,2025-08-16 Sunderland-West Ham United,1,1,2025-08-16 14:00:00+00:00,Sunderland,West Ham United,3.0,0.0,14025038
+ENG-Premier League,2526,2025-08-16 Tottenham Hotspur-Burnley,1,1,2025-08-16 14:00:00+00:00,Tottenham Hotspur,Burnley,3.0,0.0,14025047
+ENG-Premier League,2526,2025-08-16 Wolverhampton-Manchester City,1,1,2025-08-16 16:30:00+00:00,Wolverhampton,Manchester City,0.0,4.0,14025050
+ENG-Premier League,2526,2025-08-17 Chelsea-Crystal Palace,1,1,2025-08-17 13:00:00+00:00,Chelsea,Crystal Palace,0.0,0.0,14025053
+ENG-Premier League,2526,2025-08-17 Manchester United-Arsenal,1,1,2025-08-17 15:30:00+00:00,Manchester United,Arsenal,0.0,1.0,14025056
+ENG-Premier League,2526,2025-08-17 Nottingham Forest-Brentford,1,1,2025-08-17 13:00:00+00:00,Nottingham Forest,Brentford,3.0,1.0,14025028
+ENG-Premier League,2526,2025-08-18 Leeds United-Everton,1,1,2025-08-18 19:00:00+00:00,Leeds United,Everton,1.0,0.0,14025059
+ENG-Premier League,2526,2025-08-22 West Ham United-Chelsea,2,2,2025-08-22 19:00:00+00:00,West Ham United,Chelsea,1.0,5.0,14025088
+ENG-Premier League,2526,2025-08-23 Arsenal-Leeds United,2,2,2025-08-23 16:30:00+00:00,Arsenal,Leeds United,5.0,0.0,14025065
+ENG-Premier League,2526,2025-08-23 Bournemouth-Wolverhampton,2,2,2025-08-23 14:00:00+00:00,Bournemouth,Wolverhampton,1.0,0.0,14025062
+ENG-Premier League,2526,2025-08-23 Brentford-Aston Villa,2,2,2025-08-23 14:00:00+00:00,Brentford,Aston Villa,1.0,0.0,14025068
+ENG-Premier League,2526,2025-08-23 Burnley-Sunderland,2,2,2025-08-23 14:00:00+00:00,Burnley,Sunderland,2.0,0.0,14025071
+ENG-Premier League,2526,2025-08-23 Manchester City-Tottenham Hotspur,2,2,2025-08-23 11:30:00+00:00,Manchester City,Tottenham Hotspur,0.0,2.0,14025083
+ENG-Premier League,2526,2025-08-24 Crystal Palace-Nottingham Forest,2,2,2025-08-24 13:00:00+00:00,Crystal Palace,Nottingham Forest,1.0,1.0,14025074
+ENG-Premier League,2526,2025-08-24 Everton-Brighton & Hove Albion,2,2,2025-08-24 13:00:00+00:00,Everton,Brighton & Hove Albion,2.0,0.0,14025077
+ENG-Premier League,2526,2025-08-24 Fulham-Manchester United,2,2,2025-08-24 15:30:00+00:00,Fulham,Manchester United,1.0,1.0,14025080
+ENG-Premier League,2526,2025-08-25 Newcastle United-Liverpool,2,2,2025-08-25 19:00:00+00:00,Newcastle United,Liverpool,2.0,3.0,14147154
+ENG-Premier League,2526,2025-08-30 Chelsea-Fulham,3,3,2025-08-30 11:30:00+00:00,Chelsea,Fulham,2.0,0.0,14025097
+ENG-Premier League,2526,2025-08-30 Leeds United-Newcastle United,3,3,2025-08-30 16:30:00+00:00,Leeds United,Newcastle United,0.0,0.0,14025100
+ENG-Premier League,2526,2025-08-30 Manchester United-Burnley,3,3,2025-08-30 14:00:00+00:00,Manchester United,Burnley,3.0,2.0,14025106
+ENG-Premier League,2526,2025-08-30 Sunderland-Brentford,3,3,2025-08-30 14:00:00+00:00,Sunderland,Brentford,2.0,1.0,14025112
+ENG-Premier League,2526,2025-08-30 Tottenham Hotspur-Bournemouth,3,3,2025-08-30 14:00:00+00:00,Tottenham Hotspur,Bournemouth,0.0,1.0,14025115
+ENG-Premier League,2526,2025-08-30 Wolverhampton-Everton,3,3,2025-08-30 14:00:00+00:00,Wolverhampton,Everton,2.0,3.0,14025118
+ENG-Premier League,2526,2025-08-31 Aston Villa-Crystal Palace,3,3,2025-08-31 18:00:00+00:00,Aston Villa,Crystal Palace,0.0,3.0,14025091
+ENG-Premier League,2526,2025-08-31 Brighton & Hove Albion-Manchester City,3,3,2025-08-31 13:00:00+00:00,Brighton & Hove Albion,Manchester City,2.0,1.0,14025094
+ENG-Premier League,2526,2025-08-31 Liverpool-Arsenal,3,3,2025-08-31 15:30:00+00:00,Liverpool,Arsenal,1.0,0.0,14025103
+ENG-Premier League,2526,2025-08-31 Nottingham Forest-West Ham United,3,3,2025-08-31 13:00:00+00:00,Nottingham Forest,West Ham United,0.0,3.0,14025109
+ENG-Premier League,2526,2025-09-13 Arsenal-Nottingham Forest,4,4,2025-09-13 11:30:00+00:00,Arsenal,Nottingham Forest,3.0,0.0,14025124
+ENG-Premier League,2526,2025-09-13 Bournemouth-Brighton & Hove Albion,4,4,2025-09-13 14:00:00+00:00,Bournemouth,Brighton & Hove Albion,2.0,1.0,14025121
+ENG-Premier League,2526,2025-09-13 Brentford-Chelsea,4,4,2025-09-13 19:00:00+00:00,Brentford,Chelsea,2.0,2.0,14025127
+ENG-Premier League,2526,2025-09-13 Crystal Palace-Sunderland,4,4,2025-09-13 14:00:00+00:00,Crystal Palace,Sunderland,0.0,0.0,14025133
+ENG-Premier League,2526,2025-09-13 Everton-Aston Villa,4,4,2025-09-13 14:00:00+00:00,Everton,Aston Villa,0.0,0.0,14025136
+ENG-Premier League,2526,2025-09-13 Fulham-Leeds United,4,4,2025-09-13 14:00:00+00:00,Fulham,Leeds United,1.0,0.0,14025139
+ENG-Premier League,2526,2025-09-13 Newcastle United-Wolverhampton,4,4,2025-09-13 14:00:00+00:00,Newcastle United,Wolverhampton,1.0,0.0,14025145
+ENG-Premier League,2526,2025-09-13 West Ham United-Tottenham Hotspur,4,4,2025-09-13 16:30:00+00:00,West Ham United,Tottenham Hotspur,0.0,3.0,14025148
+ENG-Premier League,2526,2025-09-14 Burnley-Liverpool,4,4,2025-09-14 13:00:00+00:00,Burnley,Liverpool,0.0,1.0,14025130
+ENG-Premier League,2526,2025-09-14 Manchester City-Manchester United,4,4,2025-09-14 15:30:00+00:00,Manchester City,Manchester United,3.0,0.0,14025142
+ENG-Premier League,2526,2025-09-20 Brighton & Hove Albion-Tottenham Hotspur,5,5,2025-09-20 14:00:00+00:00,Brighton & Hove Albion,Tottenham Hotspur,2.0,2.0,14025157
+ENG-Premier League,2526,2025-09-20 Burnley-Nottingham Forest,5,5,2025-09-20 14:00:00+00:00,Burnley,Nottingham Forest,1.0,1.0,14025160
+ENG-Premier League,2526,2025-09-20 Fulham-Brentford,5,5,2025-09-20 19:00:00+00:00,Fulham,Brentford,3.0,1.0,14025163
+ENG-Premier League,2526,2025-09-20 Liverpool-Everton,5,5,2025-09-20 11:30:00+00:00,Liverpool,Everton,2.0,1.0,14025166
+ENG-Premier League,2526,2025-09-20 Manchester United-Chelsea,5,5,2025-09-20 16:30:00+00:00,Manchester United,Chelsea,2.0,1.0,14025169
+ENG-Premier League,2526,2025-09-20 West Ham United-Crystal Palace,5,5,2025-09-20 14:00:00+00:00,West Ham United,Crystal Palace,1.0,2.0,14025175
+ENG-Premier League,2526,2025-09-20 Wolverhampton-Leeds United,5,5,2025-09-20 14:00:00+00:00,Wolverhampton,Leeds United,1.0,3.0,14025178
+ENG-Premier League,2526,2025-09-21 Arsenal-Manchester City,5,5,2025-09-21 15:30:00+00:00,Arsenal,Manchester City,1.0,1.0,14025154
+ENG-Premier League,2526,2025-09-21 Bournemouth-Newcastle United,5,5,2025-09-21 13:00:00+00:00,Bournemouth,Newcastle United,0.0,0.0,14025151
+ENG-Premier League,2526,2025-09-21 Sunderland-Aston Villa,5,5,2025-09-21 13:00:00+00:00,Sunderland,Aston Villa,1.0,1.0,14025172
+ENG-Premier League,2526,2025-09-27 Brentford-Manchester United,6,6,2025-09-27 11:30:00+00:00,Brentford,Manchester United,3.0,1.0,14025184
+ENG-Premier League,2526,2025-09-27 Chelsea-Brighton & Hove Albion,6,6,2025-09-27 14:00:00+00:00,Chelsea,Brighton & Hove Albion,1.0,3.0,14025187
+ENG-Premier League,2526,2025-09-27 Crystal Palace-Liverpool,6,6,2025-09-27 14:00:00+00:00,Crystal Palace,Liverpool,2.0,1.0,14025190
+ENG-Premier League,2526,2025-09-27 Leeds United-Bournemouth,6,6,2025-09-27 14:00:00+00:00,Leeds United,Bournemouth,2.0,2.0,14025196
+ENG-Premier League,2526,2025-09-27 Manchester City-Burnley,6,6,2025-09-27 14:00:00+00:00,Manchester City,Burnley,5.0,1.0,14025199
+ENG-Premier League,2526,2025-09-27 Nottingham Forest-Sunderland,6,6,2025-09-27 16:30:00+00:00,Nottingham Forest,Sunderland,0.0,1.0,14025205
+ENG-Premier League,2526,2025-09-27 Tottenham Hotspur-Wolverhampton,6,6,2025-09-27 19:00:00+00:00,Tottenham Hotspur,Wolverhampton,1.0,1.0,14025208
+ENG-Premier League,2526,2025-09-28 Aston Villa-Fulham,6,6,2025-09-28 13:00:00+00:00,Aston Villa,Fulham,3.0,1.0,14025181
+ENG-Premier League,2526,2025-09-28 Newcastle United-Arsenal,6,6,2025-09-28 15:30:00+00:00,Newcastle United,Arsenal,1.0,2.0,14025202
+ENG-Premier League,2526,2025-09-29 Everton-West Ham United,6,6,2025-09-29 19:00:00+00:00,Everton,West Ham United,1.0,1.0,14311407
+ENG-Premier League,2526,2025-10-03 Bournemouth-Fulham,7,7,2025-10-03 19:00:00+00:00,Bournemouth,Fulham,3.0,1.0,14025211
+ENG-Premier League,2526,2025-10-04 Arsenal-West Ham United,7,7,2025-10-04 14:00:00+00:00,Arsenal,West Ham United,2.0,0.0,14025214
+ENG-Premier League,2526,2025-10-04 Chelsea-Liverpool,7,7,2025-10-04 16:30:00+00:00,Chelsea,Liverpool,2.0,1.0,14025221
+ENG-Premier League,2526,2025-10-04 Leeds United-Tottenham Hotspur,7,7,2025-10-04 11:30:00+00:00,Leeds United,Tottenham Hotspur,1.0,2.0,14025225
+ENG-Premier League,2526,2025-10-04 Manchester United-Sunderland,7,7,2025-10-04 14:00:00+00:00,Manchester United,Sunderland,2.0,0.0,14025227
+ENG-Premier League,2526,2025-10-05 Aston Villa-Burnley,7,7,2025-10-05 13:00:00+00:00,Aston Villa,Burnley,2.0,1.0,14025217
+ENG-Premier League,2526,2025-10-05 Brentford-Manchester City,7,7,2025-10-05 15:30:00+00:00,Brentford,Manchester City,0.0,1.0,14025219
+ENG-Premier League,2526,2025-10-05 Everton-Crystal Palace,7,7,2025-10-05 13:00:00+00:00,Everton,Crystal Palace,2.0,1.0,14025223
+ENG-Premier League,2526,2025-10-05 Newcastle United-Nottingham Forest,7,7,2025-10-05 13:00:00+00:00,Newcastle United,Nottingham Forest,2.0,0.0,14025229
+ENG-Premier League,2526,2025-10-05 Wolverhampton-Brighton & Hove Albion,7,7,2025-10-05 13:00:00+00:00,Wolverhampton,Brighton & Hove Albion,1.0,1.0,14025231
+ENG-Premier League,2526,2025-10-18 Brighton & Hove Albion-Newcastle United,8,8,2025-10-18 14:00:00+00:00,Brighton & Hove Albion,Newcastle United,2.0,1.0,14025233
+ENG-Premier League,2526,2025-10-18 Burnley-Leeds United,8,8,2025-10-18 14:00:00+00:00,Burnley,Leeds United,2.0,0.0,14025235
+ENG-Premier League,2526,2025-10-18 Crystal Palace-Bournemouth,8,8,2025-10-18 14:00:00+00:00,Crystal Palace,Bournemouth,3.0,3.0,14025237
+ENG-Premier League,2526,2025-10-18 Fulham-Arsenal,8,8,2025-10-18 16:30:00+00:00,Fulham,Arsenal,0.0,1.0,14025239
+ENG-Premier League,2526,2025-10-18 Manchester City-Everton,8,8,2025-10-18 14:00:00+00:00,Manchester City,Everton,2.0,0.0,14025243
+ENG-Premier League,2526,2025-10-18 Nottingham Forest-Chelsea,8,8,2025-10-18 11:30:00+00:00,Nottingham Forest,Chelsea,0.0,3.0,14025245
+ENG-Premier League,2526,2025-10-18 Sunderland-Wolverhampton,8,8,2025-10-18 14:00:00+00:00,Sunderland,Wolverhampton,2.0,0.0,14025247
+ENG-Premier League,2526,2025-10-19 Liverpool-Manchester United,8,8,2025-10-19 15:30:00+00:00,Liverpool,Manchester United,1.0,2.0,14025241
+ENG-Premier League,2526,2025-10-19 Tottenham Hotspur-Aston Villa,8,8,2025-10-19 13:00:00+00:00,Tottenham Hotspur,Aston Villa,1.0,2.0,14025249
+ENG-Premier League,2526,2025-10-20 West Ham United-Brentford,8,8,2025-10-20 19:00:00+00:00,West Ham United,Brentford,0.0,2.0,14504827
+ENG-Premier League,2526,2025-10-24 Leeds United-West Ham United,9,9,2025-10-24 19:00:00+00:00,Leeds United,West Ham United,2.0,1.0,14025265
+ENG-Premier League,2526,2025-10-25 Brentford-Liverpool,9,9,2025-10-25 19:00:00+00:00,Brentford,Liverpool,3.0,2.0,14025259
+ENG-Premier League,2526,2025-10-25 Chelsea-Sunderland,9,9,2025-10-25 14:00:00+00:00,Chelsea,Sunderland,1.0,2.0,14025261
+ENG-Premier League,2526,2025-10-25 Manchester United-Brighton & Hove Albion,9,9,2025-10-25 16:30:00+00:00,Manchester United,Brighton & Hove Albion,4.0,2.0,14025267
+ENG-Premier League,2526,2025-10-25 Newcastle United-Fulham,9,9,2025-10-25 14:00:00+00:00,Newcastle United,Fulham,2.0,1.0,14025269
+ENG-Premier League,2526,2025-10-26 Arsenal-Crystal Palace,9,9,2025-10-26 14:00:00+00:00,Arsenal,Crystal Palace,1.0,0.0,14025255
+ENG-Premier League,2526,2025-10-26 Aston Villa-Manchester City,9,9,2025-10-26 14:00:00+00:00,Aston Villa,Manchester City,1.0,0.0,14025257
+ENG-Premier League,2526,2025-10-26 Bournemouth-Nottingham Forest,9,9,2025-10-26 14:00:00+00:00,Bournemouth,Nottingham Forest,2.0,0.0,14025253
+ENG-Premier League,2526,2025-10-26 Everton-Tottenham Hotspur,9,9,2025-10-26 16:30:00+00:00,Everton,Tottenham Hotspur,0.0,3.0,14025263
+ENG-Premier League,2526,2025-10-26 Wolverhampton-Burnley,9,9,2025-10-26 14:00:00+00:00,Wolverhampton,Burnley,2.0,3.0,14025271
+ENG-Premier League,2526,2025-11-01 Brighton & Hove Albion-Leeds United,10,10,2025-11-01 15:00:00+00:00,Brighton & Hove Albion,Leeds United,3.0,0.0,14025273
+ENG-Premier League,2526,2025-11-01 Burnley-Arsenal,10,10,2025-11-01 15:00:00+00:00,Burnley,Arsenal,0.0,2.0,14025275
+ENG-Premier League,2526,2025-11-01 Crystal Palace-Brentford,10,10,2025-11-01 15:00:00+00:00,Crystal Palace,Brentford,2.0,0.0,14025277
+ENG-Premier League,2526,2025-11-01 Fulham-Wolverhampton,10,10,2025-11-01 15:00:00+00:00,Fulham,Wolverhampton,3.0,0.0,14025279
+ENG-Premier League,2526,2025-11-01 Liverpool-Aston Villa,10,10,2025-11-01 20:00:00+00:00,Liverpool,Aston Villa,2.0,0.0,14025281
+ENG-Premier League,2526,2025-11-01 Nottingham Forest-Manchester United,10,10,2025-11-01 15:00:00+00:00,Nottingham Forest,Manchester United,2.0,2.0,14025285
+ENG-Premier League,2526,2025-11-01 Tottenham Hotspur-Chelsea,10,10,2025-11-01 17:30:00+00:00,Tottenham Hotspur,Chelsea,0.0,1.0,14025289
+ENG-Premier League,2526,2025-11-02 Manchester City-Bournemouth,10,10,2025-11-02 16:30:00+00:00,Manchester City,Bournemouth,3.0,1.0,14025283
+ENG-Premier League,2526,2025-11-02 West Ham United-Newcastle United,10,10,2025-11-02 14:00:00+00:00,West Ham United,Newcastle United,3.0,1.0,14025291
+ENG-Premier League,2526,2025-11-03 Sunderland-Everton,10,10,2025-11-03 20:00:00+00:00,Sunderland,Everton,1.0,1.0,14723615
+ENG-Premier League,2526,2025-11-08 Chelsea-Wolverhampton,11,11,2025-11-08 20:00:00+00:00,Chelsea,Wolverhampton,3.0,0.0,14025023
+ENG-Premier League,2526,2025-11-08 Everton-Fulham,11,11,2025-11-08 15:00:00+00:00,Everton,Fulham,2.0,0.0,14025043
+ENG-Premier League,2526,2025-11-08 Sunderland-Arsenal,11,11,2025-11-08 17:30:00+00:00,Sunderland,Arsenal,2.0,2.0,14025054
+ENG-Premier League,2526,2025-11-08 Tottenham Hotspur-Manchester United,11,11,2025-11-08 12:30:00+00:00,Tottenham Hotspur,Manchester United,2.0,2.0,14025057
+ENG-Premier League,2526,2025-11-08 West Ham United-Burnley,11,11,2025-11-08 15:00:00+00:00,West Ham United,Burnley,3.0,2.0,14025060
+ENG-Premier League,2526,2025-11-09 Aston Villa-Bournemouth,11,11,2025-11-09 14:00:00+00:00,Aston Villa,Bournemouth,4.0,0.0,14025014
+ENG-Premier League,2526,2025-11-09 Brentford-Newcastle United,11,11,2025-11-09 14:00:00+00:00,Brentford,Newcastle United,3.0,1.0,14025017
+ENG-Premier League,2526,2025-11-09 Crystal Palace-Brighton & Hove Albion,11,11,2025-11-09 14:00:00+00:00,Crystal Palace,Brighton & Hove Albion,0.0,0.0,14025033
+ENG-Premier League,2526,2025-11-09 Manchester City-Liverpool,11,11,2025-11-09 16:30:00+00:00,Manchester City,Liverpool,3.0,0.0,14025048
+ENG-Premier League,2526,2025-11-09 Nottingham Forest-Leeds United,11,11,2025-11-09 14:00:00+00:00,Nottingham Forest,Leeds United,3.0,1.0,14025051
+ENG-Premier League,2526,2025-11-22 Bournemouth-West Ham United,12,12,2025-11-22 15:00:00+00:00,Bournemouth,West Ham United,2.0,2.0,14025063
+ENG-Premier League,2526,2025-11-22 Brighton & Hove Albion-Brentford,12,12,2025-11-22 15:00:00+00:00,Brighton & Hove Albion,Brentford,2.0,1.0,14025069
+ENG-Premier League,2526,2025-11-22 Burnley-Chelsea,12,12,2025-11-22 12:30:00+00:00,Burnley,Chelsea,0.0,2.0,14025072
+ENG-Premier League,2526,2025-11-22 Fulham-Sunderland,12,12,2025-11-22 15:00:00+00:00,Fulham,Sunderland,1.0,0.0,14025075
+ENG-Premier League,2526,2025-11-22 Liverpool-Nottingham Forest,12,12,2025-11-22 15:00:00+00:00,Liverpool,Nottingham Forest,0.0,3.0,14025081
+ENG-Premier League,2526,2025-11-22 Newcastle United-Manchester City,12,12,2025-11-22 17:30:00+00:00,Newcastle United,Manchester City,2.0,1.0,14025087
+ENG-Premier League,2526,2025-11-22 Wolverhampton-Crystal Palace,12,12,2025-11-22 15:00:00+00:00,Wolverhampton,Crystal Palace,0.0,2.0,14025090
+ENG-Premier League,2526,2025-11-23 Arsenal-Tottenham Hotspur,12,12,2025-11-23 16:30:00+00:00,Arsenal,Tottenham Hotspur,4.0,1.0,14025066
+ENG-Premier League,2526,2025-11-23 Leeds United-Aston Villa,12,12,2025-11-23 14:00:00+00:00,Leeds United,Aston Villa,1.0,2.0,14025078
+ENG-Premier League,2526,2025-11-24 Manchester United-Everton,12,12,2025-11-24 20:00:00+00:00,Manchester United,Everton,0.0,1.0,14723574
+ENG-Premier League,2526,2025-11-29 Brentford-Burnley,13,13,2025-11-29 15:00:00+00:00,Brentford,Burnley,3.0,1.0,14025096
+ENG-Premier League,2526,2025-11-29 Everton-Newcastle United,13,13,2025-11-29 17:30:00+00:00,Everton,Newcastle United,1.0,4.0,14025105
+ENG-Premier League,2526,2025-11-29 Manchester City-Leeds United,13,13,2025-11-29 15:00:00+00:00,Manchester City,Leeds United,3.0,2.0,14025108
+ENG-Premier League,2526,2025-11-29 Sunderland-Bournemouth,13,13,2025-11-29 15:00:00+00:00,Sunderland,Bournemouth,3.0,2.0,14025114
+ENG-Premier League,2526,2025-11-29 Tottenham Hotspur-Fulham,13,13,2025-11-29 20:00:00+00:00,Tottenham Hotspur,Fulham,1.0,2.0,14025117
+ENG-Premier League,2526,2025-11-30 Aston Villa-Wolverhampton,13,13,2025-11-30 14:05:00+00:00,Aston Villa,Wolverhampton,1.0,0.0,14025093
+ENG-Premier League,2526,2025-11-30 Chelsea-Arsenal,13,13,2025-11-30 16:30:00+00:00,Chelsea,Arsenal,1.0,1.0,14025099
+ENG-Premier League,2526,2025-11-30 Crystal Palace-Manchester United,13,13,2025-11-30 12:00:00+00:00,Crystal Palace,Manchester United,1.0,2.0,14025102
+ENG-Premier League,2526,2025-11-30 Nottingham Forest-Brighton & Hove Albion,13,13,2025-11-30 14:05:00+00:00,Nottingham Forest,Brighton & Hove Albion,0.0,2.0,14025111
+ENG-Premier League,2526,2025-11-30 West Ham United-Liverpool,13,13,2025-11-30 14:05:00+00:00,West Ham United,Liverpool,0.0,2.0,14025120
+ENG-Premier League,2526,2025-12-02 Bournemouth-Everton,14,14,2025-12-02 19:30:00+00:00,Bournemouth,Everton,0.0,1.0,14025123
+ENG-Premier League,2526,2025-12-02 Fulham-Manchester City,14,14,2025-12-02 19:30:00+00:00,Fulham,Manchester City,4.0,5.0,14025135
+ENG-Premier League,2526,2025-12-02 Newcastle United-Tottenham Hotspur,14,14,2025-12-02 20:15:00+00:00,Newcastle United,Tottenham Hotspur,2.0,2.0,14025141
+ENG-Premier League,2526,2025-12-03 Arsenal-Brentford,14,14,2025-12-03 19:30:00+00:00,Arsenal,Brentford,2.0,0.0,14025126
+ENG-Premier League,2526,2025-12-03 Brighton & Hove Albion-Aston Villa,14,14,2025-12-03 19:30:00+00:00,Brighton & Hove Albion,Aston Villa,3.0,4.0,14025129
+ENG-Premier League,2526,2025-12-03 Burnley-Crystal Palace,14,14,2025-12-03 19:30:00+00:00,Burnley,Crystal Palace,0.0,1.0,14025132
+ENG-Premier League,2526,2025-12-03 Leeds United-Chelsea,14,14,2025-12-03 20:15:00+00:00,Leeds United,Chelsea,3.0,1.0,14025138
+ENG-Premier League,2526,2025-12-03 Liverpool-Sunderland,14,14,2025-12-03 20:15:00+00:00,Liverpool,Sunderland,1.0,1.0,14025147
+ENG-Premier League,2526,2025-12-03 Wolverhampton-Nottingham Forest,14,14,2025-12-03 19:30:00+00:00,Wolverhampton,Nottingham Forest,0.0,1.0,14025144
+ENG-Premier League,2526,2025-12-04 Manchester United-West Ham United,14,14,2025-12-04 20:00:00+00:00,Manchester United,West Ham United,1.0,1.0,14025150
+ENG-Premier League,2526,2025-12-06 Aston Villa-Arsenal,15,15,2025-12-06 12:30:00+00:00,Aston Villa,Arsenal,2.0,1.0,14025156
+ENG-Premier League,2526,2025-12-06 Bournemouth-Chelsea,15,15,2025-12-06 15:00:00+00:00,Bournemouth,Chelsea,0.0,0.0,14025153
+ENG-Premier League,2526,2025-12-06 Everton-Nottingham Forest,15,15,2025-12-06 15:00:00+00:00,Everton,Nottingham Forest,3.0,0.0,14025162
+ENG-Premier League,2526,2025-12-06 Leeds United-Liverpool,15,15,2025-12-06 17:30:00+00:00,Leeds United,Liverpool,3.0,3.0,14025168
+ENG-Premier League,2526,2025-12-06 Manchester City-Sunderland,15,15,2025-12-06 15:00:00+00:00,Manchester City,Sunderland,3.0,0.0,14025171
+ENG-Premier League,2526,2025-12-06 Newcastle United-Burnley,15,15,2025-12-06 15:00:00+00:00,Newcastle United,Burnley,2.0,1.0,14025174
+ENG-Premier League,2526,2025-12-06 Tottenham Hotspur-Brentford,15,15,2025-12-06 15:00:00+00:00,Tottenham Hotspur,Brentford,2.0,0.0,14025177
+ENG-Premier League,2526,2025-12-07 Brighton & Hove Albion-West Ham United,15,15,2025-12-07 14:00:00+00:00,Brighton & Hove Albion,West Ham United,1.0,1.0,14025159
+ENG-Premier League,2526,2025-12-07 Fulham-Crystal Palace,15,15,2025-12-07 16:30:00+00:00,Fulham,Crystal Palace,1.0,2.0,14025165
+ENG-Premier League,2526,2025-12-08 Wolverhampton-Manchester United,15,15,2025-12-08 20:00:00+00:00,Wolverhampton,Manchester United,1.0,4.0,14912436
+ENG-Premier League,2526,2025-12-13 Arsenal-Wolverhampton,16,16,2025-12-13 20:00:00+00:00,Arsenal,Wolverhampton,2.0,1.0,14025183
+ENG-Premier League,2526,2025-12-13 Burnley-Fulham,16,16,2025-12-13 17:30:00+00:00,Burnley,Fulham,2.0,3.0,14025189
+ENG-Premier League,2526,2025-12-13 Chelsea-Everton,16,16,2025-12-13 15:00:00+00:00,Chelsea,Everton,2.0,0.0,14025192
+ENG-Premier League,2526,2025-12-13 Liverpool-Brighton & Hove Albion,16,16,2025-12-13 15:00:00+00:00,Liverpool,Brighton & Hove Albion,2.0,0.0,14025198
+ENG-Premier League,2526,2025-12-14 Brentford-Leeds United,16,16,2025-12-14 16:30:00+00:00,Brentford,Leeds United,1.0,1.0,14025186
+ENG-Premier League,2526,2025-12-14 Crystal Palace-Manchester City,16,16,2025-12-14 14:00:00+00:00,Crystal Palace,Manchester City,0.0,3.0,14025195
+ENG-Premier League,2526,2025-12-14 Nottingham Forest-Tottenham Hotspur,16,16,2025-12-14 14:00:00+00:00,Nottingham Forest,Tottenham Hotspur,3.0,0.0,14025204
+ENG-Premier League,2526,2025-12-14 Sunderland-Newcastle United,16,16,2025-12-14 14:00:00+00:00,Sunderland,Newcastle United,1.0,0.0,14025207
+ENG-Premier League,2526,2025-12-14 West Ham United-Aston Villa,16,16,2025-12-14 14:00:00+00:00,West Ham United,Aston Villa,2.0,3.0,14025210
+ENG-Premier League,2526,2025-12-15 Manchester United-Bournemouth,16,16,2025-12-15 20:00:00+00:00,Manchester United,Bournemouth,4.0,4.0,15035359
+ENG-Premier League,2526,2025-12-20 Bournemouth-Burnley,17,17,2025-12-20 15:00:00+00:00,Bournemouth,Burnley,1.0,1.0,14025213
+ENG-Premier League,2526,2025-12-20 Brighton & Hove Albion-Sunderland,17,17,2025-12-20 15:00:00+00:00,Brighton & Hove Albion,Sunderland,0.0,0.0,14025218
+ENG-Premier League,2526,2025-12-20 Everton-Arsenal,17,17,2025-12-20 20:00:00+00:00,Everton,Arsenal,0.0,1.0,14025220
+ENG-Premier League,2526,2025-12-20 Leeds United-Crystal Palace,17,17,2025-12-20 20:00:00+00:00,Leeds United,Crystal Palace,4.0,1.0,14025224
+ENG-Premier League,2526,2025-12-20 Manchester City-West Ham United,17,17,2025-12-20 15:00:00+00:00,Manchester City,West Ham United,3.0,0.0,14025226
+ENG-Premier League,2526,2025-12-20 Newcastle United-Chelsea,17,17,2025-12-20 12:30:00+00:00,Newcastle United,Chelsea,2.0,2.0,14025228
+ENG-Premier League,2526,2025-12-20 Tottenham Hotspur-Liverpool,17,17,2025-12-20 17:30:00+00:00,Tottenham Hotspur,Liverpool,1.0,2.0,14025230
+ENG-Premier League,2526,2025-12-20 Wolverhampton-Brentford,17,17,2025-12-20 15:00:00+00:00,Wolverhampton,Brentford,0.0,2.0,14025232
+ENG-Premier League,2526,2025-12-21 Aston Villa-Manchester United,17,17,2025-12-21 16:30:00+00:00,Aston Villa,Manchester United,2.0,1.0,14025216
+ENG-Premier League,2526,2025-12-22 Fulham-Nottingham Forest,17,17,2025-12-22 20:00:00+00:00,Fulham,Nottingham Forest,1.0,0.0,14907281
+ENG-Premier League,2526,2025-12-26 Manchester United-Newcastle United,18,18,2025-12-26 20:00:00+00:00,Manchester United,Newcastle United,1.0,0.0,14025246
+ENG-Premier League,2526,2025-12-27 Arsenal-Brighton & Hove Albion,18,18,2025-12-27 15:00:00+00:00,Arsenal,Brighton & Hove Albion,2.0,1.0,14025234
+ENG-Premier League,2526,2025-12-27 Brentford-Bournemouth,18,18,2025-12-27 15:00:00+00:00,Brentford,Bournemouth,4.0,1.0,14025236
+ENG-Premier League,2526,2025-12-27 Burnley-Everton,18,18,2025-12-27 15:00:00+00:00,Burnley,Everton,0.0,0.0,14025238
+ENG-Premier League,2526,2025-12-27 Chelsea-Aston Villa,18,18,2025-12-27 17:30:00+00:00,Chelsea,Aston Villa,1.0,2.0,14025240
+ENG-Premier League,2526,2025-12-27 Liverpool-Wolverhampton,18,18,2025-12-27 15:00:00+00:00,Liverpool,Wolverhampton,2.0,1.0,14025244
+ENG-Premier League,2526,2025-12-27 Nottingham Forest-Manchester City,18,18,2025-12-27 12:30:00+00:00,Nottingham Forest,Manchester City,1.0,2.0,14025248
+ENG-Premier League,2526,2025-12-27 West Ham United-Fulham,18,18,2025-12-27 15:00:00+00:00,West Ham United,Fulham,0.0,1.0,14025252
+ENG-Premier League,2526,2025-12-28 Crystal Palace-Tottenham Hotspur,18,18,2025-12-28 16:30:00+00:00,Crystal Palace,Tottenham Hotspur,0.0,1.0,14025242
+ENG-Premier League,2526,2025-12-28 Sunderland-Leeds United,18,18,2025-12-28 14:00:00+00:00,Sunderland,Leeds United,1.0,1.0,14025250
+ENG-Premier League,2526,2025-12-30 Arsenal-Aston Villa,19,19,2025-12-30 20:15:00+00:00,Arsenal,Aston Villa,4.0,1.0,14025254
+ENG-Premier League,2526,2025-12-30 Burnley-Newcastle United,19,19,2025-12-30 19:30:00+00:00,Burnley,Newcastle United,1.0,3.0,14025258
+ENG-Premier League,2526,2025-12-30 Chelsea-Bournemouth,19,19,2025-12-30 19:30:00+00:00,Chelsea,Bournemouth,2.0,2.0,14025260
+ENG-Premier League,2526,2025-12-30 Manchester United-Wolverhampton,19,19,2025-12-30 20:15:00+00:00,Manchester United,Wolverhampton,1.0,1.0,14025266
+ENG-Premier League,2526,2025-12-30 Nottingham Forest-Everton,19,19,2025-12-30 19:30:00+00:00,Nottingham Forest,Everton,0.0,2.0,14025268
+ENG-Premier League,2526,2025-12-30 West Ham United-Brighton & Hove Albion,19,19,2025-12-30 19:30:00+00:00,West Ham United,Brighton & Hove Albion,2.0,2.0,14025272
+ENG-Premier League,2526,2026-01-01 Brentford-Tottenham Hotspur,19,19,2026-01-01 20:00:00+00:00,Brentford,Tottenham Hotspur,0.0,0.0,14025256
+ENG-Premier League,2526,2026-01-01 Crystal Palace-Fulham,19,19,2026-01-01 17:30:00+00:00,Crystal Palace,Fulham,1.0,1.0,14025262
+ENG-Premier League,2526,2026-01-01 Liverpool-Leeds United,19,19,2026-01-01 17:30:00+00:00,Liverpool,Leeds United,0.0,0.0,14025264
+ENG-Premier League,2526,2026-01-01 Sunderland-Manchester City,19,19,2026-01-01 20:00:00+00:00,Sunderland,Manchester City,0.0,0.0,14025270
+ENG-Premier League,2526,2026-01-03 Aston Villa-Nottingham Forest,20,20,2026-01-03 12:30:00+00:00,Aston Villa,Nottingham Forest,3.0,1.0,14025276
+ENG-Premier League,2526,2026-01-03 Bournemouth-Arsenal,20,20,2026-01-03 17:30:00+00:00,Bournemouth,Arsenal,2.0,3.0,14025274
+ENG-Premier League,2526,2026-01-03 Brighton & Hove Albion-Burnley,20,20,2026-01-03 15:00:00+00:00,Brighton & Hove Albion,Burnley,2.0,0.0,14025278
+ENG-Premier League,2526,2026-01-03 Wolverhampton-West Ham United,20,20,2026-01-03 15:00:00+00:00,Wolverhampton,West Ham United,3.0,0.0,14025292
+ENG-Premier League,2526,2026-01-04 Everton-Brentford,20,20,2026-01-04 15:00:00+00:00,Everton,Brentford,2.0,4.0,14025280
+ENG-Premier League,2526,2026-01-04 Fulham-Liverpool,20,20,2026-01-04 15:15:00+00:00,Fulham,Liverpool,2.0,2.0,14025282
+ENG-Premier League,2526,2026-01-04 Leeds United-Manchester United,20,20,2026-01-04 12:30:00+00:00,Leeds United,Manchester United,1.0,1.0,14025284
+ENG-Premier League,2526,2026-01-04 Manchester City-Chelsea,20,20,2026-01-04 17:30:00+00:00,Manchester City,Chelsea,1.0,1.0,14025286
+ENG-Premier League,2526,2026-01-04 Newcastle United-Crystal Palace,20,20,2026-01-04 15:00:00+00:00,Newcastle United,Crystal Palace,2.0,0.0,14025288
+ENG-Premier League,2526,2026-01-04 Tottenham Hotspur-Sunderland,20,20,2026-01-04 15:00:00+00:00,Tottenham Hotspur,Sunderland,1.0,1.0,14025290
+ENG-Premier League,2526,2026-01-06 West Ham United-Nottingham Forest,21,21,2026-01-06 20:00:00+00:00,West Ham United,Nottingham Forest,1.0,2.0,14025055
+ENG-Premier League,2526,2026-01-07 Bournemouth-Tottenham Hotspur,21,21,2026-01-07 19:30:00+00:00,Bournemouth,Tottenham Hotspur,3.0,2.0,14025015
+ENG-Premier League,2526,2026-01-07 Brentford-Sunderland,21,21,2026-01-07 19:30:00+00:00,Brentford,Sunderland,3.0,0.0,14025027
+ENG-Premier League,2526,2026-01-07 Burnley-Manchester United,21,21,2026-01-07 20:15:00+00:00,Burnley,Manchester United,2.0,2.0,14025037
+ENG-Premier League,2526,2026-01-07 Crystal Palace-Aston Villa,21,21,2026-01-07 19:30:00+00:00,Crystal Palace,Aston Villa,0.0,0.0,14025058
+ENG-Premier League,2526,2026-01-07 Everton-Wolverhampton,21,21,2026-01-07 19:30:00+00:00,Everton,Wolverhampton,1.0,1.0,14025046
+ENG-Premier League,2526,2026-01-07 Fulham-Chelsea,21,21,2026-01-07 19:30:00+00:00,Fulham,Chelsea,2.0,1.0,14025049
+ENG-Premier League,2526,2026-01-07 Manchester City-Brighton & Hove Albion,21,21,2026-01-07 19:30:00+00:00,Manchester City,Brighton & Hove Albion,1.0,1.0,14025061
+ENG-Premier League,2526,2026-01-07 Newcastle United-Leeds United,21,21,2026-01-07 20:15:00+00:00,Newcastle United,Leeds United,4.0,3.0,14025052
+ENG-Premier League,2526,2026-01-08 Arsenal-Liverpool,21,21,2026-01-08 20:00:00+00:00,Arsenal,Liverpool,0.0,0.0,14025019
+ENG-Premier League,2526,2026-01-17 Chelsea-Brentford,22,22,2026-01-17 15:00:00+00:00,Chelsea,Brentford,2.0,0.0,14025070
+ENG-Premier League,2526,2026-01-17 Leeds United-Fulham,22,22,2026-01-17 15:00:00+00:00,Leeds United,Fulham,1.0,0.0,14025073
+ENG-Premier League,2526,2026-01-17 Liverpool-Burnley,22,22,2026-01-17 15:00:00+00:00,Liverpool,Burnley,1.0,1.0,14025076
+ENG-Premier League,2526,2026-01-17 Manchester United-Manchester City,22,22,2026-01-17 12:30:00+00:00,Manchester United,Manchester City,2.0,0.0,14025079
+ENG-Premier League,2526,2026-01-17 Nottingham Forest-Arsenal,22,22,2026-01-17 17:30:00+00:00,Nottingham Forest,Arsenal,0.0,0.0,14025082
+ENG-Premier League,2526,2026-01-17 Sunderland-Crystal Palace,22,22,2026-01-17 15:00:00+00:00,Sunderland,Crystal Palace,2.0,1.0,14025085
+ENG-Premier League,2526,2026-01-17 Tottenham Hotspur-West Ham United,22,22,2026-01-17 15:00:00+00:00,Tottenham Hotspur,West Ham United,1.0,2.0,14025089
+ENG-Premier League,2526,2026-01-18 Aston Villa-Everton,22,22,2026-01-18 16:30:00+00:00,Aston Villa,Everton,0.0,1.0,14025064
+ENG-Premier League,2526,2026-01-18 Wolverhampton-Newcastle United,22,22,2026-01-18 14:00:00+00:00,Wolverhampton,Newcastle United,0.0,0.0,14025092
+ENG-Premier League,2526,2026-01-19 Brighton & Hove Albion-Bournemouth,22,22,2026-01-19 20:00:00+00:00,Brighton & Hove Albion,Bournemouth,1.0,1.0,15129445

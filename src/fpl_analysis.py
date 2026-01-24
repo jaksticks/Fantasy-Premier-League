@@ -94,13 +94,23 @@ def data_retrieval(latest_gameweek: int, season_folder: str, teams:list):
     #fbref_fixtures = fbref_fixtures[fbref_fixtures['xG'].notnull()]
     #fbref_fixtures = fbref_fixtures.rename(columns={'xG':'xG_home', 'xG.1':'xG_away'})
     
-    # now using soccerdata package
-    fbref = sd.FBref('ENG-Premier League', f'20{season_folder[-5:-3]}')
-    fbref_fixtures = fbref.read_schedule()
-    fbref_fixtures = fbref_fixtures[fbref_fixtures.home_xg.notnull()]
+    # now using soccerdata package, now not able to scrape fbref
+    # fbref = sd.FBref('ENG-Premier League', f'20{season_folder[-5:-3]}')
+    # fbref_fixtures = fbref.read_schedule()
+    # fbref_fixtures = fbref_fixtures[fbref_fixtures.home_xg.notnull()]
+    # fbref_fixtures = fbref_fixtures.rename(
+    #     columns={'home_xg':'xG_home', 'away_xg':'xG_away', 'home_team':'Home', 'away_team':'Away'}
+    #     )
+
+    # substituting actual goals for xg data for now
+    #fotmob = sd.FotMob('ENG-Premier League', f'20{season_folder[-5:-3]}')
+    #fbref_fixtures = fotmob.read_schedule()
+    sofascore = sd.Sofascore('ENG-Premier League', f'20{season_folder[-5:-3]}')
+    fbref_fixtures = sofascore.read_schedule()
+    fbref_fixtures = fbref_fixtures[fbref_fixtures.home_score.notnull()]
     fbref_fixtures = fbref_fixtures.rename(
-        columns={'home_xg':'xG_home', 'away_xg':'xG_away', 'home_team':'Home', 'away_team':'Away'}
-        )
+         columns={'home_score':'xG_home', 'away_score':'xG_away', 'home_team':'Home', 'away_team':'Away'}
+         )
 
     # save data
     filepath = Path(f'{season_folder}/data/fixtures/fbref_fixtures.csv')
