@@ -187,6 +187,7 @@ def adjust_projections(projections, projections_pivot, latest_gameweek: int):
     new_rows = pd.DataFrame(new_rows)
     new_rows['Pos'] = new_rows['Pos'].map(position_dict)
     projections_pivot = pd.concat([projections_pivot, new_rows], ignore_index=True)
+    projections_pivot = projections_pivot.fillna(0)
 
     filepath = Path('../FPL-Optimization-Tools/data/projections.csv')
     projections_pivot.to_csv(filepath)
