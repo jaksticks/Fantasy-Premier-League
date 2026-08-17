@@ -1,5 +1,5 @@
 {
-    "SEASON_FOLDER" : "season25_26", 
+    "SEASON_FOLDER" : "season26_27", 
     "MODEL_FILE_NAME" : "xgboost_20250813-095840.pkl",
-    "TEAMS": "Arsenal,Aston Villa,Burnley,Bournemouth,Brentford,Brighton,Chelsea,Crystal Palace,Everton,Fulham,Leeds United,Liverpool,Manchester City,Manchester Utd,Newcastle Utd,Nottingham Forest,Sunderland,Tottenham,West Ham,Wolves" 
+    "TEAMS": "Arsenal,Aston Villa,Bournemouth,Brentford,Brighton,Chelsea,Coventry City,Crystal Palace,Everton,Fulham,Hull City,Ipswich Town,Leeds United,Liverpool,Manchester City,Manchester Utd,Newcastle Utd,Nottingham Forest,Tottenham,Sunderland" 
 }
