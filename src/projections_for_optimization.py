@@ -61,7 +61,8 @@ def initial_projection_data(latest_gameweek: int, current_season: str, season_fo
     else:
         raise Exception('Check latest_gameweek!')
     fpl_df = pd.read_csv(filepath, index_col=0, low_memory=False)
-    fpl_df = fpl_df[fpl_df.season==current_season]
+    if latest_gameweek>0:
+        fpl_df = fpl_df[fpl_df.season==current_season]
 
     # GET PLAYER IDS AND NAMES FROM FPL DATA TO PROJECTIONS
     df = fpl_df.groupby('name').last().reset_index()[['id', 'name', 'element_type', 'points_per_game', 'total_points',]]    
@@ -104,7 +105,6 @@ def initial_projection_data(latest_gameweek: int, current_season: str, season_fo
     df['Pos'] = df['element_type'].map(position_dict)
     df.rename(columns={'id':'ID'}, inplace=True)   
     projections_pivot = pd.merge(projections_pivot, df[['ID', 'Pos']], on='ID', how='left')
-
     logging.info("Initial projection data creation complete.")
     return projections, projections_pivot
 
@@ -189,7 +189,7 @@ def adjust_projections(projections, projections_pivot, latest_gameweek: int):
     projections_pivot = pd.concat([projections_pivot, new_rows], ignore_index=True)
     projections_pivot = projections_pivot.fillna(0)
 
-    filepath = Path('../FPL-Optimization-Tools/data/projections.csv')
+    filepath = Path('../open-fpl-solver/data/projections.csv')
     projections_pivot.to_csv(filepath)
     logging.info(f'Projection data saved to {filepath}.')
 
