@@ -1,0 +1,31 @@
+league,season,game,round,week,date,Home,Away,xG_home,xG_away,game_id
+ENG-Premier League,2627,2026-08-21 Arsenal-Coventry City,1,1,2026-08-21 19:00:00+00:00,Arsenal,Coventry City,3.0,0.0,16363633
+ENG-Premier League,2627,2026-08-22 Brentford-Tottenham Hotspur,1,1,2026-08-22 16:30:00+00:00,Brentford,Tottenham Hotspur,3.0,0.0,16363242
+ENG-Premier League,2627,2026-08-22 Everton-Crystal Palace,1,1,2026-08-22 14:00:00+00:00,Everton,Crystal Palace,2.0,0.0,16363635
+ENG-Premier League,2627,2026-08-22 Hull City-Manchester United,1,1,2026-08-22 11:30:00+00:00,Hull City,Manchester United,2.0,0.0,16363634
+ENG-Premier League,2627,2026-08-22 Ipswich Town-Sunderland,1,1,2026-08-22 14:00:00+00:00,Ipswich Town,Sunderland,2.0,1.0,16363636
+ENG-Premier League,2627,2026-08-22 Nottingham Forest-Leeds United,1,1,2026-08-22 14:00:00+00:00,Nottingham Forest,Leeds United,0.0,1.0,16363238
+ENG-Premier League,2627,2026-08-23 Brighton & Hove Albion-Aston Villa,1,1,2026-08-23 13:00:00+00:00,Brighton & Hove Albion,Aston Villa,4.0,0.0,16363236
+ENG-Premier League,2627,2026-08-23 Manchester City-Bournemouth,1,1,2026-08-23 13:00:00+00:00,Manchester City,Bournemouth,2.0,1.0,16363243
+ENG-Premier League,2627,2026-08-23 Newcastle United-Liverpool FC,1,1,2026-08-23 15:30:00+00:00,Newcastle United,Liverpool FC,2.0,2.0,16363246
+ENG-Premier League,2627,2026-08-24 Fulham-Chelsea,1,1,2026-08-24 19:00:00+00:00,Fulham,Chelsea,2.0,3.0,16363244
+ENG-Premier League,2627,2026-08-28 Crystal Palace-Manchester City,2,2,2026-08-28 19:00:00+00:00,Crystal Palace,Manchester City,1.0,4.0,16363252
+ENG-Premier League,2627,2026-08-29 Bournemouth-Everton,2,2,2026-08-29 14:00:00+00:00,Bournemouth,Everton,1.0,1.0,16363247
+ENG-Premier League,2627,2026-08-29 Coventry City-Hull City,2,2,2026-08-29 14:00:00+00:00,Coventry City,Hull City,0.0,1.0,16363250
+ENG-Premier League,2627,2026-08-29 Liverpool FC-Nottingham Forest,2,2,2026-08-29 11:30:00+00:00,Liverpool FC,Nottingham Forest,2.0,2.0,16363254
+ENG-Premier League,2627,2026-08-29 Tottenham Hotspur-Newcastle United,2,2,2026-08-29 16:30:00+00:00,Tottenham Hotspur,Newcastle United,0.0,2.0,16363256
+ENG-Premier League,2627,2026-08-30 Chelsea-Brighton & Hove Albion,2,2,2026-08-30 13:00:00+00:00,Chelsea,Brighton & Hove Albion,4.0,3.0,16363249
+ENG-Premier League,2627,2026-08-30 Leeds United-Brentford,2,2,2026-08-30 13:00:00+00:00,Leeds United,Brentford,1.0,1.0,16363266
+ENG-Premier League,2627,2026-08-30 Manchester United-Ipswich Town,2,2,2026-08-30 15:30:00+00:00,Manchester United,Ipswich Town,5.0,2.0,16363253
+ENG-Premier League,2627,2026-08-30 Sunderland-Fulham,2,2,2026-08-30 13:00:00+00:00,Sunderland,Fulham,1.0,0.0,16363255
+ENG-Premier League,2627,2026-08-31 Aston Villa-Arsenal,2,2,2026-08-31 19:00:00+00:00,Aston Villa,Arsenal,0.0,1.0,16363245
+ENG-Premier League,2627,2026-09-04 Ipswich Town-Liverpool FC,3,3,2026-09-04 19:00:00+00:00,Ipswich Town,Liverpool FC,0.0,2.0,16363261
+ENG-Premier League,2627,2026-09-05 Brentford-Sunderland,3,3,2026-09-05 14:00:00+00:00,Brentford,Sunderland,1.0,1.0,16363260
+ENG-Premier League,2627,2026-09-05 Brighton & Hove Albion-Leeds United,3,3,2026-09-05 14:00:00+00:00,Brighton & Hove Albion,Leeds United,1.0,1.0,16363258
+ENG-Premier League,2627,2026-09-05 Fulham-Crystal Palace,3,3,2026-09-05 14:00:00+00:00,Fulham,Crystal Palace,2.0,3.0,16363269
+ENG-Premier League,2627,2026-09-05 Hull City-Aston Villa,3,3,2026-09-05 16:30:00+00:00,Hull City,Aston Villa,0.0,0.0,16363262
+ENG-Premier League,2627,2026-09-05 Manchester City-Coventry City,3,3,2026-09-05 14:00:00+00:00,Manchester City,Coventry City,1.0,0.0,16363263
+ENG-Premier League,2627,2026-09-05 Newcastle United-Bournemouth,3,3,2026-09-05 11:30:00+00:00,Newcastle United,Bournemouth,2.0,2.0,16363637
+ENG-Premier League,2627,2026-09-05 Nottingham Forest-Tottenham Hotspur,3,3,2026-09-05 14:00:00+00:00,Nottingham Forest,Tottenham Hotspur,0.0,0.0,16363638
+ENG-Premier League,2627,2026-09-06 Arsenal-Chelsea,3,3,2026-09-06 15:30:00+00:00,Arsenal,Chelsea,2.0,1.0,16363257
+ENG-Premier League,2627,2026-09-06 Everton-Manchester United,3,3,2026-09-06 13:00:00+00:00,Everton,Manchester United,2.0,2.0,16363259
