@@ -105,12 +105,18 @@ def data_retrieval(latest_gameweek: int, season_folder: str, teams:list):
     # substituting actual goals for xg data for now
     #fotmob = sd.FotMob('ENG-Premier League', f'20{season_folder[-5:-3]}')
     #fbref_fixtures = fotmob.read_schedule()
-    sofascore = sd.Sofascore('ENG-Premier League', f'20{season_folder[-5:-3]}')
-    fbref_fixtures = sofascore.read_schedule()
-    fbref_fixtures = fbref_fixtures[fbref_fixtures.home_score.notnull()]
+    # sofascore = sd.Sofascore('ENG-Premier League', f'20{season_folder[-5:-3]}')
+    # fbref_fixtures = sofascore.read_schedule()
+    # fbref_fixtures = fbref_fixtures[fbref_fixtures.home_score.notnull()]
+    # fbref_fixtures = fbref_fixtures.rename(
+    #      columns={'home_score':'xG_home', 'away_score':'xG_away', 'home_team':'Home', 'away_team':'Away'}
+    #      )
+
+    match_history = sd.MatchHistory(leagues='ENG-Premier League', seasons=f'20{season_folder[-5:-3]}')
+    fbref_fixtures = match_history.read_games()
     fbref_fixtures = fbref_fixtures.rename(
-         columns={'home_score':'xG_home', 'away_score':'xG_away', 'home_team':'Home', 'away_team':'Away'}
-         )
+        columns={'HxG':'xG_home', 'AxG':'xG_away', 'home_team':'Home', 'away_team':'Away'}
+        )
 
     # save data
     filepath = Path(f'{season_folder}/data/fixtures/fbref_fixtures.csv')
